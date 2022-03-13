@@ -1,0 +1,2076 @@
+,uniprot_id,uniprot_label,go_class_id,uniprot_name,entity_type,date
+0,A0A0B4J245,TRAV12-1,GO:0042101,T cell receptor alpha variable 12-1,protein,20201128
+1,A0A0B4J244,TRAV3,GO:0042101,T cell receptor alpha variable 3,protein,20201128
+2,A0A0B4J241,TRAV13-1,GO:0042101,T cell receptor alpha variable 13-1,protein,20201128
+3,A0A0B4J240,TRAV10,GO:0042101,T cell receptor alpha variable 10,protein,20201128
+4,A0A0B4J235,TRAV13-2,GO:0042101,T cell receptor alpha variable 13-2,protein,20201128
+5,A0A0B4J234,TRAV2,GO:0042101,T cell receptor alpha variable 2,protein,20201128
+7,O14931,NCR3,GO:0005886,Natural cytotoxicity triggering receptor 3,protein,20150312
+10,O14920,IKBKB,GO:0035631,Inhibitor of nuclear factor kappa-B kinase subunit beta,protein,20110110
+11,A0A0B4J200,TRBJ2-3,GO:0042101,T cell receptor beta joining 2-3,protein,20201128
+12,Q4JDL3,PTPN20,GO:0005654,Tyrosine-protein phosphatase non-receptor type 20,protein,20170614
+16,Q12879,GRIN2A,GO:0005783,"Glutamate receptor ionotropic, NMDA 2A",protein,20201128
+40,Q12866,MERTK,GO:0001750,Tyrosine-protein kinase Mer,protein,20201128
+48,Q13651,IL10RA,GO:0005829,Interleukin-10 receptor subunit alpha,protein,20201119
+60,A6NM76,OR6C76,GO:0005886,Olfactory receptor 6C76,protein,20130516
+62,P50406,HTR6,GO:0005886,5-hydroxytryptamine receptor 6,protein,20130528
+70,P04626,ERBB2,GO:0005634,Receptor tyrosine-protein kinase erbB-2,protein,20110823
+128,B4DS77,SHISA9,GO:0008328,Protein shisa-9,protein,20100305
+130,P57105,SYNJ2BP,GO:0008328,Synaptojanin-2-binding protein,protein,20170228
+131,Q969Z4,RELT,GO:0005654,Tumor necrosis factor receptor superfamily member 19L,protein,20151016
+135,P02787,TF,GO:1990712,Serotransferrin,protein,20150604
+136,Q9BQQ7,RTP3,GO:0005737,Receptor-transporting protein 3,protein,20070321
+139,Q9NTG1,PKDREJ,GO:0016021,Polycystic kidney disease and receptor for egg jelly-related protein,protein,20201128
+141,Q969V1,MCHR2,GO:0005886,Melanin-concentrating hormone receptor 2,protein,20130528
+149,Q9NTI2,ATP8A2,GO:0001750,Phospholipid-transporting ATPase IB,protein,20201128
+150,P40189,IL6ST,GO:0005576,Interleukin-6 receptor subunit beta,protein,20130516
+197,P05106,ITGB3,GO:0008305,Integrin beta-3,protein,20090127
+206,P58180,OR4D2,GO:0005886,Olfactory receptor 4D2,protein,20130516
+208,Q969N4,TAAR8,GO:0005886,Trace amine-associated receptor 8,protein,20201128
+210,P35462,DRD3,GO:0005886,D(3) dopamine receptor,protein,20110525
+226,P16070,CD44,GO:0005794,CD44 antigen,protein,20161204
+254,Q969M1,TOMM40L,GO:0032991,Mitochondrial import receptor subunit TOM40B,protein,20100607
+257,O14843,FFAR3,GO:0005886,Free fatty acid receptor 3,protein,20140707
+263,Q12798,CETN1,GO:0032391,Centrin-1,protein,20200213
+264,Q12796,PNRC1,GO:0005634,Proline-rich nuclear receptor coactivator 1,protein,20200808
+265,O14836,TNFRSF13B,GO:0005886,Tumor necrosis factor receptor superfamily member 13B,protein,20150220
+267,P82279,CRB1,GO:0001750,Protein crumbs homolog 1,protein,20201128
+269,O95136,S1PR2,GO:0005886,Sphingosine 1-phosphate receptor 2,protein,20140701
+277,P37023,ACVRL1,GO:0005886,Serine/threonine-protein kinase receptor R3,protein,20160119
+284,O60667,FCMR,GO:0005576,Fas apoptotic inhibitory molecule 3,protein,20201128
+287,Q93038,TNFRSF25,GO:0005576,Tumor necrosis factor receptor superfamily member 25,protein,20201128
+293,Q14330,GPR18,GO:0005886,N-arachidonyl glycine receptor,protein,20130528
+300,P05111,INHA,GO:0001750,Inhibin alpha chain,protein,20201128
+302,P05107,ITGB2,GO:0008305,Integrin beta-2,protein,20040319
+308,Q9BX84,TRPM6,GO:0005886,Transient receptor potential cation channel subfamily M member 6,protein,20130516
+312,A0A087WZ39,TRBV15,GO:0005886,T cell receptor beta variable 15 (Fragment),protein,20200809
+313,P35869,AHR,GO:0000785,Aryl hydrocarbon receptor,protein,20190405
+330,P03986,TRGC2,GO:0005887,T cell receptor gamma constant 2,protein,20010912
+333,P20023,CR2,GO:0005886,Complement receptor type 2,protein,20160715
+338,P03979,TRGV3,GO:0005886,T cell receptor gamma variable 3,protein,20030404
+341,P47211,GALR1,GO:0005654,Galanin receptor type 1,protein,20201119
+349,Q9H4R4,NCOR1P1,GO:0000118,Putative nuclear receptor corepressor 1-like protein NCOR1P1,protein,20200924
+352,P54753,EPHB3,GO:0005576,Ephrin type-B receptor 3,protein,20130722
+391,Q9NQ84,GPRC5C,GO:0005887,G-protein coupled receptor family C group 5 member C,protein,20050308
+401,P15328,FOLR1,GO:0000139,Folate receptor alpha,protein,20151109
+436,P05067,APP,GO:0043235,Amyloid-beta precursor protein,protein,20131231
+437,P15311,EZR,GO:0005886,Ezrin,protein,20150318
+439,P15309,ACP3,GO:0012506,Prostatic acid phosphatase,protein,20131119
+440,P30273,FCER1G,GO:0005886,High affinity immunoglobulin epsilon receptor subunit gamma,protein,20130503
+473,Q9BXA5,SUCNR1,GO:0005886,Succinate receptor 1,protein,20130516
+479,Q9UNE0,EDAR,GO:0005886,Tumor necrosis factor receptor superfamily member EDAR,protein,20150130
+484,O95047,OR2A4,GO:0005886,Olfactory receptor 2A4,protein,20130528
+491,P30203,CD6,GO:0001772,T-cell differentiation antigen CD6,protein,20151028
+497,Q14289,PTK2B,GO:0017146,Protein-tyrosine kinase 2-beta,protein,20140515
+498,O95013,OR4F21,GO:0005886,Olfactory receptor 4F21,protein,20130528
+500,O95007,OR6B1,GO:0005886,Olfactory receptor 6B1,protein,20130516
+502,O95006,OR2F2,GO:0005886,Olfactory receptor 2F2,protein,20130528
+504,P18433,PTPRA,GO:0005886,Receptor-type tyrosine-protein phosphatase alpha,protein,20130528
+515,Q70E73,RAPH1,GO:0005829,Ras-associated and pleckstrin homology domains-containing protein 1,protein,20100326
+523,P51686,CCR9,GO:0005886,C-C chemokine receptor type 9,protein,20130516
+530,Q9P2E2,KIF17,GO:0032391,Kinesin-like protein KIF17,protein,20201128
+531,Q5TGU0,TSPO2,GO:0005783,Translocator protein 2,protein,20091117
+538,P48145,NPBWR1,GO:0005886,Neuropeptides B/W receptor type 1,protein,20130528
+546,P48169,GABRA4,GO:0005886,Gamma-aminobutyric acid receptor subunit alpha-4,protein,20130516
+556,Q7L985,LINGO2,GO:0016021,Leucine-rich repeat and immunoglobulin-like domain-containing nogo receptor-interacting protein 2,protein,20201128
+559,P21918,DRD5,GO:0005886,D(1B) dopamine receptor,protein,20071129
+574,P21917,DRD4,GO:0005886,D(4) dopamine receptor,protein,20150506
+589,P08172,CHRM2,GO:0005886,Muscarinic acetylcholine receptor M2,protein,20100607
+618,Q7RTX1,TAS1R1,GO:0005886,Taste receptor type 1 member 1,protein,20130528
+624,Q7RTX0,TAS1R3,GO:0005886,Taste receptor type 1 member 3,protein,20130528
+632,Q9Y366,IFT52,GO:0032391,Intraflagellar transport protein 52 homolog,protein,20201128
+633,Q8N349,OR2L13,GO:0005886,Olfactory receptor 2L13,protein,20130516
+635,Q9HBE5,IL21R,GO:0005886,Interleukin-21 receptor,protein,20170511
+641,O00628,PEX7,GO:0005777,Peroxisomal targeting signal 2 receptor,protein,20120305
+656,Q8N2Q7,NLGN1,GO:0017146,Neuroligin-1,protein,20201128
+658,Q9HBG6,IFT122,GO:0032391,Intraflagellar transport protein 122 homolog,protein,20100805
+659,P08138,NGFR,GO:0005576,Tumor necrosis factor receptor superfamily member 16,protein,20130528
+704,Q7Z2W7,TRPM8,GO:0005789,Transient receptor potential cation channel subfamily M member 8,protein,20201128
+710,Q7RTR8,TAS2R42,GO:0005886,Taste receptor type 2 member 42,protein,20130528
+716,A4D2G3,OR2A25,GO:0005886,Olfactory receptor 2A25,protein,20130528
+718,Q86VZ4,LRP11,GO:0005886,Low-density lipoprotein receptor-related protein 11,protein,20150508
+720,Q8N2K0,ABHD12,GO:0032281,Lysophosphatidylserine lipase ABHD12,protein,20201128
+721,Q05901,CHRNB3,GO:0005886,Neuronal acetylcholine receptor subunit beta-3,protein,20130528
+731,Q92570,NR4A3,GO:0000785,Nuclear receptor subfamily 4 group A member 3,protein,20190405
+737,Q8TF76,HASPIN,GO:0005634,Serine/threonine-protein kinase haspin,protein,20080626
+745,P47883,OR3A4P,GO:0005886,Putative olfactory receptor 3A4,protein,20130503
+747,Q9HC73,CRLF2,GO:0005576,Cytokine receptor-like factor 2,protein,20201128
+755,Q9HBW9,ADGRL4,GO:0005886,Adhesion G protein-coupled receptor L4,protein,20150623
+759,Q9HBX8,LGR6,GO:0005886,Leucine-rich repeat-containing G-protein coupled receptor 6,protein,20130927
+765,Q8TCB6,OR51E1,GO:0005886,Olfactory receptor 51E1,protein,20130528
+768,Q8TEZ7,PAQR8,GO:0005794,Membrane progestin receptor beta,protein,20151016
+772,Q96B49,TOMM6,GO:0005739,Mitochondrial import receptor subunit TOM6 homolog,protein,20080818
+776,Q96RB7,OR5M11,GO:0005886,Olfactory receptor 5M11,protein,20130516
+778,A6NIJ9,OR6C70,GO:0005886,Olfactory receptor 6C70,protein,20130516
+780,Q02223,TNFRSF17,GO:0005886,Tumor necrosis factor receptor superfamily member 17,protein,20150220
+783,Q9GZK6,OR2J1,GO:0005886,Olfactory receptor 2J1,protein,20130528
+785,Q9GZK7,OR11A1,GO:0005886,Olfactory receptor 11A1,protein,20130516
+787,O14581,OR7A17,GO:0005886,Olfactory receptor 7A17,protein,20130516
+789,Q9GZM6,OR8D2,GO:0005886,Olfactory receptor 8D2,protein,20130516
+791,O14522,PTPRT,GO:0005886,Receptor-type tyrosine-protein phosphatase T,protein,20081211
+797,O14514,ADGRB1,GO:0001891,Adhesion G protein-coupled receptor B1,protein,20170704
+812,Q9GZU1,MCOLN1,GO:0043235,Mucolipin-1,protein,20131227
+813,P50052,AGTR2,GO:0005886,Type-2 angiotensin II receptor,protein,20130528
+820,A0A2R8YED5,OR5BS1P,GO:0005886,Olfactory receptor,protein,20201128
+822,A6NI73,LILRA5,GO:0005576,Leukocyte immunoglobulin-like receptor subfamily A member 5,protein,20201128
+826,P60201,PLP1,GO:0034683,Myelin proteolipid protein,protein,20201128
+827,A6NHG9,OR5H14,GO:0005886,Olfactory receptor 5H14,protein,20130516
+829,Q9BUZ4,TRAF4,GO:0001650,TNF receptor-associated factor 4,protein,20201119
+839,A6NHA9,OR4C46,GO:0005886,Olfactory receptor 4C46,protein,20130516
+841,A0A0B4J237,TRAV8-2,GO:0042101,T cell receptor alpha variable 8-2,protein,20201128
+842,Q13304,GPR17,GO:0005886,Uracil nucleotide/cysteinyl leukotriene receptor,protein,20130516
+851,A0A0B4J248,TRAV1-1,GO:0042101,T cell receptor alpha variable 1-1,protein,20201128
+852,A0A0B4J249,TRAV5,GO:0042101,T cell receptor alpha variable 5,protein,20201128
+853,Q9P2B2,PTGFRN,GO:0005789,Prostaglandin F2 receptor negative regulator,protein,20201128
+857,A0A0B4J262,TRAV8-6,GO:0042101,T cell receptor alpha variable 8-6,protein,20201128
+858,A0A0B4J264,TRAV38-1,GO:0042101,T cell receptor alpha variable 38-1,protein,20201128
+860,A0A0B4J265,TRAV26-2,GO:0042101,T cell receptor alpha variable 26-2,protein,20201128
+861,A0A0B4J266,TRAV41,GO:0042101,T cell receptor alpha variable 41,protein,20201128
+862,A0A0B4J268,TRAV4,GO:0042101,T cell receptor alpha variable 4,protein,20201128
+863,P78310,CXADR,GO:0001669,Coxsackievirus and adenovirus receptor,protein,20110927
+887,A0A0B4J271,TRAV12-3,GO:0042101,T cell receptor alpha variable 12-3,protein,20201128
+888,A0A0B4J272,TRAV24,GO:0042101,T cell receptor alpha variable 24,protein,20201128
+889,A0A0B4J273,TRAV34,GO:0042101,T cell receptor alpha variable 34,protein,20201128
+890,A0A0B4J276,TRAV25,GO:0042101,T cell receptor alpha variable 25,protein,20201128
+891,A0A0B4J279,TRAV21,GO:0042101,T cell receptor alpha variable 21,protein,20201128
+892,Q01974,ROR2,GO:0005874,Tyrosine-protein kinase transmembrane receptor ROR2,protein,20201128
+901,P46663,BDKRB1,GO:0005783,B1 bradykinin receptor,protein,20030904
+912,A6NFC9,OR2W5P,GO:0005886,Putative olfactory receptor 2W5 pseudogene,protein,20130516
+914,Q9NZS2,KLRF1,GO:0005886,Killer cell lectin-like receptor subfamily F member 1,protein,20150312
+917,A0A0J9YWX3,TRBJ1-6,GO:0042101,T cell receptor beta joining 1-6,protein,20201128
+918,P23416,GLRA2,GO:0005886,Glycine receptor subunit alpha-2,protein,20130516
+927,P23415,GLRA1,GO:0005783,Glycine receptor subunit alpha-1,protein,20201128
+953,Q9BXB1,LGR4,GO:0005886,Leucine-rich repeat-containing G-protein coupled receptor 4,protein,20130927
+958,A0A087X0K7,TRBV17,GO:0042101,Probable non-functional T cell receptor beta variable 17,protein,20201128
+960,Q13507,TRPC3,GO:0005886,Short transient receptor potential channel 3,protein,20130528
+966,Q8N6C8,LILRA3,GO:0005576,Leukocyte immunoglobulin-like receptor subfamily A member 3,protein,20201128
+973,Q8N6C5,IGSF1,GO:0005576,Immunoglobulin superfamily member 1,protein,20201128
+976,A0A0J9YX65,TRBV5-3,GO:0005886,T cell receptor beta variable 5-3 (non-functional) (Fragment),protein,20200809
+977,Q7Z6J2,TAMALIN,GO:0014069,Protein TAMALIN,protein,20201128
+984,Q9BXE9,VN1R3,GO:0005886,Vomeronasal type-1 receptor 3,protein,20201128
+986,A0A0J9YWP8,TRBJ1-3,GO:0042101,T cell receptor beta joining 1-3,protein,20201128
+987,A0A0J9YX06,TRBJ1-2,GO:0042101,T cell receptor beta joining 1-2,protein,20201128
+988,A6NF89,OR6C6,GO:0005811,Olfactory receptor 6C6,protein,20201119
+992,A0A2R8YEV3,OR2A42,GO:0005886,Olfactory receptor,protein,20201128
+994,Q494W8,CHRFAM7A,GO:0005892,CHRNA7-FAM7A fusion protein,protein,20200808
+995,A6NET4,OR5K3,GO:0005886,Olfactory receptor 5K3,protein,20130516
+997,A6NF34,ANTXRL,GO:0016021,Anthrax toxin receptor-like,protein,20201128
+1000,Q9BY15,ADGRE3,GO:0005576,Adhesion G protein-coupled receptor E3,protein,20201128
+1007,Q9BY21,GPR87,GO:0005886,G-protein coupled receptor 87,protein,20201128
+1009,P01737,TRAV8-4,GO:0005886,T cell receptor alpha variable 8-4,protein,20030404
+1028,P01733,TRBV12-3,GO:0005886,T cell receptor beta variable 12-3,protein,20030404
+1048,P01732,CD8A,GO:0042101,T-cell surface glycoprotein CD8 alpha chain,protein,20021018
+1049,A0A0B4J238,TRAV1-2,GO:0042101,T cell receptor alpha variable 1-2,protein,20201128
+1050,P28908,TNFRSF8,GO:0005737,Tumor necrosis factor receptor superfamily member 8,protein,20201128
+1055,Q9UBG0,MRC2,GO:0005925,C-type mannose receptor 2,protein,20140715
+1058,P55259,GP2,GO:0005576,Pancreatic secretory granule membrane major glycoprotein GP2,protein,20160929
+1065,A0A2R8YEH3,LOC112268384,GO:0005886,Olfactory receptor,protein,20201128
+1067,A0A2R8YEG4,OR2A1,GO:0005886,Olfactory receptor,protein,20201128
+1069,Q7Z5R6,APBB1IP,GO:0005829,Amyloid beta A4 precursor protein-binding family B member 1-interacting protein,protein,20151016
+1098,Q7Z602,GPR141,GO:0005886,Probable G-protein coupled receptor 141,protein,20201128
+1100,Q7Z601,GPR142,GO:0005829,Probable G-protein coupled receptor 142,protein,20101115
+1104,Q9Y3R0,GRIP1,GO:0005789,Glutamate receptor-interacting protein 1,protein,20201128
+1119,Q9UBK2,PPARGC1A,GO:0000785,Peroxisome proliferator-activated receptor gamma coactivator 1-alpha,protein,20200619
+1137,P58170,OR1D5,GO:0005886,Olfactory receptor 1D5,protein,20201128
+1139,Q13608,PEX6,GO:0001750,Peroxisome assembly factor 2,protein,20201128
+1141,P11912,CD79A,GO:0005771,B-cell antigen receptor complex-associated protein alpha chain,protein,20070802
+1157,P58181,OR10A3,GO:0005886,Olfactory receptor 10A3,protein,20130528
+1159,P58182,OR12D2,GO:0005886,Olfactory receptor 12D2,protein,20130528
+1161,P18627,LAG3,GO:0005576,Lymphocyte activation gene 3 protein,protein,20201128
+1165,Q7Z5H5,VN1R4,GO:0005886,Vomeronasal type-1 receptor 4,protein,20201128
+1167,Q7Z5H4,VN1R5,GO:0005886,Vomeronasal type-1 receptor 5,protein,20201128
+1169,Q14246,ADGRE1,GO:0005887,Adhesion G protein-coupled receptor E1,protein,20201205
+1170,P05023,ATP1A1,GO:0060342,Sodium/potassium-transporting ATPase subunit alpha-1,protein,20190918
+1171,Q02846,GUCY2D,GO:0001750,Retinal guanylyl cyclase 1,protein,20190829
+1174,Q96LB2,MRGPRX1,GO:0005886,Mas-related G-protein coupled receptor member X1,protein,20201128
+1177,Q9UNN8,PROCR,GO:0005576,Endothelial protein C receptor,protein,20140721
+1190,Q14213,EBI3,GO:0005576,Interleukin-27 subunit beta,protein,20161011
+1231,A0A5A6,TRBV11-3,GO:0042101,T cell receptor beta variable 11-3,protein,20201128
+1233,O15173,PGRMC2,GO:0005635,Membrane-associated progesterone receptor component 2,protein,20160525
+1241,P15260,IFNGR1,GO:0005886,Interferon gamma receptor 1,protein,20190905
+1254,A0A0K0K1G8,TRBV10-2,GO:0042101,T cell receptor beta variable 10-2,protein,20201128
+1256,A0A0K0K1G6,TRBV10-3,GO:0042101,T cell receptor beta variable 10-3,protein,20201128
+1258,A0A0K0K1E9,TRBV7-7,GO:0042101,T cell receptor beta variable 7-7,protein,20201128
+1260,A0A0K0K1D8,TRBV6-1,GO:0042101,T cell receptor beta variable 6-1,protein,20201128
+1262,Q9H665,IGFLR1,GO:0005886,IGF-like family receptor 1,protein,20110412
+1265,A0A0K0K1C4,TRBV27,GO:0042101,T cell receptor beta variable 27,protein,20201128
+1267,A0A0K0K1C0,TRBV11-1,GO:0042101,T cell receptor beta variable 11-1,protein,20201128
+1269,Q9C0E4,GRIP2,GO:0005829,Glutamate receptor-interacting protein 2,protein,20130213
+1274,A0A0K0K1B3,TRBV30,GO:0042101,T cell receptor beta variable 30,protein,20201128
+1276,A0A0K0K1A5,TRBV6-5,GO:0042101,T cell receptor beta variable 6-5,protein,20201128
+1278,A0A0K0K1A3,TRBV10-1,GO:0042101,T cell receptor beta variable 10-1,protein,20201128
+1280,Q86SQ4,ADGRG6,GO:0005737,Adhesion G-protein coupled receptor G6,protein,20191112
+1286,Q6ZN44,UNC5A,GO:0005886,Netrin receptor UNC5A,protein,20090525
+1292,P60893,GPR85,GO:0005783,Probable G-protein coupled receptor 85,protein,20150924
+1296,P60880,SNAP25,GO:0001917,Synaptosomal-associated protein 25,protein,20201128
+1297,Q14162,SCARF1,GO:0005886,Scavenger receptor class F member 1,protein,20130516
+1300,Q14161,GIT2,GO:0005654,ARF GTPase-activating protein GIT2,protein,20060117
+1302,Q14160,SCRIB,GO:0008328,Protein scribble homolog,protein,20170228
+1303,Q9BY60,GABARAPL3,GO:0005874,Gamma-aminobutyric acid receptor-associated protein-like 3,protein,20201128
+1308,Q02763,TEK,GO:0005576,Angiopoietin-1 receptor,protein,20201128
+1339,O60883,GPR37L1,GO:0005886,G-protein coupled receptor 37-like 1,protein,20180816
+1349,Q969J5,IL22RA2,GO:0005576,Interleukin-22 receptor subunit alpha-2,protein,20091203
+1355,P35410,MAS1L,GO:0005654,Mas-related G-protein coupled receptor MRG,protein,20100326
+1359,O14804,TAAR5,GO:0005887,Trace amine-associated receptor 5,protein,20130614
+1360,P50391,NPY4R,GO:0005886,Neuropeptide Y receptor type 4,protein,20130528
+1367,Q969F8,KISS1R,GO:0005886,KiSS-1 receptor,protein,20151016
+1377,A0A0A0MTA7,TRBJ2-1,GO:0042101,T cell receptor beta joining 2-1,protein,20201128
+1378,A0A0A0MTA4,TRBJ2-5,GO:0042101,T cell receptor beta joining 2-5,protein,20201128
+1379,P57078,RIPK4,GO:0005737,Receptor-interacting serine/threonine-protein kinase 4,protein,20120320
+1381,A6NL88,SHISA7,GO:0032281,Protein shisa-7,protein,20191128
+1383,Q9BRK0,REEP2,GO:0005783,Receptor expression-enhancing protein 2,protein,20140407
+1390,A0A0A0MT94,TRBJ2-2,GO:0042101,T cell receptor beta joining 2-2,protein,20201128
+1391,A0A0A0MT87,TRBJ2-4,GO:0042101,T cell receptor beta joining 2-4,protein,20201128
+1392,P41235,HNF4A,GO:0000785,Hepatocyte nuclear factor 4-alpha,protein,20190405
+1399,A0A0A0MT78,TRBJ2-7,GO:0042101,T cell receptor beta joining 2-7,protein,20201128
+1400,A0A0A0MT70,TRBJ2-6,GO:0042101,T cell receptor beta joining 2-6,protein,20201128
+1401,A6NL26,OR5B21,GO:0005886,Olfactory receptor 5B21,protein,20130516
+1403,A6NL08,OR6C75,GO:0005886,Olfactory receptor 6C75,protein,20130516
+1405,P25116,F2R,GO:0005576,Proteinase-activated receptor 1,protein,20130528
+1436,P13726,F3,GO:0005615,Tissue factor,protein,20090416
+1451,P25106,ACKR3,GO:0005634,Atypical chemokine receptor 3,protein,20201128
+1467,P25105,PTAFR,GO:0005886,Platelet-activating factor receptor,protein,20130528
+1481,P25103,TACR1,GO:0005886,Substance-P receptor,protein,20080206
+1492,P25101,EDNRA,GO:0005886,Endothelin-1 receptor,protein,20130528
+1497,P25100,ADRA1D,GO:0005886,Alpha-1D adrenergic receptor,protein,20130528
+1505,P55899,FCGRT,GO:0010008,IgG receptor FcRn large subunit p51,protein,20201128
+1509,A6NKK0,OR5H1,GO:0005886,Olfactory receptor 5H1,protein,20130516
+1511,P60520,GABARAPL2,GO:0000139,Gamma-aminobutyric acid receptor-associated protein-like 2,protein,20080530
+1535,O14798,TNFRSF10C,GO:0005886,Tumor necrosis factor receptor superfamily member 10C,protein,20180503
+1540,P35398,RORA,GO:0000785,Nuclear receptor ROR-alpha,protein,20190405
+1548,O14786,NRP1,GO:0002116,Neuropilin-1,protein,20110907
+1550,P61073,CXCR4,GO:0005634,C-X-C chemokine receptor type 4,protein,20201128
+1585,P35372,OPRM1,GO:0005768,Mu-type opioid receptor,protein,20170109
+1613,P35368,ADRA1B,GO:0005634,Alpha-1B adrenergic receptor,protein,20120629
+1627,P35367,HRH1,GO:0005829,Histamine H1 receptor,protein,20161204
+1638,O14764,GABRD,GO:0034707,Gamma-aminobutyric acid receptor subunit delta,protein,20201128
+1644,O14763,TNFRSF10B,GO:0005886,Tumor necrosis factor receptor superfamily member 10B,protein,20130528
+1661,Q9BZJ6,GPR63,GO:0005654,Probable G-protein coupled receptor 63,protein,20161204
+1666,Q9BZJ8,GPR61,GO:0005768,G-protein coupled receptor 61,protein,20180305
+1674,P35348,ADRA1A,GO:0005634,Alpha-1A adrenergic receptor,protein,20120629
+1697,P35346,SSTR5,GO:0005886,Somatostatin receptor type 5,protein,20161204
+1704,Q13733,ATP1A4,GO:0097733,Sodium/potassium-transporting ATPase subunit alpha-4,protein,20190919
+1706,P23945,FSHR,GO:0005886,Follicle-stimulating hormone receptor,protein,20170217
+1714,P23942,PRPH2,GO:0001750,Peripherin-2,protein,20201128
+1716,Q08334,IL10RB,GO:0005886,Interleukin-10 receptor subunit beta,protein,20091203
+1745,O14718,RRH,GO:0001750,Visual pigment-like receptor peropsin,protein,20210129
+1747,Q07954,LRP1,GO:0005634,Prolow-density lipoprotein receptor-related protein 1,protein,20201128
+1770,A6NJZ3,OR6C65,GO:0005886,Olfactory receptor 6C65,protein,20130516
+1772,A0A0G2JPC4,KIR2DL5B,GO:0016021,Killer cell immunoglobulin-like receptor,protein,20201128
+1773,P36544,CHRNA7,GO:0005886,Neuronal acetylcholine receptor subunit alpha-7,protein,20070411
+1788,P36575,ARR3,GO:0001750,Arrestin-C,protein,20201128
+1790,P13056,NR2C1,GO:0000785,Nuclear receptor subfamily 2 group C member 1,protein,20190405
+1793,Q8N573,OXR1,GO:0005739,Oxidation resistance protein 1,protein,20201128
+1795,A0A5S8K742,GLRA4,GO:0005887,Glycine receptor alpha 4 (pseudogene),protein,20201128
+1799,Q8N4S7,PAQR4,GO:0016021,Progestin and adipoQ receptor family member 4,protein,20201128
+1800,P28827,PTPRM,GO:0005737,Receptor-type tyrosine-protein phosphatase mu,protein,20081218
+1808,A6NDL8,OR6C68,GO:0005886,Olfactory receptor 6C68,protein,20130516
+1810,P55157,MTTP,GO:0043235,Microsomal triglyceride transfer protein large subunit,protein,20131227
+1811,A6NDH6,OR5H15,GO:0005886,Olfactory receptor 5H15,protein,20130516
+1813,Q8TDT2,GPR152,GO:0005886,Probable G-protein coupled receptor 152,protein,20201128
+1815,Q8N4H5,TOMM5,GO:0005739,Mitochondrial import receptor subunit TOM5 homolog,protein,20120912
+1820,Q7Z4N2,TRPM1,GO:0005886,Transient receptor potential cation channel subfamily M member 1,protein,20130516
+1822,P18564,ITGB6,GO:0008305,Integrin beta-6,protein,20030904
+1827,P18545,PDE6G,GO:0097381,"Retinal rod rhodopsin-sensitive cGMP 3',5'-cyclic phosphodiesterase subunit gamma",protein,20130213
+1830,P18510,IL1RN,GO:0005615,Interleukin-1 receptor antagonist protein,protein,20110804
+1837,Q13740,ALCAM,GO:0042101,CD166 antigen,protein,20151028
+1838,P18507,GABRG2,GO:0005886,Gamma-aminobutyric acid receptor subunit gamma-2,protein,20130516
+1853,P18505,GABRB1,GO:0005635,Gamma-aminobutyric acid receptor subunit beta-1,protein,20201128
+1869,Q7Z4F1,LRP10,GO:0005905,Low-density lipoprotein receptor-related protein 10,protein,20201128
+1872,Q2TAL6,VWC2,GO:0032281,Brorin,protein,20190403
+1873,O94910,ADGRL1,GO:0005886,Adhesion G protein-coupled receptor L1,protein,20121115
+1884,A6NCV1,OR6C74,GO:0005886,Olfactory receptor 6C74,protein,20130516
+1886,Q13797,ITGA9,GO:0008305,Integrin alpha-9,protein,20030904
+1888,A6NGY5,OR51F1,GO:0005886,Olfactory receptor 51F1,protein,20130516
+1891,P25929,NPY1R,GO:0005886,Neuropeptide Y receptor type 1,protein,20081217
+1896,P48167,GLRB,GO:0005737,Glycine receptor subunit beta,protein,20201128
+1909,Q9P1Q5,OR1A1,GO:0005886,Olfactory receptor 1A1,protein,20130528
+1911,P08648,ITGA5,GO:0008305,Integrin alpha-5,protein,20030904
+1914,Q9P1P4,TAAR3P,GO:0005886,Putative trace amine-associated receptor 3,protein,20201128
+1916,A0A0J9YYD9,A0A0J9YYD9,GO:0019815,Uncharacterized protein (Fragment),protein,20180504
+1917,Q9HC97,GPR35,GO:0005886,G-protein coupled receptor 35,protein,20160715
+1920,P08637,FCGR3A,GO:0005886,Low affinity immunoglobulin gamma Fc region receptor III-A,protein,20120104
+1939,Q4G0T1,Q4G0T1,GO:0005737,Scavenger receptor cysteine-rich domain-containing protein SCART1,protein,20170530
+1943,Q6PIZ9,TRAT1,GO:0005886,T-cell receptor-associated transmembrane adapter 1,protein,20201119
+1953,Q9HBZ2,ARNT2,GO:0000785,Aryl hydrocarbon receptor nuclear translocator 2,protein,20190405
+1963,A6NGG8,PCARE,GO:0001917,Photoreceptor cilium actin regulator,protein,20171222
+1965,Q68DU8,KCTD16,GO:0043235,BTB/POZ domain-containing protein KCTD16,protein,20201128
+1966,Q496F6,CD300E,GO:0005886,CMRF35-like molecule 2,protein,20130528
+1970,A0A0J9YXY3,TRBV6-2,GO:0042101,T cell receptor beta variable 6-2,protein,20201128
+1972,Q7Z7M1,ADGRD2,GO:0016021,Adhesion G-protein coupled receptor D2,protein,20050505
+1974,Q9NYV8,TAS2R14,GO:0005886,Taste receptor type 2 member 14,protein,20130528
+1981,Q9NYW1,TAS2R9,GO:0005886,Taste receptor type 2 member 9,protein,20130528
+1986,Q9NYW4,TAS2R5,GO:0005886,Taste receptor type 2 member 5,protein,20130528
+1992,Q9NYW5,TAS2R4,GO:0005886,Taste receptor type 2 member 4,protein,20130528
+1999,A0A3B3IT50,A0A3B3IT50,GO:0005887,Uncharacterized protein (Fragment),protein,20201206
+2000,P18825,ADRA2C,GO:0005737,Alpha-2C adrenergic receptor,protein,20100630
+2016,A0A3B3IT45,OR51C1P,GO:0016021,Olfactory receptor,protein,20201128
+2018,A0A0J9YXM7,TRBJ1-5,GO:0042101,T cell receptor beta joining 1-5,protein,20201128
+2019,Q3MIP1,ITPRIPL2,GO:0016021,"Inositol 1,4,5-trisphosphate receptor-interacting protein-like 2",protein,20201128
+2020,Q9P0U1,TOMM7,GO:0005739,Mitochondrial import receptor subunit TOM7 homolog,protein,20081105
+2025,P08588,ADRB1,GO:0005769,Beta-1 adrenergic receptor,protein,20130830
+2035,P01848,TRAC,GO:0005886,T cell receptor alpha chain constant,protein,20130802
+2054,P08571,CD14,GO:0046696,Monocyte differentiation antigen CD14,protein,20150716
+2056,P01589,IL2RA,GO:0005886,Interleukin-2 receptor subunit alpha,protein,20160622
+2078,Q8N3X6,LCORL,GO:0005634,Ligand-dependent nuclear receptor corepressor-like protein,protein,20200504
+2079,A6ND48,OR14I1,GO:0005886,Olfactory receptor 14I1,protein,20130516
+2081,Q70EL2,USP45,GO:0001917,Ubiquitin carboxyl-terminal hydrolase 45,protein,20191115
+2082,Q8IUI8,CRLF3,GO:0005737,Cytokine receptor-like factor 3,protein,20101115
+2086,A6ND01,IZUMO1R,GO:0005576,Sperm-egg fusion protein Juno,protein,20160929
+2089,Q8N441,FGFRL1,GO:0005794,Fibroblast growth factor receptor-like 1,protein,20141205
+2098,Q7Z3Z2,RD3,GO:0001750,Protein RD3,protein,20190829
+2102,Q8N423,LILRB2,GO:0005615,Leukocyte immunoglobulin-like receptor subfamily B member 2,protein,20111125
+2113,P08240,SRPRA,GO:0005785,Signal recognition particle receptor subunit alpha,protein,20201128
+2120,P28702,RXRB,GO:0000785,Retinoic acid receptor RXR-beta,protein,20190405
+2128,P55085,F2RL1,GO:0005769,Proteinase-activated receptor 2,protein,20141010
+2140,P08238,HSP90AB1,GO:0034751,Heat shock protein HSP 90-beta,protein,20161014
+2141,P08235,NR3C2,GO:0000785,Mineralocorticoid receptor,protein,20190405
+2151,P43681,CHRNA4,GO:0005886,Neuronal acetylcholine receptor subunit alpha-4,protein,20080613
+2168,P55055,NR1H2,GO:0000785,Oxysterols receptor LXR-beta,protein,20190405
+2173,Q7Z3T1,OR2W3,GO:0005886,Olfactory receptor 2W3,protein,20130516
+2175,P43657,LPAR6,GO:0005886,Lysophosphatidic acid receptor 6,protein,20090528
+2181,Q7Z443,PKD1L3,GO:0043235,Polycystic kidney disease protein 1-like 3,protein,20141103
+2182,O00590,ACKR2,GO:0005654,Atypical chemokine receptor 2,protein,20161204
+2192,P43632,KIR2DS4,GO:0005886,Killer cell immunoglobulin-like receptor 2DS4,protein,20120525
+2194,P43631,KIR2DS2,GO:0005886,Killer cell immunoglobulin-like receptor 2DS2,protein,20130528
+2197,P43629,KIR3DL1,GO:0005886,Killer cell immunoglobulin-like receptor 3DL1,protein,20130528
+2200,P43628,KIR2DL3,GO:0005886,Killer cell immunoglobulin-like receptor 2DL3,protein,20130528
+2203,P43627,KIR2DL2,GO:0005886,Killer cell immunoglobulin-like receptor 2DL2,protein,20130528
+2205,P43626,KIR2DL1,GO:0005886,Killer cell immunoglobulin-like receptor 2DL1,protein,20091203
+2208,P11717,IGF2R,GO:0005641,Cation-independent mannose-6-phosphate receptor,protein,20201128
+2253,P16284,PECAM1,GO:0005615,Platelet endothelial cell adhesion molecule,protein,20080623
+2274,A0A075B6U4,TRAV7,GO:0042101,T cell receptor alpha variable 7,protein,20201128
+2275,A0A075B6T8,TRAV9-1,GO:0042101,T cell receptor alpha variable 9-1,protein,20201128
+2277,A0A075B6T7,TRAV6,GO:0042101,T cell receptor alpha variable 6,protein,20201128
+2278,A0A075B6T6,TRAV12-2,GO:0042101,T cell receptor alpha variable 12-2,protein,20201128
+2279,A0A075B6S0,TRGJ1,GO:0042101,T cell receptor gamma joining 1,protein,20201128
+2280,A0A075B6R0,TRGV2,GO:0042101,T cell receptor gamma variable 2,protein,20201128
+2282,P28336,NMBR,GO:0005829,Neuromedin-B receptor,protein,20101115
+2289,P28335,HTR2C,GO:0005886,5-hydroxytryptamine receptor 2C,protein,20100614
+2301,Q8WZ94,OR5P3,GO:0005886,Olfactory receptor 5P3,protein,20130516
+2303,Q8WZ92,OR5P2,GO:0005886,Olfactory receptor 5P2,protein,20130516
+2305,P01133,EGF,GO:0005576,Pro-epidermal growth factor,protein,20130729
+2419,P01130,LDLR,GO:0005764,Low-density lipoprotein receptor,protein,20100609
+2472,Q8WZ84,OR8D1,GO:0005886,Olfactory receptor 8D1,protein,20130516
+2474,A0A075B706,TRDJ1,GO:0042101,T cell receptor delta joining 1,protein,20201128
+2475,A0A075B700,TRAJ31,GO:0005886,T cell receptor alpha joining 31,protein,20201128
+2476,A0A075B6N4,TRBV25-1,GO:0042101,T cell receptor beta variable 25-1,protein,20201128
+2478,A0A075B6N3,TRBV24-1,GO:0042101,T cell receptor beta variable 24-1,protein,20201128
+2480,A0A075B6N2,TRBV20-1,GO:0042101,T cell receptor beta variable 20-1,protein,20201128
+2482,A0A075B6N1,TRBV19,GO:0042105,T cell receptor beta variable 19,protein,20200113
+2484,A0A075B6L6,TRBV7-3,GO:0042101,Probable non-functional T cell receptor beta variable 7-3,protein,20201128
+2486,A0A075B6L2,TRGV11,GO:0042101,Probable non-functional T cell receptor gamma variable 11,protein,20201128
+2488,P43250,GRK6,GO:0005886,G protein-coupled receptor kinase 6,protein,20160113
+2492,Q92845,KIFAP3,GO:0032391,Kinesin-associated protein 3,protein,20201128
+2493,Q92847,GHSR,GO:0005886,Growth hormone secretagogue receptor type 1,protein,20130528
+2503,P38570,ITGAE,GO:0008305,Integrin alpha-E,protein,20201128
+2504,P43220,GLP1R,GO:0005886,Glucagon-like peptide 1 receptor,protein,20130528
+2511,Q6UX27,VSTM1,GO:0005615,V-set and transmembrane domain-containing protein 1,protein,20201128
+2513,Q9Y4K3,TRAF6,GO:0005634,TNF receptor-associated factor 6,protein,20100106
+2629,P11362,FGFR1,GO:0005576,Fibroblast growth factor receptor 1,protein,20010920
+2698,P18089,ADRA2B,GO:0005829,Alpha-2B adrenergic receptor,protein,20201119
+2709,P18084,ITGB5,GO:0034684,Integrin beta-5,protein,20140807
+2712,Q6UWU4,C6orf89,GO:0000139,Bombesin receptor-activated protein C6orf89,protein,20151211
+2719,P18031,PTPN1,GO:0005759,Tyrosine-protein phosphatase non-receptor type 1,protein,20201128
+2735,Q15835,GRK1,GO:0097381,Rhodopsin kinase GRK1,protein,20121113
+2736,O76100,OR7A10,GO:0005886,Olfactory receptor 7A10,protein,20130516
+2738,Q15825,CHRNA6,GO:0005886,Neuronal acetylcholine receptor subunit alpha-6,protein,20130528
+2747,Q15822,CHRNA2,GO:0005886,Neuronal acetylcholine receptor subunit alpha-2,protein,20130528
+2757,Q15814,TBCC,GO:0032391,Tubulin-specific chaperone C,protein,20101220
+2758,Q6Q8B3,CD200R1L,GO:0016021,Cell surface glycoprotein CD200 receptor 2,protein,20201128
+2760,Q5BJF2,TMEM97,GO:0005764,Sigma intracellular receptor 2,protein,20100503
+2768,A0PJX2,TLDC2,GO:0005634,TLD domain-containing protein 2,protein,20200203
+2769,Q8NGF1,OR52R1,GO:0005886,Olfactory receptor 52R1,protein,20130516
+2771,Q6GTX8,LAIR1,GO:0005886,Leukocyte-associated immunoglobulin-like receptor 1,protein,20100326
+2778,Q6RW13,AGTRAP,GO:0000139,Type-1 angiotensin II receptor-associated protein,protein,20201128
+2786,Q9Y698,CACNG2,GO:0032281,Voltage-dependent calcium channel gamma-2 subunit,protein,20110404
+2788,P58753,TIRAP,GO:0005737,Toll/interleukin-1 receptor domain-containing adapter protein,protein,20130326
+2814,A0A0J9YX75,TRBV6-9,GO:0042101,T cell receptor beta variable 6-9,protein,20201128
+2816,Q8WVP7,LMBR1,GO:0005887,Limb region 1 protein homolog,protein,20190726
+2817,Q9Y5Y4,PTGDR2,GO:0005886,Prostaglandin D2 receptor 2,protein,20130528
+2823,Q9Y5Y0,FLVCR1,GO:0005739,Feline leukemia virus subgroup C receptor-related protein 1,protein,20130610
+2828,Q8NGJ1,OR4D6,GO:0005886,Olfactory receptor 4D6,protein,20130516
+2830,Q8NGJ2,OR52H1,GO:0005886,Olfactory receptor 52H1,protein,20130516
+2832,Q8NGJ3,OR52E1,GO:0005886,Olfactory receptor 52E1,protein,20201128
+2834,Q9Y5Y7,LYVE1,GO:0005886,Lymphatic vessel endothelial hyaluronic acid receptor 1,protein,20130516
+2841,Q15596,NCOA2,GO:0000785,Nuclear receptor coactivator 2,protein,20190405
+2851,A0A0J9YXA8,TRBJ1-1,GO:0042101,T cell receptor beta joining 1-1,protein,20201128
+2852,Q6TCH7,PAQR3,GO:0000139,Progestin and adipoQ receptor family member 3,protein,20150210
+2855,Q6TCH4,PAQR6,GO:0005886,Membrane progestin receptor delta,protein,20201128
+2857,Q15546,MMD,GO:0005765,Monocyte to macrophage differentiation factor,protein,20201128
+2862,A0A126GWI2,OR2A25,GO:0005886,Olfactory receptor,protein,20201128
+2864,Q6YHU6,THADA,GO:0098554,Thyroid adenoma-associated protein,protein,20170607
+2866,P48443,RXRG,GO:0000785,Retinoic acid receptor RXR-gamma,protein,20190405
+2872,A0A126GWB0,OR2A2,GO:0005886,Olfactory receptor,protein,20201128
+2874,Q8NGT1,OR2K2,GO:0005886,Olfactory receptor 2K2,protein,20130731
+2876,A0A1W2PQM1,A0A1W2PQM1,GO:0016021,Uncharacterized protein,protein,20201128
+2877,Q7L266,ASRGL1,GO:0001917,Isoaspartyl peptidase/L-asparaginase,protein,20181016
+2878,Q99788,CMKLR1,GO:0005886,Chemokine-like receptor 1,protein,20110419
+2883,Q96E93,KLRG1,GO:0005886,Killer cell lectin-like receptor subfamily G member 1,protein,20201128
+2886,Q15722,LTB4R,GO:0005886,Leukotriene B4 receptor 1,protein,20130528
+2892,Q8WYA1,ARNTL2,GO:0000785,Aryl hydrocarbon receptor nuclear translocator-like protein 2,protein,20190405
+2901,P21554,CNR1,GO:0005741,Cannabinoid receptor 1,protein,20201128
+2918,O95718,ESRRB,GO:0000785,Steroid hormone receptor ERR2,protein,20190405
+2926,P16871,IL7R,GO:0005576,Interleukin-7 receptor subunit alpha,protein,20201128
+2960,Q7L0L9,Q7L0L9,GO:0005887,Transmembrane protein LOC653160,protein,20170228
+2961,Q9Y566,SHANK1,GO:0008328,SH3 and multiple ankyrin repeat domains protein 1,protein,20120314
+2964,Q05586,GRIN1,GO:0005737,"Glutamate receptor ionotropic, NMDA 1",protein,20181030
+3002,P28223,HTR2A,GO:0005829,5-hydroxytryptamine receptor 2A,protein,20201128
+3021,P28222,HTR1B,GO:0005737,5-hydroxytryptamine receptor 1B,protein,20201128
+3034,P28221,HTR1D,GO:0005886,5-hydroxytryptamine receptor 1D,protein,20130528
+3042,Q99603,TRGV9,GO:0005887,T cell receptor gamma variable 9,protein,20030404
+3045,Q7L513,FCRLA,GO:0005737,Fc receptor-like A,protein,20091109
+3047,Q6X4W1,NSMF,GO:0000791,NMDA receptor synaptonuclear signaling and neuronal migration factor,protein,20130130
+3063,Q8WXS5,CACNG8,GO:0032281,Voltage-dependent calcium channel gamma-8 subunit,protein,20110405
+3065,Q99650,OSMR,GO:0005886,Oncostatin-M-specific receptor subunit beta,protein,20170323
+3073,Q99665,IL12RB2,GO:0005886,Interleukin-12 receptor subunit beta-2,protein,20190905
+3101,Q8WY21,SORCS1,GO:0016020,VPS10 domain-containing receptor SorCS1,protein,20040421
+3104,Q99677,LPAR4,GO:0005886,Lysophosphatidic acid receptor 4,protein,20171201
+3112,Q99678,GPR20,GO:0005829,G-protein coupled receptor 20,protein,20190905
+3120,P43146,DCC,GO:0005829,Netrin receptor DCC,protein,20130528
+3141,P38484,IFNGR2,GO:0000139,Interferon gamma receptor 2,protein,20201128
+3158,Q92956,TNFRSF14,GO:0005886,Tumor necrosis factor receptor superfamily member 14,protein,20181221
+3165,Q7L0X0,TRIL,GO:0046696,TLR4 interactor with leucine rich repeats,protein,20100906
+3167,O76099,OR7C1,GO:0005886,Olfactory receptor 7C1,protein,20130516
+3169,P43116,PTGER2,GO:0005886,Prostaglandin E2 receptor EP2 subtype,protein,20130528
+3175,P43115,PTGER3,GO:0005635,Prostaglandin E2 receptor EP3 subtype,protein,20030904
+3184,O76062,TM7SF2,GO:0043235,Delta(14)-sterol reductase TM7SF2,protein,20131231
+3185,Q15788,NCOA1,GO:0000785,Nuclear receptor coactivator 1,protein,20190405
+3201,Q15785,TOMM34,GO:0005634,Mitochondrial import receptor subunit TOM34,protein,20140320
+3210,P11229,CHRM1,GO:0005886,Muscarinic acetylcholine receptor M1,protein,20130111
+3224,P11215,ITGAM,GO:0008305,Integrin alpha-M,protein,20030904
+3226,Q15761,NPY5R,GO:0005737,Neuropeptide Y receptor type 5,protein,20201128
+3235,Q15760,GPR19,GO:0005887,Probable G-protein coupled receptor 19,protein,20030904
+3237,Q99928,GABRG3,GO:0005886,Gamma-aminobutyric acid receptor subunit gamma-3,protein,20130516
+3248,Q8NH83,OR4A5,GO:0005886,Olfactory receptor 4A5,protein,20130516
+3250,Q8NGX0,OR11L1,GO:0005886,Olfactory receptor 11L1,protein,20130528
+3253,Q99720,SIGMAR1,GO:0005635,Sigma non-opioid intracellular receptor 1,protein,20160527
+3267,Q05209,PTPN12,GO:0002102,Tyrosine-protein phosphatase non-receptor type 12,protein,20201128
+3277,Q99706,KIR2DL4,GO:0005886,Killer cell immunoglobulin-like receptor 2DL4,protein,20130528
+3281,Q99705,MCHR1,GO:0005886,Melanin-concentrating hormone receptor 1,protein,20130528
+3293,B6A8C7,TARM1,GO:0005886,"T-cell-interacting, activating receptor on myeloid cells protein 1",protein,20170717
+3299,Q8WUJ1,CYB5D2,GO:0005576,Neuferricin,protein,20201128
+3302,P21709,EPHA1,GO:0005886,Ephrin type-A receptor 1,protein,20200923
+3319,Q8WUH2,TGFBRAP1,GO:0005769,Transforming growth factor-beta receptor-associated protein 1,protein,20150623
+3325,Q15466,NR0B2,GO:0000785,Nuclear receptor subfamily 0 group B member 2,protein,20190405
+3335,P26717,KLRC2,GO:0043235,NKG2-C type II integral membrane protein,protein,20141212
+3336,Q6UXZ4,UNC5D,GO:0005886,Netrin receptor UNC5D,protein,20201128
+3338,Q6UXZ3,CD300LD,GO:0005886,CMRF35-like molecule 5,protein,20150528
+3341,Q9UGM1,CHRNA9,GO:0005886,Neuronal acetylcholine receptor subunit alpha-9,protein,20130528
+3350,Q6UXV0,GFRAL,GO:0009897,GDNF family receptor alpha-like,protein,20180403
+3354,Q8WXD0,RXFP2,GO:0005886,Relaxin receptor 2,protein,20130528
+3359,Q15413,RYR3,GO:0016021,Ryanodine receptor 3,protein,20120103
+3370,O00591,GABRP,GO:0034707,Gamma-aminobutyric acid receptor subunit pi,protein,20201128
+3376,Q15406,NR6A1,GO:0000785,Nuclear receptor subfamily 6 group A member 1,protein,20190405
+3379,Q9Y6Q9,NCOA3,GO:0000785,Nuclear receptor coactivator 3,protein,20190405
+3397,O00574,CXCR6,GO:0005886,C-X-C chemokine receptor type 6,protein,20100217
+3403,Q8WXG9,ADGRV1,GO:0001917,Adhesion G-protein coupled receptor V1,protein,20201128
+3419,O00560,SDCBP,GO:0005895,Syntenin-1,protein,20041006
+3420,P48357,LEPR,GO:0005576,Leptin receptor,protein,20201128
+3426,O00559,EBAG9,GO:0000139,Receptor-binding cancer antigen expressed on SiSo cells,protein,20170901
+3429,P16499,PDE6A,GO:0097381,"Rod cGMP-specific 3',5'-cyclic phosphodiesterase subunit alpha",protein,20140926
+3432,Q6UY18,LINGO4,GO:0016021,Leucine-rich repeat and immunoglobulin-like domain-containing nogo receptor-interacting protein 4,protein,20201128
+3435,P36941,LTBR,GO:0005794,Tumor necrosis factor receptor superfamily member 3,protein,20171201
+3442,P16473,TSHR,GO:0005886,Thyrotropin receptor,protein,20170217
+3451,P16471,PRLR,GO:0005576,Prolactin receptor,protein,20201128
+3465,Q07011,TNFRSF9,GO:0005886,Tumor necrosis factor receptor superfamily member 9,protein,20160715
+3468,Q86WK9,PAQR7,GO:0016021,Membrane progestin receptor alpha,protein,20201128
+3470,Q6DWJ6,GPR139,GO:0005886,Probable G-protein coupled receptor 139,protein,20201128
+3472,P21860,ERBB3,GO:0005615,Receptor tyrosine-protein kinase erbB-3,protein,20080227
+3507,Q07001,CHRND,GO:0005654,Acetylcholine receptor subunit delta,protein,20161204
+3521,Q8TCG5,CPT1C,GO:0032281,"Carnitine O-palmitoyltransferase 1, brain isoform",protein,20201128
+3522,P53708,ITGA8,GO:0008305,Integrin alpha-8,protein,20010823
+3524,P36894,BMPR1A,GO:0005886,Bone morphogenetic protein receptor type-1A,protein,20090716
+3541,A4D1S0,KLRG2,GO:0016021,Killer cell lectin-like receptor subfamily G member 2,protein,20201128
+3542,P28566,HTR1E,GO:0005886,5-hydroxytryptamine receptor 1E,protein,20130528
+3550,P21817,RYR1,GO:0005737,Ryanodine receptor 1,protein,20080130
+3574,P21802,FGFR2,GO:0005634,Fibroblast growth factor receptor 2,protein,20120228
+3648,P08069,IGF1R,GO:0005886,Insulin-like growth factor 1 receptor,protein,20150522
+3669,P43489,TNFRSF4,GO:0005886,Tumor necrosis factor receptor superfamily member 4,protein,20150511
+3673,Q8IWN7,RP1L1,GO:0001750,Retinitis pigmentosa 1-like 1 protein,protein,20110426
+3675,Q8IX05,CD302,GO:0005902,CD302 antigen,protein,20201128
+3681,Q92633,LPAR1,GO:0005768,Lysophosphatidic acid receptor 1,protein,20150713
+3698,A0JD37,TRDV3,GO:0042101,T cell receptor delta variable 3,protein,20201128
+3700,A0JD36,TRDV2,GO:0042101,T cell receptor delta variable 2,protein,20201128
+3702,A0JD32,TRAV38-2DV8,GO:0042101,T cell receptor alpha variable 38-2/delta variable 8,protein,20201128
+3704,Q9HCM2,PLXNA4,GO:0002116,Plexin-A4,protein,20110907
+3706,Q9HCM3,KIAA1549,GO:0032391,UPF0606 protein KIAA1549,protein,20200213
+3707,Q9HCM4,EPB41L5,GO:0001917,Band 4.1-like protein 5,protein,20201128
+3708,Q9HCN6,GP6,GO:0005886,Platelet glycoprotein VI,protein,20130528
+3720,Q92673,SORL1,GO:0000139,Sortilin-related receptor,protein,20160715
+3755,A0A0J9YXG5,TRBJ1-4,GO:0042101,T cell receptor beta joining 1-4,protein,20201128
+3756,P43403,ZAP70,GO:0042101,Tyrosine-protein kinase ZAP-70,protein,20060112
+3757,P51810,GPR143,GO:0005737,G-protein coupled receptor 143,protein,20030904
+3773,O76036,NCR1,GO:0005886,Natural cytotoxicity triggering receptor 1,protein,20130528
+3776,Q9NR97,TLR8,GO:0000139,Toll-like receptor 8,protein,20130528
+3800,Q8N1C3,GABRG1,GO:0005886,Gamma-aminobutyric acid receptor subunit gamma-1,protein,20201119
+3809,P06213,INSR,GO:0005764,Insulin receptor,protein,20201128
+3845,P48995,TRPC1,GO:0005886,Short transient receptor potential channel 1,protein,20111207
+3852,Q6DN72,FCRL6,GO:0005886,Fc receptor-like protein 6,protein,20170804
+3856,P48960,ADGRE5,GO:0005886,Adhesion G protein-coupled receptor E5,protein,20160208
+3864,Q8N0Y5,OR8I2,GO:0005886,Olfactory receptor 8I2,protein,20130528
+3866,Q8N0Y3,OR4N4,GO:0005886,Olfactory receptor 4N4,protein,20130516
+3868,P21757,MSR1,GO:0005581,Macrophage scavenger receptor types I and II,protein,20201128
+3876,P28476,GABRR2,GO:0005886,Gamma-aminobutyric acid receptor subunit rho-2,protein,20130516
+3884,P28472,GABRB3,GO:0005886,Gamma-aminobutyric acid receptor subunit beta-3,protein,20161111
+3898,P21731,TBXA2R,GO:0001669,Thromboxane A2 receptor,protein,20201128
+3916,P21730,C5AR1,GO:0005886,C5a anaphylatoxin chemotactic receptor 1,protein,20130528
+3927,O75462,CRLF1,GO:0005576,Cytokine receptor-like factor 1,protein,20150514
+3939,P21728,DRD1,GO:0005789,D(1A) dopamine receptor,protein,20201128
+3952,O75469,NR1I2,GO:0000785,Nuclear receptor subfamily 1 group I member 2,protein,20190405
+3958,P26715,KLRC1,GO:0043235,NKG2-A/NKG2-B type II integral membrane protein,protein,20141212
+3959,Q6UXN7,TOMM20L,GO:0005742,TOMM20-like protein 1,protein,20170228
+3961,Q8IZS7,CLECL1,GO:0005886,C-type lectin-like domain family 1,protein,20190905
+3965,P48304,REG1B,GO:0070062,Lithostathine-1-beta,protein,20140714
+3967,Q6UXL0,IL20RB,GO:0005886,Interleukin-20 receptor subunit beta,protein,20170505
+3992,Q99680,GPR22,GO:0005886,G-protein coupled receptor 22,protein,20180705
+3994,Q8IZP9,ADGRG2,GO:0005829,Adhesion G-protein coupled receptor G2,protein,20161204
+4001,Q8WTV0,SCARB1,GO:0005764,Scavenger receptor class B member 1,protein,20201119
+4018,Q92932,PTPRN2,GO:0005788,Receptor-type tyrosine-protein phosphatase N2,protein,20201128
+4027,Q8WTU2,SSC4D,GO:0005576,Scavenger receptor cysteine-rich domain-containing group B protein,protein,20201128
+4029,P31391,SSTR4,GO:0005737,Somatostatin receptor type 4,protein,20201128
+4036,Q6UXG3,CD300LG,GO:0005886,CMRF35-like molecule 9,protein,20150528
+4042,P63244,RACK1,GO:0001891,Receptor of activated protein C kinase 1,protein,20110414
+4064,P51843,NR0B1,GO:0000785,Nuclear receptor subfamily 0 group B member 1,protein,20190405
+4079,P51841,GUCY2F,GO:0097381,Retinal guanylyl cyclase 2,protein,20121116
+4081,Q8WTQ7,GRK7,GO:0097381,Rhodopsin kinase GRK7,protein,20150717
+4082,P43405,SYK,GO:0019815,Tyrosine-protein kinase SYK,protein,20201128
+4084,Q8WU20,FRS2,GO:0005829,Fibroblast growth factor receptor substrate 2,protein,20160715
+4193,A2RUB6,CCDC66,GO:0001750,Coiled-coil domain-containing protein 66,protein,20201128
+4196,P63211,GNGT1,GO:0001917,Guanine nucleotide-binding protein G(T) subunit gamma-T1,protein,20201128
+4199,Q8IZJ1,UNC5B,GO:0005886,Netrin receptor UNC5B,protein,20201128
+4202,Q9Y6Y9,LY96,GO:0046696,Lymphocyte antigen 96,protein,20150716
+4205,P51805,PLXNA3,GO:0002116,Plexin-A3,protein,20110907
+4207,Q8IZF7,ADGRF2,GO:0016021,Adhesion G-protein coupled receptor F2,protein,20201128
+4208,Q8IZF6,ADGRG4,GO:0016021,Adhesion G-protein coupled receptor G4,protein,20050510
+4210,Q8IZF5,ADGRF3,GO:0016021,Adhesion G-protein coupled receptor F3,protein,20201128
+4211,Q8IZF4,ADGRG5,GO:0016021,Adhesion G-protein coupled receptor G5,protein,20050510
+4213,Q8IZF3,ADGRF4,GO:0016021,Adhesion G protein-coupled receptor F4,protein,20201128
+4214,Q8IZF2,ADGRF5,GO:0005886,Adhesion G protein-coupled receptor F5,protein,20201128
+4219,Q15399,TLR1,GO:0005794,Toll-like receptor 1,protein,20151022
+4249,Q15391,P2RY14,GO:0005886,P2Y purinoceptor 14,protein,20130516
+4254,Q15388,TOMM20,GO:0005739,Mitochondrial import receptor subunit TOM20 homolog,protein,20080818
+4266,Q15375,EPHA7,GO:0005886,Ephrin type-A receptor 7,protein,20200923
+4289,P41597,CCR2,GO:0005737,C-C chemokine receptor type 2,protein,20060414
+4308,P41595,HTR2B,GO:0005654,5-hydroxytryptamine receptor 2B,protein,20141106
+4328,Q15743,GPR68,GO:0005886,Ovarian cancer G-protein coupled receptor 1,protein,20130528
+4333,O76001,OR2J3,GO:0005886,Olfactory receptor 2J3,protein,20130516
+4335,O76000,OR2B3,GO:0005886,Putative olfactory receptor 2B3,protein,20130516
+4337,Q5TC84,OGFRL1,GO:0016020,Opioid growth factor receptor-like protein 1,protein,20201128
+4338,P10966,CD8B,GO:0042101,T-cell surface glycoprotein CD8 beta chain,protein,20021018
+4339,P17987,TCP1,GO:0002199,T-complex protein 1 subunit alpha,protein,20201128
+4340,Q96D42,HAVCR1,GO:0016021,Hepatitis A virus cellular receptor 1,protein,20201128
+4343,Q15700,DLG2,GO:0008328,Disks large homolog 2,protein,20170228
+4344,P25445,FAS,GO:0005829,Tumor necrosis factor receptor superfamily member 6,protein,20111111
+4371,Q8WXA8,HTR3C,GO:0005886,5-hydroxytryptamine receptor 3C,protein,20130516
+4375,P29992,GNA11,GO:0001750,Guanine nucleotide-binding protein subunit alpha-11,protein,20150608
+4377,P31995,FCGR2C,GO:0005737,Low affinity immunoglobulin gamma Fc region receptor II-c,protein,20201128
+4380,P21462,FPR1,GO:0005737,fMet-Leu-Phe receptor,protein,20181214
+4395,P21453,S1PR1,GO:0005654,Sphingosine 1-phosphate receptor 1,protein,20161204
+4409,P21452,TACR2,GO:0005886,Substance-K receptor,protein,20190905
+4420,Q9Y5N1,HRH3,GO:0005886,Histamine H3 receptor,protein,20100217
+4428,Q8WWZ8,OIT3,GO:0005635,Oncoprotein-induced transcript 3 protein,protein,20201128
+4431,P11230,CHRNB1,GO:0005887,Acetylcholine receptor subunit beta,protein,20080623
+4440,Q8WWZ3,EDARADD,GO:0005829,Ectodysplasin-A receptor-associated adapter protein,protein,20150216
+4441,P41968,MC3R,GO:0005886,Melanocortin receptor 3,protein,20130528
+4448,Q8WWV6,FCAMR,GO:0005886,High affinity immunoglobulin alpha and immunoglobulin mu Fc receptor,protein,20160715
+4451,Q99969,RARRES2,GO:0005576,Retinoic acid receptor responder protein 2,protein,20131110
+4458,A8K4G0,CD300LB,GO:0005886,CMRF35-like molecule 7,protein,20130528
+4462,Q99952,PTPN18,GO:0005654,Tyrosine-protein phosphatase non-receptor type 18,protein,20170614
+4467,P43088,PTGFR,GO:0005576,Prostaglandin F2-alpha receptor,protein,20100106
+4476,P43080,GUCA1A,GO:0001917,Guanylyl cyclase-activating protein 1,protein,20200605
+4479,Q8NG83,OR2M3,GO:0005886,Olfactory receptor 2M3,protein,20130516
+4481,Q9Y618,NCOR2,GO:0000785,Nuclear receptor corepressor 2,protein,20160310
+4499,Q8NG94,OR11H1,GO:0005886,Olfactory receptor 11H1,protein,20130528
+4501,P43119,PTGIR,GO:0005829,Prostacyclin receptor,protein,20120809
+4511,P26992,CNTFR,GO:0005886,Ciliary neurotrophic factor receptor subunit alpha,protein,20150529
+4524,P31644,GABRA5,GO:0005654,Gamma-aminobutyric acid receptor subunit alpha-5,protein,20171201
+4539,P01241,GH1,GO:0070195,Somatotropin,protein,20160815
+4542,O76002,OR2J2,GO:0005886,Olfactory receptor 2J2,protein,20130516
+4544,Q8N149,LILRA2,GO:0005576,Leukocyte immunoglobulin-like receptor subfamily A member 2,protein,20201128
+4547,Q8N148,OR6V1,GO:0005886,Olfactory receptor 6V1,protein,20130516
+4549,Q8N127,OR5AS1,GO:0005886,Olfactory receptor 5AS1,protein,20130516
+4551,Q8TE23,TAS1R2,GO:0005886,Taste receptor type 1 member 2,protein,20130528
+4560,Q8N109,KIR2DL5A,GO:0005886,Killer cell immunoglobulin-like receptor 2DL5A,protein,20201128
+4562,P31994,FCGR2B,GO:0005886,Low affinity immunoglobulin gamma Fc region receptor II-b,protein,20170614
+4569,Q6X784,ZPBP2,GO:0002199,Zona pellucida-binding protein 2,protein,20190719
+4570,P43378,PTPN9,GO:0005654,Tyrosine-protein phosphatase non-receptor type 9,protein,20170614
+4573,Q92729,PTPRU,GO:0005886,Receptor-type tyrosine-protein phosphatase U,protein,20130801
+4576,P43354,NR4A2,GO:0000785,Nuclear receptor subfamily 4 group A member 2,protein,20190405
+4586,Q8TDU9,RXFP4,GO:0005886,Relaxin-3 receptor 2,protein,20130528
+4591,Q92753,RORB,GO:0000785,Nuclear receptor ROR-beta,protein,20190405
+4596,P11488,GNAT1,GO:0001750,Guanine nucleotide-binding protein G(t) subunit alpha-1,protein,20080918
+4604,Q8TDV2,GPR148,GO:0005886,Probable G-protein coupled receptor 148,protein,20201128
+4606,P11474,ESRRA,GO:0000785,Steroid hormone receptor ERR1,protein,20190405
+4617,P11473,VDR,GO:0000785,Vitamin D3 receptor,protein,20190405
+4627,Q99679,GPR21,GO:0005886,Probable G-protein coupled receptor 21,protein,20201128
+4629,P43308,SSR2,GO:0005789,Translocon-associated protein subunit beta,protein,20201128
+4632,P06756,ITGAV,GO:0008305,Integrin alpha-V,protein,20040309
+4645,A0A0A6YYK7,TRAV19,GO:0005886,T cell receptor alpha variable 19,protein,20180511
+4665,A0A0A6YYK6,TRAV16,GO:0042101,T cell receptor alpha variable 16,protein,20201128
+4666,A0A0A6YYK4,TRBV7-1,GO:0042101,Probable non-functional T cell receptor beta variable 7-1,protein,20201128
+4668,A0A0A6YYK1,TRAV8-1,GO:0042101,T cell receptor alpha variable 8-1,protein,20201128
+4669,A0A0A6YYJ7,TRAV8-3,GO:0042101,T cell receptor alpha variable 8-3,protein,20201128
+4670,P06734,FCER2,GO:0005886,Low affinity immunoglobulin epsilon Fc receptor,protein,20130528
+4678,P06401,PGR,GO:0000785,Progesterone receptor,protein,20190405
+4689,A0A0A6YYG3,TRBV6-8,GO:0042101,T cell receptor beta variable 6-8,protein,20201128
+4691,A0A0A6YYG2,TRBV6-6,GO:0042101,T cell receptor beta variable 6-6,protein,20201128
+4693,Q8WZA6,OR1E3,GO:0005886,Olfactory receptor 1E3,protein,20201128
+4695,A0A075B6Y9,TRAJ42,GO:0005886,T cell receptor alpha joining 42,protein,20201128
+4696,A0A075B6Y3,TRAJ3,GO:0042101,T cell receptor alpha joining 3,protein,20201128
+4697,A0A0A6YYD4,TRBV13,GO:0042101,T cell receptor beta variable 13,protein,20201128
+4699,A0A075B6X5,TRAV18,GO:0042101,T cell receptor alpha variable 18,protein,20201128
+4701,A0A0A6YYC5,TRAV14DV4,GO:0042101,T cell receptor alpha variable 14/delta variable 4,protein,20201128
+4703,A0A075B6W5,TRAV23DV6,GO:0042101,T cell receptor alpha variable 23/delta variable 6,protein,20201128
+4704,Q8NER1,TRPV1,GO:0005886,Transient receptor potential cation channel subfamily V member 1,protein,20130516
+4711,A0A075B6V5,TRAV36DV7,GO:0042101,T cell receptor alpha variable 36/delta variable 7,protein,20201128
+4712,P33032,MC5R,GO:0005886,Melanocortin receptor 5,protein,20201119
+4720,P11166,SLC2A1,GO:0001917,"Solute carrier family 2, facilitated glucose transporter member 1",protein,20201128
+4721,P31785,IL2RG,GO:0005768,Cytokine receptor common subunit gamma,protein,20170323
+4776,P26951,IL3RA,GO:0005886,Interleukin-3 receptor subunit alpha,protein,20130516
+4801,Q15678,PTPN14,GO:0005634,Tyrosine-protein phosphatase non-receptor type 14,protein,20121113
+4809,Q15654,TRIP6,GO:0005634,Thyroid receptor-interacting protein 6,protein,20191029
+4819,Q15650,TRIP4,GO:0005634,Activating signal cointegrator 1,protein,20021105
+4832,Q15643,TRIP11,GO:0000139,Thyroid receptor-interacting protein 11,protein,20140812
+4845,Q15628,TRADD,GO:0002947,Tumor necrosis factor receptor type 1-associated DEATH domain protein,protein,20191113
+4876,Q15622,OR7A5,GO:0005886,Olfactory receptor 7A5,protein,20130516
+4878,Q15620,OR8B8,GO:0005886,Olfactory receptor 8B8,protein,20130516
+4880,Q15619,OR1C1,GO:0005886,Olfactory receptor 1C1,protein,20130528
+4882,Q15617,OR8G1,GO:0005886,Olfactory receptor 8G1,protein,20130528
+4884,Q15615,OR4D1,GO:0005886,Olfactory receptor 4D1,protein,20130516
+4886,Q15612,OR1Q1,GO:0005886,Olfactory receptor 1Q1,protein,20130528
+4888,Q8WWA0,ITLN1,GO:0043235,Intelectin-1,protein,20131227
+4889,P48552,NRIP1,GO:0000118,Nuclear receptor-interacting protein 1,protein,20201128
+4902,P48551,IFNAR2,GO:0005576,Interferon alpha/beta receptor 2,protein,20201128
+4919,Q01973,ROR1,GO:0001725,Inactive tyrosine-protein kinase transmembrane receptor ROR1,protein,20201128
+4927,P48546,GIPR,GO:0005886,Gastric inhibitory polypeptide receptor,protein,20130528
+4933,Q8NGC2,OR4E2,GO:0005886,Olfactory receptor 4E2,protein,20130516
+4935,P16671,CD36,GO:0005615,Platelet glycoprotein 4,protein,20140603
+4990,Q8TCW9,PROKR1,GO:0005886,Prokineticin receptor 1,protein,20130528
+4995,Q8TCW7,ZPLD1,GO:0016021,Zona pellucida-like domain-containing protein 1,protein,20201128
+4999,P23219,PTGS1,GO:0001750,Prostaglandin G/H synthase 1,protein,20201128
+5000,P16144,ITGB4,GO:0008305,Integrin beta-4,protein,20201128
+5003,P23229,ITGA6,GO:0034676,Integrin alpha-6,protein,20201128
+5004,Q13956,PDE6H,GO:0042622,"Retinal cone rhodopsin-sensitive cGMP 3',5'-cyclic phosphodiesterase subunit gamma",protein,20190221
+5005,Q8TCU5,GRIN3A,GO:0014069,"Glutamate receptor ionotropic, NMDA 3A",protein,20201128
+5015,P51582,P2RY4,GO:0005886,P2Y purinoceptor 4,protein,20130516
+5024,P51572,BCAP31,GO:0005739,B-cell receptor-associated protein 31,protein,20201129
+5045,Q86WV1,SKAP1,GO:0042101,Src kinase-associated phosphoprotein 1,protein,20201128
+5046,Q8TD46,CD200R1,GO:0005576,Cell surface glycoprotein CD200 receptor 1,protein,20201128
+5054,Q8TD43,TRPM4,GO:0005654,Transient receptor potential cation channel subfamily M member 4,protein,20110516
+5066,Q13901,C1D,GO:0000176,Nuclear nucleic acid-binding protein C1D,protein,20110325
+5075,Q8IWK6,ADGRA3,GO:0016021,Adhesion G protein-coupled receptor A3,protein,20201128
+5078,Q86X29,LSR,GO:0005886,Lipolysis-stimulated lipoprotein receptor,protein,20061120
+5086,Q86WQ0,NR2C2AP,GO:0005654,Nuclear receptor 2C2-associated protein,protein,20130311
+5088,Q9HCF6,TRPM3,GO:0005886,Transient receptor potential cation channel subfamily M member 3,protein,20130516
+5090,Q9HCD5,NCOA5,GO:0005615,Nuclear receptor coactivator 5,protein,20131220
+5093,P46821,MAP1B,GO:0001750,Microtubule-associated protein 1B,protein,20201128
+5094,Q5NUL3,FFAR4,GO:0005765,Free fatty acid receptor 4,protein,20201128
+5104,Q15077,P2RY6,GO:0005886,P2Y purinoceptor 6,protein,20180606
+5110,Q8IWB1,ITPRIP,GO:0005640,"Inositol 1,4,5-trisphosphate receptor-interacting protein",protein,20190618
+5115,P61769,B2M,GO:1990712,Beta-2-microglobulin,protein,20150710
+5116,Q15051,IQCB1,GO:0001750,IQ calmodulin-binding motif-containing protein 1,protein,20201128
+5118,Q15019,SEPTIN2,GO:0032391,Septin-2,protein,20160126
+5119,Q9HBX9,RXFP1,GO:0005886,Relaxin receptor 1,protein,20130528
+5124,Q8IUK5,PLXDC1,GO:0043235,Plexin domain-containing protein 1,protein,20131231
+5125,Q86V24,ADIPOR2,GO:0005886,Adiponectin receptor protein 2,protein,20151209
+5129,Q86UP6,CUZD1,GO:0016020,CUB and zona pellucida-like domain-containing protein 1,protein,20191101
+5133,P01833,PIGR,GO:0005615,Polymeric immunoglobulin receptor,protein,20140603
+5148,Q9BZR6,RTN4R,GO:0005783,Reticulon-4 receptor,protein,20100607
+5166,P14784,IL2RB,GO:0005768,Interleukin-2 receptor subunit beta,protein,20170323
+5203,P08575,PTPRC,GO:0005886,Receptor-type tyrosine-protein phosphatase C,protein,20180725
+5223,Q86UN3,RTN4RL2,GO:0005576,Reticulon-4 receptor-like 2,protein,20160929
+5237,P01850,TRBC1,GO:0005886,T cell receptor beta constant 1,protein,20130802
+5259,P08581,MET,GO:0005576,Hepatocyte growth factor receptor,protein,20201128
+5326,Q6NV75,GPR153,GO:0005886,Probable G-protein coupled receptor 153,protein,20201128
+5328,A0A0G2JMP0,A0A0G2JMP0,GO:0016021,G_PROTEIN_RECEP_F1_2 domain-containing protein,protein,20201128
+5329,Q9BZJ7,GPR62,GO:0005768,G-protein coupled receptor 62,protein,20180305
+5337,Q03431,PTH1R,GO:0005634,Parathyroid hormone/parathyroid hormone-related peptide receptor,protein,20201128
+5350,Q03405,PLAUR,GO:0005576,Urokinase plasminogen activator surface receptor,protein,20201128
+5370,A0A087WV62,TRBV16,GO:0042101,T cell receptor beta variable 16,protein,20201128
+5372,Q9BZC5,FKSG35,GO:0016021,G_PROTEIN_RECEP_F1_2 domain-containing protein,protein,20201128
+5373,Q6NUK4,REEP3,GO:0016021,Receptor expression-enhancing protein 3,protein,20201128
+5378,Q8IU57,IFNLR1,GO:0005886,Interferon lambda receptor 1,protein,20130528
+5390,Q8IU54,IFNL1,GO:0032002,Interferon lambda-1,protein,20060118
+5391,Q13683,ITGA7,GO:0008305,Integrin alpha-7,protein,20201128
+5392,Q8TA86,RP9,GO:0005785,Retinitis pigmentosa 9 protein,protein,20200702
+5393,P04437,TRAV29DV5,GO:0005886,T cell receptor alpha variable 29/delta variable 5,protein,20030404
+5412,P04435,TRBV7-9,GO:0005886,T cell receptor beta variable 7-9,protein,20030404
+5432,A0A2R8Y4L6,OR5D3P,GO:0005886,Olfactory receptor,protein,20201128
+5434,Q9BYZ8,REG4,GO:0005576,Regenerating islet-derived protein 4,protein,20201128
+5436,Q13639,HTR4,GO:0005737,5-hydroxytryptamine receptor 4,protein,20100622
+5446,Q13607,OR2F1,GO:0005886,Olfactory receptor 2F1,protein,20130528
+5448,Q13606,OR5I1,GO:0005886,Olfactory receptor 5I1,protein,20130516
+5450,Q6UX65,DRAM2,GO:0001917,DNA damage-regulated autophagy modulator protein 2,protein,20151209
+5451,P36897,TGFBR1,GO:0005634,TGF-beta receptor type-1,protein,20181127
+5501,P36896,ACVR1B,GO:0005829,Activin receptor type-1B,protein,20141106
+5513,O94991,SLITRK5,GO:0043235,SLIT and NTRK-like protein 5,protein,20131227
+5514,Q15303,ERBB4,GO:0005576,Receptor tyrosine-protein kinase erbB-4,protein,20130516
+5585,Q6UX52,C17orf99,GO:0005615,Protein IL-40,protein,20180326
+5587,Q96F46,IL17RA,GO:0005576,Interleukin-17 receptor A,protein,20201128
+5592,O00482,NR5A2,GO:0000785,Nuclear receptor subfamily 5 group A member 2,protein,20190405
+5601,P36888,FLT3,GO:0005634,Receptor-type tyrosine-protein kinase FLT3,protein,20201128
+5611,O00463,TRAF5,GO:0005813,TNF receptor-associated factor 5,protein,20190905
+5619,O00451,GFRA2,GO:0005886,GDNF family receptor alpha-2,protein,20090904
+5644,Q6UX01,LMBR1L,GO:0005789,Protein LMBR1L,protein,20190731
+5650,Q6UWN5,LYPD5,GO:0005576,Ly6/PLAUR domain-containing protein 5,protein,20160929
+5654,O00421,CCRL2,GO:0005886,C-C chemokine receptor-like 2,protein,20130522
+5658,Q8IYS5,OSCAR,GO:0005576,Osteoclast-associated immunoglobulin-like receptor,protein,20150520
+5666,Q30201,HFE,GO:1990712,Hereditary hemochromatosis protein,protein,20150710
+5671,Q3SY00,TSGA10IP,GO:0032391,Testis-specific protein 10-interacting protein,protein,20170413
+5672,Q86YW5,TREML1,GO:0005794,Trem-like transcript 1 protein,protein,20201119
+5681,Q8IZ08,GPR135,GO:0005768,G-protein coupled receptor 135,protein,20180305
+5687,Q92834,RPGR,GO:0001750,X-linked retinitis pigmentosa GTPase regulator,protein,20100505
+5688,P08100,RHO,GO:0001750,Rhodopsin,protein,20110207
+5704,Q6UWF3,SCIMP,GO:0043235,SLP adapter and CSK-interacting membrane protein,protein,20190605
+5705,Q8IYL9,GPR65,GO:0005886,Psychosine receptor,protein,20091124
+5711,Q99527,GPER1,GO:0000139,G-protein coupled estrogen receptor 1,protein,20201128
+5754,Q99500,S1PR3,GO:0005886,Sphingosine 1-phosphate receptor 3,protein,20140701
+5762,Q6UWB1,IL27RA,GO:0005886,Interleukin-27 receptor subunit alpha,protein,20091203
+5780,Q8TEL6,TRPC4AP,GO:0005886,Short transient receptor potential channel 4-associated protein,protein,20130516
+5783,P08173,CHRM4,GO:0005886,Muscarinic acetylcholine receptor M4,protein,20130528
+5791,Q86YN6,PPARGC1B,GO:0005634,Peroxisome proliferator-activated receptor gamma coactivator 1-beta,protein,20061127
+5798,Q9HBW0,LPAR2,GO:0005886,Lysophosphatidic acid receptor 2,protein,20130528
+5810,O00170,AIP,GO:0005654,AH receptor-interacting protein,protein,20160830
+5821,P41231,P2RY2,GO:0005886,P2Y purinoceptor 2,protein,20130516
+5826,O00155,GPR25,GO:0005886,Probable G-protein coupled receptor 25,protein,20151019
+5831,P41208,CETN2,GO:0032391,Centrin-2,protein,20201128
+5832,P0CG08,GPR89B,GO:0016021,Golgi pH regulator B,protein,20201128
+5834,P16066,NPR1,GO:0005886,Atrial natriuretic peptide receptor 1,protein,20140519
+5838,Q13873,BMPR2,GO:0005615,Bone morphogenetic protein receptor type-2,protein,20131220
+5864,Q86VZ1,P2RY8,GO:0005887,P2Y purinoceptor 8,protein,20170228
+5865,P04629,NTRK1,GO:0000139,High affinity nerve growth factor receptor,protein,20130516
+5896,Q9HBL7,PLGRKT,GO:0005887,Plasminogen receptor (KT),protein,20201128
+5897,Q5SZI1,LDLRAD2,GO:0016021,Low-density lipoprotein receptor class A domain-containing protein 2,protein,20201128
+5898,P51449,RORC,GO:0000785,Nuclear receptor ROR-gamma,protein,20190405
+5905,P58173,OR2B6,GO:0005886,Olfactory receptor 2B6,protein,20130528
+5907,Q86VQ0,LCA5,GO:0032391,Lebercilin,protein,20190226
+5908,P01730,CD4,GO:0042101,T-cell surface glycoprotein CD4,protein,20021018
+5909,P14867,GABRA1,GO:0005886,Gamma-aminobutyric acid receptor subunit alpha-1,protein,20130516
+5923,Q9HBA0,TRPV4,GO:0005783,Transient receptor potential cation channel subfamily V member 4,protein,20201128
+5941,P46531,NOTCH1,GO:0043235,Neurogenic locus notch homolog protein 1,protein,20131231
+5943,P26045,PTPN3,GO:0005737,Tyrosine-protein phosphatase non-receptor type 3,protein,20110120
+5949,Q03395,ROM1,GO:0042622,Rod outer segment membrane protein 1,protein,20201128
+5950,P26012,ITGB8,GO:0008305,Integrin beta-8,protein,20030904
+5954,P26010,ITGB7,GO:0008305,Integrin beta-7,protein,20030904
+5959,A0A0G2JLQ3,KIR2DS5,GO:0016021,Killer cell immunoglobulin-like receptor,protein,20201128
+5960,P26006,ITGA3,GO:0008305,Integrin alpha-3,protein,20030904
+5964,P14616,INSRR,GO:0005887,Insulin receptor-related protein,protein,20010913
+5970,O14626,GPR171,GO:0005886,Probable G-protein coupled receptor 171,protein,20201128
+5972,A0A0C4DH59,TRBV5-4,GO:0042101,T cell receptor beta variable 5-4,protein,20201128
+5974,P56715,RP1,GO:0001750,Oxygen-regulated protein 1,protein,20110426
+5977,Q9BYB0,SHANK3,GO:0008328,SH3 and multiple ankyrin repeat domains protein 3,protein,20170922
+5978,Q6ZWB6,KCTD8,GO:0043235,BTB/POZ domain-containing protein KCTD8,protein,20200212
+5979,A0A0C4DH28,TRGV4,GO:0042101,T cell receptor gamma variable 4,protein,20201128
+5981,A0A0C4DH27,TRGV8,GO:0042101,T cell receptor gamma variable 8,protein,20201128
+5983,Q13585,GPR50,GO:0005654,Melatonin-related receptor,protein,20161204
+5987,P78380,OLR1,GO:0005576,Oxidized low-density lipoprotein receptor 1,protein,20201128
+6002,Q13546,RIPK1,GO:0005739,Receptor-interacting serine/threonine-protein kinase 1,protein,20090317
+6062,P78371,CCT2,GO:0002199,T-complex protein 1 subunit beta,protein,20201128
+6063,P78363,ABCA4,GO:0097381,Retinal-specific phospholipid-transporting ATPase ABCA4,protein,20130516
+6064,P78352,DLG4,GO:0032281,Disks large homolog 4,protein,20131017
+6067,Q8IYB4,PEX5L,GO:0043235,PEX5-related protein,protein,20131230
+6070,O96008,TOMM40,GO:0005739,Mitochondrial import receptor subunit TOM40 homolog,protein,20141106
+6082,Q15262,PTPRK,GO:0005886,Receptor-type tyrosine-protein phosphatase kappa,protein,20161204
+6091,Q15256,PTPRR,GO:0005615,Receptor-type tyrosine-protein phosphatase R,protein,20131220
+6097,Q9UPX6,MINAR1,GO:0005886,Major intrinsically disordered Notch2-binding receptor 1,protein,20180607
+6101,Q86YD5,LDLRAD3,GO:0005886,Low-density lipoprotein receptor class A domain-containing protein 3,protein,20201128
+6103,O00398,P2RY10,GO:0005886,Putative P2Y purinoceptor 10,protein,20130516
+6108,P41439,FOLR3,GO:0005576,Folate receptor gamma,protein,20160715
+6115,P48146,NPBWR2,GO:0005886,Neuropeptides B/W receptor type 2,protein,20130528
+6122,Q6UW15,REG3G,GO:0005576,Regenerating islet-derived protein 3-gamma,protein,20160715
+6126,Q92796,DLG3,GO:0008328,Disks large homolog 3,protein,20170228
+6127,O00327,ARNTL,GO:0000785,Aryl hydrocarbon receptor nuclear translocator-like protein 1,protein,20190405
+6142,O94826,TOMM70,GO:0005739,Mitochondrial import receptor subunit TOM70,protein,20101115
+6152,Q8IY49,MMD2,GO:0000139,Monocyte to macrophage differentiation factor 2,protein,20201128
+6155,O00300,TNFRSF11B,GO:0005576,Tumor necrosis factor receptor superfamily member 11B,protein,20030904
+6159,Q8IY31,IFT20,GO:0001750,Intraflagellar transport protein 20 homolog,protein,20201128
+6161,Q8TDV5,GPR119,GO:0016021,Glucose-dependent insulinotropic receptor,protein,20201128
+6165,Q8TDV0,GPR151,GO:0005887,G-protein coupled receptor 151,protein,20170228
+6166,Q6ISU1,PTCRA,GO:0016021,Pre T-cell antigen receptor alpha,protein,20201128
+6167,P16234,PDGFRA,GO:0005634,Platelet-derived growth factor receptor alpha,protein,20110408
+6204,Q8TE68,EPS8L1,GO:0005829,Epidermal growth factor receptor kinase substrate 8-like protein 1,protein,20120912
+6211,Q8TE67,EPS8L3,GO:0005737,Epidermal growth factor receptor kinase substrate 8-like protein 3,protein,20170809
+6214,Q8TDU6,GPBAR1,GO:0005737,G-protein coupled bile acid receptor 1,protein,20191212
+6224,Q8TDU5,VN1R17P,GO:0005886,Putative vomeronasal receptor-like protein 4,protein,20201128
+6226,P51685,CCR8,GO:0005886,C-C chemokine receptor type 8,protein,20130528
+6233,P51684,CCR6,GO:0005886,C-C chemokine receptor type 6,protein,20100217
+6245,P51681,CCR5,GO:0005768,C-C chemokine receptor type 5,protein,20111209
+6265,P51679,CCR4,GO:0005886,C-C chemokine receptor type 4,protein,20190905
+6273,P51677,CCR3,GO:0005886,C-C chemokine receptor type 3,protein,20201119
+6282,Q6ISS4,LAIR2,GO:0005576,Leukocyte-associated immunoglobulin-like receptor 2,protein,20150528
+6283,Q92736,RYR2,GO:0005886,Ryanodine receptor 2,protein,20090204
+6303,Q99463,NPY6R,GO:0016021,Putative neuropeptide Y receptor type 6,protein,20201128
+6304,Q92731,ESR2,GO:0000785,Estrogen receptor beta,protein,20190405
+6314,Q8TDS7,MRGPRD,GO:0005615,Mas-related G-protein coupled receptor member D,protein,20131220
+6317,Q8TDS5,OXER1,GO:0005886,Oxoeicosanoid receptor 1,protein,20130528
+6322,Q8TDS4,HCAR2,GO:0005886,Hydroxycarboxylic acid receptor 2,protein,20090430
+6329,Q86XT9,TMEM219,GO:0005886,Insulin-like growth factor-binding protein 3 receptor,protein,20150926
+6331,Q8TDQ1,CD300LF,GO:0005886,CMRF35-like molecule 1,protein,20150528
+6334,Q8TDQ0,HAVCR2,GO:0001772,Hepatitis A virus cellular receptor 2,protein,20201128
+6339,Q86Y34,ADGRG3,GO:0005886,Adhesion G protein-coupled receptor G3,protein,20150630
+6344,P51617,IRAK1,GO:0005654,Interleukin-1 receptor-associated kinase 1,protein,20131205
+6412,Q8N146,OR8H3,GO:0005886,Olfactory receptor 8H3,protein,20130528
+6414,P58335,ANTXR2,GO:0005576,Anthrax toxin receptor 2,protein,20201128
+6426,Q8N162,OR8H2,GO:0005886,Olfactory receptor 8H2,protein,20130528
+6428,Q8IXE1,OR4N5,GO:0005886,Olfactory receptor 4N5,protein,20130516
+6430,Q15198,PDGFRL,GO:0005575,Platelet-derived growth factor receptor-like protein,protein,20061026
+6432,A1L4H1,SSC5D,GO:0005615,Soluble scavenger receptor cysteine-rich domain-containing protein SSC5D,protein,20140410
+6438,A0A1W2PN81,CHRNA7,GO:0045211,Neuronal acetylcholine receptor subunit alpha-7,protein,20201128
+6443,O00294,TULP1,GO:0001750,Tubby-related protein 1,protein,20091123
+6445,Q15109,AGER,GO:0001650,Advanced glycosylation end product-specific receptor,protein,20151016
+6455,Q9HCX4,TRPC7,GO:0005635,Short transient receptor potential channel 7,protein,20201128
+6463,Q8IWZ6,BBS7,GO:0001750,Bardet-Biedl syndrome 7 protein,protein,20201128
+6464,O00264,PGRMC1,GO:0005741,Membrane-associated progesterone receptor component 1,protein,20191217
+6477,Q9HCU4,CELSR2,GO:0005737,Cadherin EGF LAG seven-pass G-type receptor 2,protein,20071123
+6480,O00258,GET1,GO:0005634,Guided entry of tail-anchored proteins factor 1,protein,20030904
+6484,O00254,F2RL2,GO:0005576,Proteinase-activated receptor 3,protein,20130528
+6498,O94759,TRPM2,GO:0005764,Transient receptor potential cation channel subfamily M member 2,protein,20160914
+6515,P48039,MTNR1A,GO:0005886,Melatonin receptor type 1A,protein,20130528
+6522,Q9HD43,PTPRH,GO:0005737,Receptor-type tyrosine-protein phosphatase H,protein,20201128
+6526,O00238,BMPR1B,GO:0005886,Bone morphogenetic protein receptor type-1B,protein,20160122
+6542,Q8IWU2,LMTK2,GO:0005769,Serine/threonine-protein kinase LMTK2,protein,20110110
+6555,D3W0D1,KLRF2,GO:0005887,Killer cell lectin-like receptor subfamily F member 2,protein,20101217
+6556,Q5DID0,UMODL1,GO:0005737,Uromodulin-like 1,protein,20201128
+6561,Q8TBE1,CNIH3,GO:0032281,Protein cornichon homolog 3,protein,20110405
+6562,P41180,CASR,GO:0005634,Extracellular calcium-sensing receptor,protein,20201128
+6585,P0CF51,TRGC1,GO:0016021,T cell receptor gamma constant 1,protein,20201128
+6588,P41146,OPRL1,GO:0005886,Nociceptin receptor,protein,20130528
+6597,P41145,OPRK1,GO:0005654,Kappa-type opioid receptor,protein,20171201
+6609,Q86VB7,CD163,GO:0005576,Scavenger receptor cysteine-rich type 1 protein M130,protein,20201128
+6617,P41143,OPRD1,GO:0005886,Delta-type opioid receptor,protein,20130528
+6633,Q9HAV5,EDA2R,GO:0005886,Tumor necrosis factor receptor superfamily member 27,protein,20150130
+6637,A0A0G2JNH3,A0A0G2JNH3,GO:0005886,Olfactory receptor,protein,20201128
+6639,Q9HAR2,ADGRL3,GO:0005887,Adhesion G protein-coupled receptor L3,protein,20150902
+6647,Q9HB29,IL1RL2,GO:0005886,Interleukin-1 receptor-like 2,protein,20170313
+6652,Q13772,NCOA4,GO:0005634,Nuclear receptor coactivator 4,protein,20030904
+6654,P36405,ARL3,GO:0032391,ADP-ribosylation factor-like protein 3,protein,20101220
+6655,Q86V85,GPR180,GO:0016021,Integral membrane protein GPR180,protein,20201128
+6656,P78552,IL13RA1,GO:0005886,Interleukin-13 receptor subunit alpha-1,protein,20160715
+6669,P23467,PTPRB,GO:0005886,Receptor-type tyrosine-protein phosphatase beta,protein,20160715
+6676,Q6IQ20,NAPEPLD,GO:0042622,N-acyl-phosphatidylethanolamine-hydrolyzing phospholipase D,protein,20130516
+6677,P08514,ITGA2B,GO:0008305,Integrin alpha-IIb,protein,20201128
+6678,Q13705,ACVR2B,GO:0005737,Activin receptor type-2B,protein,20061026
+6696,Q13702,RAPSN,GO:0005794,43 kDa receptor-associated protein of the synapse,protein,20201128
+6703,Q9BZV3,IMPG2,GO:0043235,Interphotoreceptor matrix proteoglycan 2,protein,20131227
+6704,Q9NZT2,OGFR,GO:0005575,Opioid growth factor receptor,protein,20061026
+6708,Q13478,IL18R1,GO:0005886,Interleukin-18 receptor 1,protein,20170713
+6713,Q13470,TNK1,GO:0005737,Non-receptor tyrosine-protein kinase TNK1,protein,20050127
+6716,Q9NZR2,LRP1B,GO:0016021,Low-density lipoprotein receptor-related protein 1B,protein,20201128
+6720,Q9UL54,TAOK2,GO:0043235,Serine/threonine-protein kinase TAO2,protein,20131230
+6721,Q9NZQ8,TRPM5,GO:0005886,Transient receptor potential cation channel subfamily M member 5,protein,20130516
+6724,P04234,CD3D,GO:0042101,T-cell surface glycoprotein CD3 delta chain,protein,20101102
+6727,P04233,CD74,GO:0035692,HLA class II histocompatibility antigen gamma chain,protein,20120403
+6728,Q9NZP5,OR5AC2,GO:0005886,Olfactory receptor 5AC2,protein,20130516
+6730,Q9NZP2,OR6C2,GO:0005886,Olfactory receptor 6C2,protein,20130516
+6732,Q9NZP0,OR6C3,GO:0005886,Olfactory receptor 6C3,protein,20130516
+6734,P04217,A1BG,GO:0005576,Alpha-1B-glycoprotein,protein,20180329
+6747,Q9NZN9,AIPL1,GO:0001917,Aryl-hydrocarbon-interacting protein-like 1,protein,20201128
+6752,P04201,MAS1,GO:0005886,Proto-oncogene Mas,protein,20090922
+6755,P34998,CRHR1,GO:0005768,Corticotropin-releasing factor receptor 1,protein,20201128
+6765,P34995,PTGER1,GO:0005886,Prostaglandin E2 receptor EP1 subtype,protein,20130528
+6771,Q13402,MYO7A,GO:0001750,Unconventional myosin-VIIa,protein,20061024
+6774,Q9BX79,STRA6,GO:0005886,Receptor for retinol uptake STRA6,protein,20130607
+6780,P34982,OR1D2,GO:0005886,Olfactory receptor 1D2,protein,20130516
+6782,P34981,TRHR,GO:0005886,Thyrotropin-releasing hormone receptor,protein,20120210
+6787,Q6IMN6,CAPRIN2,GO:0043235,Caprin-2,protein,20110203
+6788,P34972,CNR2,GO:0005783,Cannabinoid receptor 2,protein,20170421
+6799,P34969,HTR7,GO:0005886,5-hydroxytryptamine receptor 7,protein,20130528
+6806,Q08708,CD300C,GO:0005886,CMRF35-like molecule 6,protein,20150528
+6809,Q9NZH0,GPRC5B,GO:0005615,G-protein coupled receptor family C group 5 member B,protein,20140603
+6824,P34947,GRK5,GO:0005737,G protein-coupled receptor kinase 5,protein,20030904
+6834,Q8N6U8,GPR161,GO:0005929,G-protein coupled receptor 161,protein,20130222
+6841,P34931,HSPA1L,GO:0002199,Heat shock 70 kDa protein 1-like,protein,20201128
+6842,P34925,RYK,GO:0005634,Tyrosine-protein kinase RYK,protein,20101221
+6852,H0Y3Z8,H0Y3Z8,GO:0005886,Uncharacterized protein (Fragment),protein,20200808
+6854,Q9NZD1,GPRC5D,GO:0005886,G-protein coupled receptor family C group 5 member D,protein,20051117
+6860,P34903,GABRA3,GO:0005886,Gamma-aminobutyric acid receptor subunit alpha-3,protein,20130516
+6870,Q9NZC2,TREM2,GO:0005576,Triggering receptor expressed on myeloid cells 2,protein,20201128
+6892,Q9NZB2,FAM120A,GO:0005829,Constitutive coactivator of PPAR-gamma-like protein 1,protein,20131205
+6896,Q9P0W8,SPATA7,GO:0032391,Spermatogenesis-associated protein 7,protein,20141118
+6899,Q03167,TGFBR3,GO:0005615,Transforming growth factor beta receptor type 3,protein,20140603
+6912,P14415,ATP1B2,GO:0001917,Sodium/potassium-transporting ATPase subunit beta-2,protein,20190924
+6913,Q5T6X5,GPRC6A,GO:0005886,G-protein coupled receptor family C group 6 member A,protein,20130516
+6918,O14842,FFAR1,GO:0005886,Free fatty acid receptor 1,protein,20141001
+6926,H3BM21,H3BM21,GO:0008305,Integrin beta (Fragment),protein,20171102
+6927,O15455,TLR3,GO:0000139,Toll-like receptor 3,protein,20111019
+6966,Q9NYW7,TAS2R1,GO:0005886,Taste receptor type 2 member 1,protein,20130528
+6972,Q9NYW6,TAS2R3,GO:0005886,Taste receptor type 2 member 3,protein,20130528
+6978,Q9NYW3,TAS2R7,GO:0005886,Taste receptor type 2 member 7,protein,20130528
+6984,Q9NYW2,TAS2R8,GO:0005886,Taste receptor type 2 member 8,protein,20130528
+6990,Q9NYW0,TAS2R10,GO:0005886,Taste receptor type 2 member 10,protein,20130528
+6996,Q9NYV9,TAS2R13,GO:0005886,Taste receptor type 2 member 13,protein,20130528
+7002,Q9NYV7,TAS2R16,GO:0005783,Taste receptor type 2 member 16,protein,20070321
+7011,Q5T700,LDLRAD1,GO:0016021,Low-density lipoprotein receptor class A domain-containing protein 1,protein,20201128
+7012,H3BUX3,H3BUX3,GO:0005742,Uncharacterized protein (Fragment),protein,20170929
+7013,P14207,FOLR2,GO:0005576,Folate receptor beta,protein,20160929
+7020,Q6ZSJ9,SHISA6,GO:0032281,Protein shisa-6,protein,20170228
+7021,H3BV60,TGFBR3L,GO:0016021,Transforming growth factor-beta receptor type 3-like protein,protein,20201128
+7024,Q9GZZ7,GFRA4,GO:0005615,GDNF family receptor alpha-4,protein,20201128
+7049,Q9GZZ6,CHRNA10,GO:0016020,Neuronal acetylcholine receptor subunit alpha-10,protein,20020307
+7057,Q9NWZ3,IRAK4,GO:0005615,Interleukin-1 receptor-associated kinase 4,protein,20201128
+7112,O15259,NPHP1,GO:0032391,Nephrocystin-1,protein,20100716
+7113,P24468,NR2F2,GO:0005634,COUP transcription factor 2,protein,20100114
+7116,O15243,LEPROT,GO:0000139,Leptin receptor gene-related protein,protein,20201128
+7122,P19793,RXRA,GO:0000785,Retinoic acid receptor RXR-alpha,protein,20190405
+7144,Q96RJ3,TNFRSF13C,GO:0005886,Tumor necrosis factor receptor superfamily member 13C,protein,20150125
+7151,Q96RJ0,TAAR1,GO:0005886,Trace amine-associated receptor 1,protein,20090213
+7156,Q9GZQ6,NPFFR1,GO:0005886,Neuropeptide FF receptor 1,protein,20090107
+7162,Q9GZQ4,NMUR2,GO:0005886,Neuromedin-U receptor 2,protein,20190905
+7172,Q96RI9,TAAR9,GO:0005886,Trace amine-associated receptor 9,protein,20201128
+7174,Q96RI8,TAAR6,GO:0005886,Trace amine-associated receptor 6,protein,20201128
+7176,Q96RI1,NR1H4,GO:0000785,Bile acid receptor,protein,20190405
+7184,Q96RI0,F2RL3,GO:0005576,Proteinase-activated receptor 4,protein,20130528
+7197,Q9GZN0,GPR88,GO:0005634,Probable G-protein coupled receptor 88,protein,20160914
+7202,P35408,PTGER4,GO:0005886,Prostaglandin E2 receptor EP4 subtype,protein,20130528
+7208,Q13133,NR1H3,GO:0000785,Oxysterols receptor LXR-alpha,protein,20190405
+7218,P35414,APLNR,GO:0005886,Apelin receptor,protein,20170512
+7225,Q9NX05,FAM120C,GO:0005634,Constitutive coactivator of PPAR-gamma-like protein 2,protein,20170228
+7226,Q96RD9,FCRL5,GO:0009986,Fc receptor-like protein 5,protein,20171214
+7229,Q71H61,ILDR2,GO:0005789,Immunoglobulin-like domain-containing receptor 2,protein,20201128
+7231,Q96RD2,OR52B2,GO:0005886,Olfactory receptor 52B2,protein,20130516
+7233,Q96RD1,OR6C1,GO:0005886,Olfactory receptor 6C1,protein,20130516
+7235,Q96RD0,OR8B2,GO:0005886,Olfactory receptor 8B2,protein,20130528
+7237,Q9GZK4,OR2H1,GO:0005886,Olfactory receptor 2H1,protein,20130516
+7239,Q9GZK3,OR2B2,GO:0005886,Olfactory receptor 2B2,protein,20130528
+7241,Q96RC9,OR8B4,GO:0005886,Olfactory receptor 8B4,protein,20130516
+7243,P46098,HTR3A,GO:0005737,5-hydroxytryptamine receptor 3A,protein,20201128
+7255,P46095,GPR6,GO:0005887,G-protein coupled receptor 6,protein,20030904
+7258,P46094,XCR1,GO:0005886,Chemokine XC receptor 1,protein,20130528
+7264,P46093,GPR4,GO:0005886,G-protein coupled receptor 4,protein,20200224
+7270,P46092,CCR10,GO:0005783,C-C chemokine receptor type 10,protein,20161204
+7278,P46091,GPR1,GO:0005654,G-protein coupled receptor 1,protein,20171201
+7283,Q13114,TRAF3,GO:0005739,TNF receptor-associated factor 3,protein,20201128
+7322,P46089,GPR3,GO:0005887,G-protein coupled receptor 3,protein,20030904
+7325,Q96PE1,ADGRA2,GO:0005886,Adhesion G protein-coupled receptor A2,protein,20181030
+7332,Q9BS86,ZPBP,GO:0002199,Zona pellucida-binding protein 1,protein,20190719
+7333,Q96PB7,OLFM3,GO:0032281,Noelin-3,protein,20201128
+7334,Q9GZP7,VN1R1,GO:0005886,Vomeronasal type-1 receptor 1,protein,20201128
+7336,A5X5Y0,HTR3E,GO:0005886,5-hydroxytryptamine receptor 3E,protein,20130516
+7340,P0DSN6,TAS2R33,GO:0016021,Putative taste receptor type 2 member 33,protein,20201128
+7341,Q96P88,GNRHR2,GO:0005886,Putative gonadotropin-releasing hormone II receptor,protein,20130730
+7346,A8MPY1,GABRR3,GO:0005575,Gamma-aminobutyric acid receptor subunit rho-3,protein,20090811
+7354,Q96P69,GPR78,GO:0005886,G-protein coupled receptor 78,protein,20201128
+7356,Q96P68,OXGR1,GO:0005886,2-oxoglutarate receptor 1,protein,20161204
+7362,Q96P67,GPR82,GO:0005886,Probable G-protein coupled receptor 82,protein,20201128
+7364,Q96P66,GPR101,GO:0043235,Probable G-protein coupled receptor 101,protein,20131224
+7366,Q96P65,QRFPR,GO:0005886,Pyroglutamylated RF-amide peptide receptor,protein,20130528
+7372,P23471,PTPRZ1,GO:0005576,Receptor-type tyrosine-protein phosphatase zeta,protein,20201128
+7377,Q96LB0,MRGPRX3,GO:0005886,Mas-related G-protein coupled receptor member X3,protein,20201128
+7379,Q96LB1,MRGPRX2,GO:0005886,Mas-related G-protein coupled receptor member X2,protein,20201128
+7381,O60609,GFRA3,GO:0005829,GDNF family receptor alpha-3,protein,20161204
+7408,Q96P31,FCRL3,GO:0009986,Fc receptor-like protein 3,protein,20171214
+7410,A0A075B6H5,TRBV20OR9-2,GO:0005886,T cell receptor beta variable 20/OR9-2 (non-functional) (Fragment),protein,20200809
+7411,Q6GPH6,ITPRIPL1,GO:0016020,"Inositol 1,4,5-trisphosphate receptor-interacting protein-like 1",protein,20140627
+7414,P98164,LRP2,GO:0005764,Low-density lipoprotein receptor-related protein 2,protein,20030904
+7455,P98155,VLDLR,GO:0005765,Very low-density lipoprotein receptor,protein,20160519
+7470,Q9H902,REEP1,GO:0005737,Receptor expression-enhancing protein 1,protein,20061106
+7480,P19438,TNFRSF1A,GO:0000139,Tumor necrosis factor receptor superfamily member 1A,protein,20121031
+7512,Q9NQS5,GPR84,GO:0005886,G-protein coupled receptor 84,protein,20151019
+7521,Q5T1H1,EYS,GO:0001750,Protein eyes shut homolog,protein,20201128
+7522,Q6ZS82,RGS9BP,GO:0001750,Regulator of G-protein signaling 9-binding protein,protein,20201128
+7523,Q9NPF0,CD320,GO:0005783,CD320 antigen,protein,20100607
+7532,O60896,RAMP3,GO:0005886,Receptor activity-modifying protein 3,protein,20111116
+7549,O60894,RAMP1,GO:0005615,Receptor activity-modifying protein 1,protein,20201128
+7565,P02786,TFRC,GO:0005576,Transferrin receptor protein 1,protein,20021105
+7617,P29973,CNGA1,GO:0042622,cGMP-gated cation channel alpha-1,protein,20201128
+7618,O60840,CACNA1F,GO:0001750,Voltage-dependent L-type calcium channel subunit alpha-1F,protein,20201128
+7619,Q96R84,OR1F2P,GO:0005886,Putative olfactory receptor 1F2,protein,20201128
+7621,Q49SQ1,GPR33,GO:0016021,Probable G-protein coupled receptor 33,protein,20201128
+7623,Q96R69,OR4F4,GO:0005886,Olfactory receptor 4F4,protein,20130528
+7625,Q96R67,OR4C12,GO:0005886,Olfactory receptor 4C12,protein,20130516
+7627,Q96QU1,PCDH15,GO:0001750,Protocadherin-15,protein,20070806
+7628,Q96QT4,TRPM7,GO:0001726,Transient receptor potential cation channel subfamily M member 7,protein,20201128
+7631,P02708,CHRNA1,GO:0005886,Acetylcholine receptor subunit alpha,protein,20171201
+7648,Q96R48,OR2A5,GO:0005886,Olfactory receptor 2A5,protein,20130516
+7650,Q96R47,OR2A14,GO:0005886,Olfactory receptor 2A14,protein,20130516
+7652,Q96R45,OR2A7,GO:0005886,Olfactory receptor 2A7,protein,20130528
+7654,Q96R30,OR2V2,GO:0005886,Olfactory receptor 2V2,protein,20130516
+7656,Q96R27,OR2M4,GO:0005886,Olfactory receptor 2M4,protein,20130516
+7658,O15197,EPHB6,GO:0005576,Ephrin type-B receptor 6,protein,20130722
+7694,P24394,IL4R,GO:0005615,Interleukin-4 receptor subunit alpha,protein,20201128
+7717,P24390,KDELR1,GO:0000139,ER lumen protein-retaining receptor 1,protein,20190326
+7741,Q96R09,OR5B2,GO:0005886,Olfactory receptor 5B2,protein,20130516
+7743,Q96R08,OR5B12,GO:0005886,Olfactory receptor 5B12,protein,20130516
+7745,O15165,LDLRAD4,GO:0016021,Low-density lipoprotein receptor class A domain-containing protein 4,protein,20010911
+7749,O15146,MUSK,GO:0005887,"Muscle, skeletal receptor tyrosine-protein kinase",protein,20111111
+7755,O15111,CHUK,GO:0035631,Inhibitor of nuclear factor kappa-B kinase subunit alpha,protein,20110110
+7756,Q5T3J3,LRIF1,GO:0001740,Ligand-dependent nuclear receptor-interacting factor 1,protein,20180710
+7761,P04150,NR3C1,GO:0000785,Glucocorticoid receptor,protein,20190405
+7785,Q01968,OCRL,GO:0001750,Inositol polyphosphate 5-phosphatase OCRL,protein,20120615
+7786,Q9NYQ7,CELSR3,GO:0005886,Cadherin EGF LAG seven-pass G-type receptor 3,protein,20201128
+7788,Q9NYQ6,CELSR1,GO:0005654,Cadherin EGF LAG seven-pass G-type receptor 1,protein,20130311
+7791,Q13349,ITGAD,GO:0008305,Integrin alpha-D,protein,20010823
+7792,Q13332,PTPRS,GO:0005829,Receptor-type tyrosine-protein phosphatase S,protein,20131205
+7809,Q13324,CRHR2,GO:0005886,Corticotropin-releasing factor receptor 2,protein,20130528
+7818,Q13322,GRB10,GO:0005737,Growth factor receptor-bound protein 10,protein,20030904
+7824,Q9NYM4,GPR83,GO:0005886,Probable G-protein coupled receptor 83,protein,20151019
+7830,Q68DH5,LMBRD2,GO:0005886,G-protein coupled receptor-associated protein LMBRD2,protein,20201128
+7834,Q9BVV6,KIAA0586,GO:0001917,Protein TALPID3,protein,20201128
+7835,Q9NYK1,TLR7,GO:0000139,Toll-like receptor 7,protein,20130528
+7867,Q9P202,WHRN,GO:0001917,Whirlin,protein,20180926
+7871,Q9P1P5,TAAR2,GO:0005886,Trace amine-associated receptor 2,protein,20201128
+7873,P09693,CD3G,GO:0042101,T-cell surface glycoprotein CD3 gamma chain,protein,20031107
+7875,Q68CZ1,RPGRIP1L,GO:0032391,Protein fantom,protein,20200618
+7876,P09619,PDGFRB,GO:0005634,Platelet-derived growth factor receptor beta,protein,20110406
+7913,P25089,FPR3,GO:0005886,N-formyl peptide receptor 3,protein,20130528
+7919,O15399,GRIN2D,GO:0005886,"Glutamate receptor ionotropic, NMDA 2D",protein,20120320
+7930,Q68D85,NCR3LG1,GO:0005886,Natural cytotoxicity triggering receptor 3 ligand 1,protein,20150312
+7932,P25098,GRK2,GO:0005737,Beta-adrenergic receptor kinase 1,protein,20080206
+7945,O15354,GPR37,GO:0000151,Prosaposin receptor GPR37,protein,20140813
+7946,Q01638,IL1RL1,GO:0005576,Interleukin-1 receptor-like 1,protein,20201128
+7954,Q13018,PLA2R1,GO:0005576,Secretory phospholipase A2 receptor,protein,20111025
+7961,Q13003,GRIK3,GO:0005886,"Glutamate receptor ionotropic, kainate 3",protein,20130528
+7976,Q13002,GRIK2,GO:0005886,"Glutamate receptor ionotropic, kainate 2",protein,20130516
+7991,Q08345,DDR1,GO:0005615,Epithelial discoidin domain-containing receptor 1,protein,20140603
+7997,P0DTU4,TRB,GO:0016021,T cell receptor beta chain MC.7.G5,protein,20201128
+7999,P0DTU3,TRA,GO:0016021,T cell receptor alpha chain MC.7.G5,protein,20201128
+8001,Q9UN88,GABRQ,GO:0005886,Gamma-aminobutyric acid receptor subunit theta,protein,20130528
+8009,H0Y858,H0Y858,GO:0005886,Uncharacterized protein (Fragment),protein,20200810
+8010,Q9UMX5,NENF,GO:0005615,Neudesin,protein,20191118
+8015,O60759,CYTIP,GO:0005654,Cytohesin-interacting protein,protein,20131205
+8021,O60755,GALR3,GO:0005886,Galanin receptor type 3,protein,20081218
+8030,Q96PV6,LENG8,GO:0005634,Leukocyte receptor cluster member 8,protein,20200808
+8031,P56199,ITGA1,GO:0008305,Integrin alpha-1,protein,20010823
+8033,Q96Q45,TMEM237,GO:0032391,Transmembrane protein 237,protein,20201128
+8036,Q9BSG5,RTBDN,GO:0033165,Retbindin,protein,20201128
+8038,Q96PQ0,SORCS2,GO:0005887,VPS10 domain-containing receptor SorCS2,protein,20201128
+8047,P56159,GFRA1,GO:0005771,GDNF family receptor alpha-1,protein,20201128
+8077,P0DTE0,TAS2R36,GO:0016021,Putative taste receptor type 2 member 36,protein,20201128
+8078,O15078,CEP290,GO:0032391,Centrosomal protein of 290 kDa,protein,20061031
+8079,Q96PL2,TECTB,GO:0005576,Beta-tectorin,protein,20160929
+8084,O15031,PLXNB2,GO:0002116,Plexin-B2,protein,20170228
+8085,Q96PJ5,FCRL4,GO:0009986,Fc receptor-like protein 4,protein,20171214
+8087,Q86SU0,ILDR1,GO:0005829,Immunoglobulin-like domain-containing receptor 1,protein,20201128
+8092,P51159,RAB27A,GO:0001750,Ras-related protein Rab-27A,protein,20201128
+8093,Q6ZVX9,PAQR9,GO:0005886,Membrane progestin receptor epsilon,protein,20201128
+8095,P78334,GABRE,GO:0034707,Gamma-aminobutyric acid receptor subunit epsilon,protein,20201128
+8104,P78324,SIRPA,GO:0005886,Tyrosine-protein phosphatase non-receptor type substrate 1,protein,20130516
+8122,Q86SQ7,SDCCAG8,GO:0097733,Serologically defined colon cancer antigen 8,protein,20201128
+8123,Q86SQ6,ADGRA1,GO:0016021,Adhesion G protein-coupled receptor A1,protein,20081107
+8128,Q86SQ3,ADGRE4P,GO:0005576,Putative adhesion G protein-coupled receptor E4P,protein,20201128
+8131,Q86SP6,GPR149,GO:0043005,Probable G-protein coupled receptor 149,protein,20201206
+8133,Q9BXR5,TLR10,GO:0005886,Toll-like receptor 10,protein,20080327
+8149,Q86SM8,MRGPRE,GO:0005886,Mas-related G-protein coupled receptor member E,protein,20201128
+8151,Q86SM5,MRGPRG,GO:0005886,Mas-related G-protein coupled receptor member G,protein,20201128
+8153,P14543,NID1,GO:0005576,Nidogen-1,protein,20121022
+8167,Q6ZVN8,HJV,GO:0070724,Hemojuvelin,protein,20150528
+8169,Q5SW96,LDLRAP1,GO:0005769,Low density lipoprotein receptor adapter protein 1,protein,20050921
+8194,A0A4W9AIG4,OR2A14,GO:0005886,Olfactory receptor,protein,20201128
+8196,P33947,KDELR2,GO:0000139,ER lumen protein-retaining receptor 2,protein,20190326
+8211,Q7Z6M3,MILR1,GO:0005887,Allergin-1,protein,20110818
+8213,P43630,KIR3DL2,GO:0005886,Killer cell immunoglobulin-like receptor 3DL2,protein,20130528
+8215,Q9BXC1,GPR174,GO:0005887,Probable G-protein coupled receptor 174,protein,20170228
+8216,Q9BXC0,HCAR1,GO:0005886,Hydroxycarboxylic acid receptor 1,protein,20130418
+8221,O15552,FFAR2,GO:0005886,Free fatty acid receptor 2,protein,20140707
+8229,O15547,P2RX6,GO:0043235,P2X purinoceptor 6,protein,20190722
+8230,O15537,RS1,GO:0001917,Retinoschisin,protein,20190924
+8231,Q13490,BIRC2,GO:0035631,Baculoviral IAP repeat-containing protein 2,protein,20110110
+8232,O15529,GPR42,GO:0005887,G-protein coupled receptor 42,protein,20030904
+8247,Q5T601,ADGRF1,GO:0005576,Adhesion G-protein coupled receptor F1,protein,20201128
+8250,Q13285,NR5A1,GO:0000785,Steroidogenic factor 1,protein,20190405
+8261,P24530,EDNRB,GO:0005886,Endothelin receptor type B,protein,20170316
+8269,O15303,GRM6,GO:0000139,Metabotropic glutamate receptor 6,protein,20130807
+8280,Q13261,IL15RA,GO:0000139,Interleukin-15 receptor subunit alpha,protein,20201128
+8297,Q13258,PTGDR,GO:0005886,Prostaglandin D2 receptor,protein,20101028
+8304,Q13255,GRM1,GO:0005634,Metabotropic glutamate receptor 1,protein,20201128
+8319,A8MTJ3,GNAT3,GO:0001750,Guanine nucleotide-binding protein G(t) subunit alpha-3,protein,20200311
+8321,Q13241,KLRD1,GO:0043235,Natural killer cells antigen CD94,protein,20141212
+8322,Q6PI73,LILRA6,GO:0016021,Leukocyte immunoglobulin-like receptor subfamily A member 6,protein,20201128
+8323,Q13224,GRIN2B,GO:0005737,"Glutamate receptor ionotropic, NMDA 2B",protein,20181030
+8355,P04001,OPN1MW,GO:0097381,Medium-wave-sensitive opsin 1,protein,20161202
+8368,P04000,OPN1LW,GO:0097381,Long-wave-sensitive opsin 1,protein,20161202
+8381,Q9BV73,CEP250,GO:0001750,Centrosome-associated protein CEP250,protein,20190508
+8383,Q9NXK6,PAQR5,GO:0005886,Membrane progestin receptor gamma,protein,20201128
+8385,Q6PI25,CNIH2,GO:0032281,Protein cornichon homolog 2,protein,20110405
+8386,Q5T5C0,STXBP5,GO:0005892,Syntaxin-binding protein 5,protein,20110401
+8387,Q9BV23,ABHD6,GO:0032281,Monoacylglycerol lipase ABHD6,protein,20201128
+8388,Q9BUN5,CCDC28B,GO:0005737,Coiled-coil domain-containing protein 28B,protein,20201128
+8391,Q96R28,OR2M2,GO:0005886,Olfactory receptor 2M2,protein,20130516
+8393,P50148,GNAQ,GO:0001750,Guanine nucleotide-binding protein G(q) subunit alpha,protein,20150608
+8395,Q96QS1,TSPAN32,GO:0070442,Tetraspanin-32,protein,20201128
+8396,Q96R54,OR14A2,GO:0005886,Olfactory receptor 14A2,protein,20130516
+8398,P14416,DRD2,GO:0000139,D(2) dopamine receptor,protein,20201128
+8427,P48058,GRIA4,GO:0005886,Glutamate receptor 4,protein,20130213
+8449,Q9NWB7,IFT57,GO:0032391,Intraflagellar transport protein 57 homolog,protein,20201128
+8450,P08887,IL6R,GO:0005576,Interleukin-6 receptor subunit alpha,protein,20040310
+8485,Q96RA2,OR7D2,GO:0005886,Olfactory receptor 7D2,protein,20130516
+8487,O60895,RAMP2,GO:0005737,Receptor activity-modifying protein 2,protein,20111116
+8506,O15218,GPR182,GO:0005886,G-protein coupled receptor 182,protein,20201128
+8508,Q14114,LRP8,GO:0005615,Low-density lipoprotein receptor-related protein 8,protein,20201128
+8523,Q14108,SCARB2,GO:0000139,Lysosome membrane protein 2,protein,20171219
+8559,A0A0X1KG70,OR4M2B,GO:0016021,Olfactory receptor 4M2,protein,20201128
+8560,A6NND4,OR2AT4,GO:0005886,Olfactory receptor 2AT4,protein,20190308
+8563,P35626,GRK3,GO:0005829,Beta-adrenergic receptor kinase 2,protein,20160519
+8567,P15151,PVR,GO:0005615,Poliovirus receptor,protein,20030904
+8576,P35613,BSG,GO:0001750,Basigin,protein,20201128
+8578,Q9NS67,GPR27,GO:0005886,Probable G-protein coupled receptor 27,protein,20151019
+8583,Q9NS68,TNFRSF19,GO:0016021,Tumor necrosis factor receptor superfamily member 19,protein,20021105
+8585,Q9NS69,TOMM22,GO:0005739,Mitochondrial import receptor subunit TOM22 homolog,protein,20080818
+8591,Q12959,DLG1,GO:0008328,Disks large homolog 1,protein,20170228
+8592,Q12933,TRAF2,GO:0000151,TNF receptor-associated factor 2,protein,20140903
+8646,Q12929,EPS8,GO:0005938,Epidermal growth factor receptor kinase substrate 8,protein,20130222
+8657,Q12923,PTPN13,GO:0001650,Tyrosine-protein phosphatase non-receptor type 13,protein,20151016
+8673,Q12918,KLRB1,GO:0005886,Killer cell lectin-like receptor subfamily B member 1,protein,20130516
+8675,Q12913,PTPRJ,GO:0001772,Receptor-type tyrosine-protein phosphatase eta,protein,20110208
+8690,Q12912,IRAG2,GO:0000922,"Inositol 1,4,5-triphosphate receptor associated 2",protein,20201128
+8701,A6NMZ5,OR4C45,GO:0005886,Olfactory receptor 4C45,protein,20130528
+8703,P50542,PEX5,GO:0005737,Peroxisomal targeting signal 1 receptor,protein,20120425
+8728,A0A0B4J2E0,TRBV12-4,GO:0042101,T cell receptor beta variable 12-4,protein,20201128
+8730,A6NMU1,OR52A4P,GO:0005886,Olfactory receptor 52A4,protein,20201128
+8732,A6NMS3,OR5K4,GO:0005886,Olfactory receptor 5K4,protein,20130516
+8734,Q9NSD7,RXFP3,GO:0005886,Relaxin-3 receptor 1,protein,20130528
+8739,P13945,ADRB3,GO:0005886,Beta-3 adrenergic receptor,protein,20130528
+8747,O00270,GPR31,GO:0005886,"12-(S)-hydroxy-5,8,10,14-eicosatetraenoic acid receptor",protein,20191031
+8754,Q9UPI3,FLVCR2,GO:0005886,Feline leukemia virus subgroup C receptor-related protein 2,protein,20201128
+8756,Q13077,TRAF1,GO:0005737,TNF receptor-associated factor 1,protein,20030904
+8762,P25092,GUCY2C,GO:0005789,Heat-stable enterotoxin receptor,protein,20201128
+8767,P25090,FPR2,GO:0005737,N-formyl peptide receptor 2,protein,20171117
+8786,P13688,CEACAM1,GO:0042101,Carcinoembryonic antigen-related cell adhesion molecule 1,protein,20160324
+8787,A0A0B4J263,TRAV39,GO:0042101,T cell receptor alpha variable 39,protein,20201128
+8788,P25025,CXCR2,GO:0005654,C-X-C chemokine receptor type 2,protein,20190905
+8803,P25024,CXCR1,GO:0005886,C-X-C chemokine receptor type 1,protein,20100217
+8811,P25021,HRH2,GO:0005886,Histamine H2 receptor,protein,20100217
+8818,P13631,RARG,GO:0000785,Retinoic acid receptor gamma,protein,20190405
+8829,A0A087WSZ9,TRAV30,GO:0042101,T cell receptor alpha variable 30,protein,20201128
+8830,P13612,ITGA4,GO:0034668,Integrin alpha-4,protein,20200317
+8833,P13611,VCAN,GO:0001750,Versican core protein,protein,20201128
+8834,A0A0A0MS06,TRBV23-1,GO:0042101,Probable non-functional T cell receptor beta variable 23-1,protein,20201128
+8836,A0A0A0MS05,TRBV5-7,GO:0042101,Probable non-functional T cell receptor beta variable 5-7,protein,20201128
+8838,A0A0A0MS04,TRBV6-7,GO:0042101,Probable non-functional T cell receptor beta variable 6-7,protein,20201128
+8840,A0A0A0MS03,TRBV5-3,GO:0042101,Probable non-functional T cell receptor beta variable 5-3,protein,20201128
+8842,A0A0A0MS02,TRGV1,GO:0042101,Probable non-functional T cell receptor gamma variable,protein,20201128
+8844,A0A0A0MS01,TRGV10,GO:0042101,Probable non-functional T cell receptor gamma variable 10,protein,20201128
+8846,P08922,ROS1,GO:0009986,Proto-oncogene tyrosine-protein kinase ROS,protein,20201128
+8851,Q9BZW8,CD244,GO:0005886,Natural killer cell receptor 2B4,protein,20130528
+8854,P08913,ADRA2A,GO:0005737,Alpha-2A adrenergic receptor,protein,20100624
+8870,P08912,CHRM5,GO:0005886,Muscarinic acetylcholine receptor M5,protein,20130111
+8878,P20273,CD22,GO:0005737,B-cell receptor CD22,protein,20180726
+8894,H0Y8X5,H0Y8X5,GO:0005886,Uncharacterized protein (Fragment),protein,20181205
+8895,P08908,HTR1A,GO:0005886,5-hydroxytryptamine receptor 1A,protein,20130528
+8903,A0A087WT57,A0A087WT57,GO:0019815,Uncharacterized protein (Fragment),protein,20180504
+8904,O14654,IRS4,GO:0005886,Insulin receptor substrate 4,protein,20130516
+8908,O14653,GOSR2,GO:0000139,Golgi SNAP receptor complex member 2,protein,20170621
+8940,P35243,RCVRN,GO:0001750,Recoverin,protein,20201128
+8942,Q86UY8,NT5DC3,GO:0043235,5'-nucleotidase domain-containing protein 3,protein,20131231
+8943,A0A087WT01,TRAV27,GO:0042105,T cell receptor alpha variable 27,protein,20200113
+8944,P35236,PTPN7,GO:0005654,Tyrosine-protein phosphatase non-receptor type 7,protein,20170614
+8953,Q01718,MC2R,GO:0005886,Adrenocorticotropic hormone receptor,protein,20081216
+8961,Q01726,MC1R,GO:0005886,Melanocyte-stimulating hormone receptor,protein,20091114
+8970,Q8IV45,UNC5CL,GO:0005737,UNC5C-like protein,protein,20201128
+8973,Q07869,PPARA,GO:0000785,Peroxisome proliferator-activated receptor alpha,protein,20190405
+8982,Q14626,IL11RA,GO:0005576,Interleukin-11 receptor subunit alpha,protein,20201128
+8988,Q14627,IL13RA2,GO:0005576,Interleukin-13 receptor subunit alpha-2,protein,20130528
+8993,O43869,OR2T1,GO:0005886,Olfactory receptor 2T1,protein,20130731
+8995,Q96HR9,REEP6,GO:0001917,Receptor expression-enhancing protein 6,protein,20170220
+9002,O75388,GPR32,GO:0005886,Probable G-protein coupled receptor 32,protein,20151019
+9007,Q9UBN4,TRPC4,GO:0005886,Short transient receptor potential channel 4,protein,20060810
+9017,Q9H1Y3,OPN3,GO:0001750,Opsin-3,protein,20210129
+9018,P59773,MINAR2,GO:0016021,Major intrinsically disordered NOTCH2-binding receptor 1-like,protein,20201128
+9019,O43822,CFAP410,GO:0001750,Cilia- and flagella-associated protein 410,protein,20170817
+9021,P0C646,OR52Z1,GO:0005886,Olfactory receptor 52Z1,protein,20201128
+9023,P0C645,OR4E1,GO:0005886,Olfactory receptor 4E1,protein,20130528
+9025,P0C629,OR10J4,GO:0005886,Olfactory receptor 10J4,protein,20201128
+9027,P0C628,OR5AC1,GO:0005886,Olfactory receptor 5AC1,protein,20201128
+9029,P0C626,OR5G3,GO:0005886,Olfactory receptor 5G3,protein,20201128
+9031,P0C623,OR4Q2,GO:0005886,Olfactory receptor 4Q2,protein,20130528
+9033,P0C617,OR5AL1,GO:0005886,Olfactory receptor 5AL1,protein,20201128
+9035,Q9H255,OR51E2,GO:0005886,Olfactory receptor 51E2,protein,20140625
+9043,Q9UJZ1,STOML2,GO:0042101,"Stomatin-like protein 2, mitochondrial",protein,20130218
+9044,P30874,SSTR2,GO:0005829,Somatostatin receptor type 2,protein,20151016
+9051,P0C604,OR4A8,GO:0005886,Olfactory receptor 4A8,protein,20130528
+9053,Q9H244,P2RY12,GO:0005739,P2Y purinoceptor 12,protein,20201128
+9072,Q9H237,PORCN,GO:0032281,Protein-serine O-palmitoleoyltransferase porcupine,protein,20201128
+9073,P42261,GRIA1,GO:0000139,Glutamate receptor 1,protein,20201129
+9128,Q9P296,C5AR2,GO:0005886,C5a anaphylatoxin chemotactic receptor 2,protein,20160121
+9133,Q9H228,S1PR5,GO:0005886,Sphingosine 1-phosphate receptor 5,protein,20130528
+9140,Q9H222,ABCG5,GO:0043235,ATP-binding cassette sub-family G member 5,protein,20141103
+9141,Q9H221,ABCG8,GO:0043235,ATP-binding cassette sub-family G member 8,protein,20141103
+9142,Q9H210,OR2D2,GO:0005886,Olfactory receptor 2D2,protein,20130528
+9144,Q9H209,OR10A4,GO:0005886,Olfactory receptor 10A4,protein,20130528
+9146,Q9H208,OR10A2,GO:0005886,Olfactory receptor 10A2,protein,20130528
+9148,Q9H207,OR10A5,GO:0005886,Olfactory receptor 10A5,protein,20130528
+9150,Q9H205,OR2AG1,GO:0005886,Olfactory receptor 2AG1,protein,20130528
+9152,Q16570,ACKR1,GO:0005769,Atypical chemokine receptor 1,protein,20201128
+9156,Q5VWK5,IL23R,GO:0005886,Interleukin-23 receptor,protein,20091203
+9166,Q2VPA4,CR1L,GO:0005576,Complement component receptor 1-like protein,protein,20201128
+9170,P07333,CSF1R,GO:0005654,Macrophage colony-stimulating factor 1 receptor,protein,20161204
+9182,P03372,ESR1,GO:0000785,Estrogen receptor,protein,20190405
+9254,Q6IA17,SIGIRR,GO:0005886,Single Ig IL-1-related receptor,protein,20130528
+9257,O43559,FRS3,GO:0005886,Fibroblast growth factor receptor substrate 3,protein,20130524
+9284,P07307,ASGR2,GO:0005886,Asialoglycoprotein receptor 2,protein,20160519
+9288,P07306,ASGR1,GO:0005576,Asialoglycoprotein receptor 1,protein,20201128
+9291,Q5T035,C9orf129,GO:0005634,Putative uncharacterized protein C9orf129,protein,20170228
+9292,Q6IEZ7,OR2T5,GO:0005886,Olfactory receptor 2T5,protein,20130528
+9294,A0A1B0GXF2,TRBV7-2,GO:0042101,T cell receptor beta variable 7-2,protein,20201128
+9296,Q6ZNB5,Q6ZNB5,GO:0005694,Putative short transient receptor potential channel 2-like protein,protein,20190905
+9298,Q9NS75,CYSLTR2,GO:0005575,Cysteinyl leukotriene receptor 2,protein,20061026
+9304,Q9H6S3,EPS8L2,GO:0005829,Epidermal growth factor receptor kinase substrate 8-like protein 2,protein,20111111
+9316,Q6IEY1,OR4F16,GO:0005886,Olfactory receptor 4F3/4F16/4F29,protein,20130528
+9318,O95371,OR2C1,GO:0005886,Olfactory receptor 2C1,protein,20130528
+9321,Q9NS66,GPR173,GO:0016021,Probable G-protein coupled receptor 173,protein,20201128
+9323,Q6IF99,OR10K2,GO:0005886,Olfactory receptor 10K2,protein,20130528
+9325,Q9NS56,TOPORS,GO:0032391,E3 ubiquitin-protein ligase Topors,protein,20120530
+9327,Q6IF82,OR4A47,GO:0005886,Olfactory receptor 4A47,protein,20130516
+9329,Q6IEV9,OR4C11,GO:0005886,Olfactory receptor 4C11,protein,20130516
+9331,Q6IEU7,OR5M10,GO:0005886,Olfactory receptor 5M10,protein,20130516
+9333,Q6IF63,OR52W1,GO:0005886,Olfactory receptor 52W1,protein,20130516
+9335,Q9UP52,TFR2,GO:0005886,Transferrin receptor protein 2,protein,20160715
+9343,P19235,EPOR,GO:0005576,Erythropoietin receptor,protein,20201128
+9354,Q6IF42,OR2A2,GO:0005886,Olfactory receptor 2A2,protein,20130528
+9356,Q6IF36,OR8G2P,GO:0005886,Putative olfactory receptor 8G2,protein,20150519
+9358,Q9NRM6,IL17RB,GO:0005576,Interleukin-17 receptor B,protein,20201128
+9366,Q6IF00,OR2T2,GO:0005886,Olfactory receptor 2T2,protein,20130528
+9368,Q9H6H4,REEP4,GO:0005783,Receptor expression-enhancing protein 4,protein,20130902
+9374,A0A1B0GX95,TRBV7-4,GO:0042101,T cell receptor beta variable 7-4,protein,20201128
+9376,Q8N628,OR2C3,GO:0005886,Olfactory receptor 2C3,protein,20171201
+9379,P0DPR3,TRDD1,GO:0042101,T cell receptor delta diversity 1,protein,20201128
+9380,O60391,GRIN3B,GO:0017146,"Glutamate receptor ionotropic, NMDA 3B",protein,20080625
+9385,A0A1B0GX78,TRBV12-5,GO:0042101,T cell receptor beta variable 12-5,protein,20201128
+9387,A0A1B0GX68,TRBV2,GO:0042101,T cell receptor beta variable 2,protein,20201128
+9389,P29475,NOS1,GO:0001917,"Nitric oxide synthase, brain",protein,20080716
+9391,A0A1B0GX56,TRDV1,GO:0042101,T cell receptor delta variable 1,protein,20201128
+9393,Q00765,REEP5,GO:0005783,Receptor expression-enhancing protein 5,protein,20161204
+9396,A0A1B0GX51,TRBV7-8,GO:0042101,T cell receptor beta variable 7-8,protein,20201128
+9398,P29460,IL12B,GO:0005576,Interleukin-12 subunit beta,protein,20161011
+9430,A0A1B0GX49,TRBV6-4,GO:0042101,T cell receptor beta variable 6-4,protein,20201128
+9432,O60359,CACNG3,GO:0032281,Voltage-dependent calcium channel gamma-3 subunit,protein,20110404
+9434,A0A1B0GX31,TRBV7-6,GO:0042101,T cell receptor beta variable 7-6,protein,20201128
+9436,B8ZZ34,SHISA8,GO:0032281,Protein shisa-8,protein,20170228
+9437,P0DPI4,TRBD1,GO:0042101,T cell receptor beta diversity 1,protein,20201128
+9438,Q6ZMJ2,SCARA5,GO:0005887,Scavenger receptor class A member 5,protein,20090216
+9440,O95407,TNFRSF6B,GO:0005576,Tumor necrosis factor receptor superfamily member 6B,protein,20150218
+9442,P0DPF7,TRBV6-3,GO:0042101,T cell receptor beta variable 6-3,protein,20201128
+9444,P0DPF4,TRAV35,GO:0042101,T cell receptor alpha variable 35,protein,20201128
+9445,P37173,TGFBR2,GO:0005829,TGF-beta receptor type-2,protein,20130530
+9496,Q9NQW8,CNGB3,GO:0001750,Cyclic nucleotide-gated cation channel beta-3,protein,20201128
+9497,P32927,CSF2RB,GO:0005886,Cytokine receptor common subunit beta,protein,20130516
+9527,Q9UNW8,GPR132,GO:0005886,Probable G-protein coupled receptor 132,protein,20091026
+9532,Q9H5P4,PDZD7,GO:0032391,PDZ domain-containing protein 7,protein,20170502
+9534,P07766,CD3E,GO:0042101,T-cell surface glycoprotein CD3 epsilon chain,protein,20101102
+9537,Q9NPH3,IL1RAP,GO:0005576,Interleukin-1 receptor accessory protein,protein,20201128
+9555,P29275,ADORA2B,GO:0005886,Adenosine receptor A2b,protein,20130528
+9560,P29274,ADORA2A,GO:0000139,Adenosine receptor A2a,protein,20130528
+9577,Q9H341,OR51M1,GO:0005886,Olfactory receptor 51M1,protein,20130516
+9580,Q9NPC1,LTB4R2,GO:0005654,Leukotriene B4 receptor 2,protein,20161204
+9588,O75132,ZBED4,GO:0001917,Zinc finger BED domain-containing protein 4,protein,20201128
+9589,Q9NPB9,ACKR4,GO:0005769,Atypical chemokine receptor 4,protein,20201128
+9594,Q96K78,ADGRG7,GO:0016021,Adhesion G-protein coupled receptor G7,protein,20050510
+9596,O75911,DHRS3,GO:0042622,Short-chain dehydrogenase/reductase 3,protein,20130516
+9597,P17813,ENG,GO:0005615,Endoglin,protein,20090115
+9608,P0C7T3,OR56A5,GO:0005886,Olfactory receptor 56A5,protein,20130528
+9610,P0C7T2,OR2T7,GO:0005886,Olfactory receptor 2T7,protein,20130516
+9612,Q96JP9,CDHR1,GO:0042622,Cadherin-related family member 1,protein,20201128
+9613,Q8NAC3,IL17RC,GO:0005886,Interleukin-17 receptor C,protein,20130516
+9616,Q9NP99,TREM1,GO:0005576,Triggering receptor expressed on myeloid cells 1,protein,20201128
+9621,P0C7Q2,ARMS2,GO:0001917,Age-related maculopathy susceptibility protein 2,protein,20100104
+9622,P32745,SSTR3,GO:0005737,Somatostatin receptor type 3,protein,20201128
+9634,Q9HB89,NMUR1,GO:0005886,Neuromedin-U receptor 1,protein,20130528
+9643,P59922,OR2B8P,GO:0005886,Putative olfactory receptor 2B8,protein,20201128
+9645,O95665,NTSR2,GO:0005886,Neurotensin receptor type 2,protein,20081217
+9650,Q9H3S7,PTPN23,GO:0005634,Tyrosine-protein phosphatase non-receptor type 23,protein,20110923
+9661,P0C7N8,OR9G9,GO:0005886,Olfactory receptor 9G9,protein,20201128
+9663,P0C7N5,OR8U9,GO:0005886,Olfactory receptor 8U9,protein,20201128
+9665,P0C7N1,OR8U8,GO:0005886,Olfactory receptor 8U8,protein,20130528
+9667,Q9NP60,IL1RAPL2,GO:0005886,X-linked interleukin-1 receptor accessory protein-like 2,protein,20160715
+9671,P59901,LILRA4,GO:0005887,Leukocyte immunoglobulin-like receptor subfamily A member 4,protein,20170727
+9673,Q16774,GUK1,GO:0001917,Guanylate kinase,protein,20190812
+9674,Q9H3N8,HRH4,GO:0005886,Histamine H4 receptor,protein,20100217
+9681,P07550,ADRB2,GO:0005634,Beta-2 adrenergic receptor,protein,20201128
+9723,Q9UM47,NOTCH3,GO:0043235,Neurogenic locus notch homolog protein 3,protein,20131231
+9725,A0A5B9,TRBC2,GO:0016021,T cell receptor beta constant 2,protein,20201128
+9729,A0A5B7,TRBV29-1,GO:0042101,T cell receptor beta variable 29-1,protein,20201128
+9731,A0A5B6,TRBV28,GO:0042101,T cell receptor beta variable 28,protein,20201128
+9733,A0A5B0,TRBV14,GO:0042101,T cell receptor beta variable 14,protein,20201128
+9735,Q5VYJ5,MALRD1,GO:0005794,MAM and LDL-receptor class A domain-containing protein 1,protein,20151016
+9738,A0A5A2,TRBV5-8,GO:0042101,T cell receptor beta variable 5-8,protein,20201128
+9740,P0DN82,OR12D1,GO:0005886,Olfactory receptor 12D1,protein,20201128
+9742,P0DN81,OR13C7,GO:0005886,Olfactory receptor 13C7,protein,20201128
+9744,P0DN80,OR5H8,GO:0005886,Olfactory receptor 5H8,protein,20201128
+9746,P0DN77,OPN1MW2,GO:0001750,Medium-wave-sensitive opsin 2,protein,20210129
+9747,P07510,CHRNG,GO:0005886,Acetylcholine receptor subunit gamma,protein,20130528
+9753,Q96JB6,LOXL4,GO:0043235,Lysyl oxidase homolog 4,protein,20131227
+9754,O43353,RIPK2,GO:0005737,Receptor-interacting serine/threonine-protein kinase 2,protein,20131122
+9775,P0DMU2,OR8G3P,GO:0005886,Putative olfactory receptor 8G3 pseudogene,protein,20201128
+9777,P49685,GPR15,GO:0005737,G-protein coupled receptor 15,protein,20191114
+9785,P49683,PRLHR,GO:0005886,Prolactin-releasing peptide receptor,protein,20130528
+9788,P49682,CXCR3,GO:0005737,C-X-C chemokine receptor type 3,protein,20030904
+9794,P59544,TAS2R50,GO:0005886,Taste receptor type 2 member 50,protein,20130528
+9800,P59543,TAS2R20,GO:0005886,Taste receptor type 2 member 20,protein,20130528
+9805,P59542,TAS2R19,GO:0005886,Taste receptor type 2 member 19,protein,20130528
+9811,P59541,TAS2R30,GO:0005886,Taste receptor type 2 member 30,protein,20130528
+9817,P59540,TAS2R46,GO:0005886,Taste receptor type 2 member 46,protein,20130528
+9824,P59539,TAS2R45,GO:0005886,Taste receptor type 2 member 45,protein,20130528
+9830,P59538,TAS2R31,GO:0005886,Taste receptor type 2 member 31,protein,20130528
+9836,P59537,TAS2R43,GO:0005886,Taste receptor type 2 member 43,protein,20130528
+9845,P59536,TAS2R41,GO:0005886,Taste receptor type 2 member 41,protein,20130528
+9851,P59535,TAS2R40,GO:0005886,Taste receptor type 2 member 40,protein,20130528
+9857,P59534,TAS2R39,GO:0005886,Taste receptor type 2 member 39,protein,20130528
+9863,P59533,TAS2R38,GO:0005886,Taste receptor type 2 member 38,protein,20130512
+9870,P20941,PDC,GO:0001750,Phosducin,protein,20201128
+9872,P32302,CXCR5,GO:0005886,C-X-C chemokine receptor type 5,protein,20100217
+9878,Q9UI40,SLC24A2,GO:0001917,Sodium/potassium/calcium exchanger 2,protein,20191216
+9879,O43731,KDELR3,GO:0000139,ER lumen protein-retaining receptor 3,protein,20190326
+9894,Q9Y5E8,PCDHB15,GO:0032391,Protocadherin beta-15,protein,20201128
+9895,Q9UHQ4,BCAP29,GO:0016020,B-cell receptor-associated protein 29,protein,20171212
+9899,Q5JRS4,OR10J3,GO:0005886,Olfactory receptor 10J3,protein,20130528
+9901,A0A087X0M5,TRBV18,GO:0042101,T cell receptor beta variable 18,protein,20201128
+9903,P42566,EPS15,GO:0005829,Epidermal growth factor receptor substrate 15,protein,20090616
+9945,Q9Y4A9,OR10H1,GO:0005886,Olfactory receptor 10H1,protein,20130528
+9949,P49286,MTNR1B,GO:0005886,Melatonin receptor type 1B,protein,20130528
+9956,Q04912,MST1R,GO:0001725,Macrophage-stimulating protein receptor,protein,20201128
+9965,Q9UHM6,OPN4,GO:0097381,Melanopsin,protein,20161202
+9969,O95977,S1PR4,GO:0005739,Sphingosine 1-phosphate receptor 4,protein,20190905
+9977,O95965,ITGBL1,GO:0008305,Integrin beta-like protein 1,protein,20171102
+9978,H7C3V1,H7C3V1,GO:0005886,Uncharacterized protein (Fragment),protein,20200808
+9980,Q9UHJ9,PGAP2,GO:0000139,Post-GPI attachment to proteins factor 2,protein,20080314
+9984,P49238,CX3CR1,GO:0005886,CX3C chemokine receptor 1,protein,20201119
+10000,O95944,NCR2,GO:0005886,Natural cytotoxicity triggering receptor 2,protein,20130528
+10004,O95918,OR2H2,GO:0005886,Olfactory receptor 2H2,protein,20130516
+10006,Q9UHF4,IL20RA,GO:0005886,Interleukin-20 receptor subunit alpha,protein,20170505
+10032,Q96F85,CNRIP1,GO:0005737,CB1 cannabinoid receptor-interacting protein 1,protein,20171024
+10035,O75445,USH2A,GO:0001917,Usherin,protein,20180926
+10037,P17342,NPR3,GO:0005887,Atrial natriuretic peptide receptor 3,protein,20120510
+10040,A0A1B0GXH9,TRBV7-3,GO:0005886,T cell receptor beta variable 7-3 (Fragment),protein,20200809
+10041,P54829,PTPN5,GO:0005654,Tyrosine-protein phosphatase non-receptor type 5,protein,20170614
+10044,Q9NR96,TLR9,GO:0000139,Toll-like receptor 9,protein,20130528
+10084,Q96NW7,LRRC7,GO:0008328,Leucine-rich repeat-containing protein 7,protein,20170228
+10085,Q17R60,IMPG1,GO:0001750,Interphotoreceptor matrix proteoglycan 1,protein,20201128
+10087,Q14D33,RTP5,GO:0016021,Receptor-transporting protein 5,protein,20201128
+10088,Q9BQI9,NRIP2,GO:0005634,Nuclear receptor-interacting protein 2,protein,20201128
+10090,Q96NR8,RDH12,GO:0001917,Retinol dehydrogenase 12,protein,20181108
+10092,O95214,LEPROTL1,GO:0016021,Leptin receptor overlapping transcript-like 1,protein,20201128
+10094,P09104,ENO2,GO:0001917,Gamma-enolase,protein,20201128
+10095,Q9NSY0,NRBP2,GO:0005737,Nuclear receptor-binding protein 2,protein,20100429
+10098,P24071,FCAR,GO:0005576,Immunoglobulin alpha Fc receptor,protein,20201128
+10107,Q96RY7,IFT140,GO:0001750,Intraflagellar transport protein 140 homolog,protein,20201128
+10109,Q96NL8,C8orf37,GO:0001917,Protein C8orf37,protein,20180316
+10110,P24046,GABRR1,GO:0005886,Gamma-aminobutyric acid receptor subunit rho-1,protein,20130516
+10119,A9YTQ3,AHRR,GO:0000785,Aryl hydrocarbon receptor repressor,protein,20190405
+10125,P12643,BMP2,GO:0070724,Bone morphogenetic protein 2,protein,20150528
+10126,Q5JZY3,EPHA10,GO:0005576,Ephrin type-A receptor 10,protein,20201128
+10141,P03999,OPN1SW,GO:0001917,Short-wave-sensitive opsin 1,protein,20201128
+10155,Q9UPU3,SORCS3,GO:0016020,VPS10 domain-containing receptor SorCS3,protein,20030424
+10159,Q01362,MS4A2,GO:0005886,High affinity immunoglobulin epsilon receptor subunit beta,protein,20130516
+10170,P07949,RET,GO:0005769,Proto-oncogene tyrosine-protein kinase receptor Ret,protein,20201128
+10207,P07948,LYN,GO:0034666,Tyrosine-protein kinase Lyn,protein,20201128
+10208,Q9NRC6,SPTBN5,GO:0032391,"Spectrin beta chain, non-erythrocytic 5",protein,20140226
+10210,Q01344,IL5RA,GO:0005615,Interleukin-5 receptor subunit alpha,protein,20030904
+10236,Q9H7L2,KIR3DX1,GO:0005576,Putative killer cell immunoglobulin-like receptor-like protein KIR3DX1,protein,20201128
+10237,Q9NR28,DIABLO,GO:0035631,"Diablo homolog, mitochondrial",protein,20110110
+10238,Q5JY77,GPRASP1,GO:0005829,G-protein coupled receptor-associated sorting protein 1,protein,20151016
+10239,Q9NR16,CD163L1,GO:0005576,Scavenger receptor cysteine-rich type 1 protein M160,protein,20201128
+10242,Q9NQN1,OR2S2,GO:0005886,Olfactory receptor 2S2,protein,20130516
+10244,Q01113,IL9R,GO:0005615,Interleukin-9 receptor,protein,20030904
+10253,Q96LA9,MRGPRX4,GO:0005886,Mas-related G-protein coupled receptor member X4,protein,20201128
+10255,Q96LA6,FCRL1,GO:0009986,Fc receptor-like protein 1,protein,20171214
+10257,Q96LA5,FCRL2,GO:0009986,Fc receptor-like protein 2,protein,20171214
+10260,O43193,MLNR,GO:0005886,Motilin receptor,protein,20130528
+10265,O43194,GPR39,GO:0005886,G-protein coupled receptor 39,protein,20130516
+10273,Q9Y4H2,IRS2,GO:0005829,Insulin receptor substrate 2,protein,20130503
+10302,P29376,LTK,GO:0005886,Leukocyte tyrosine kinase receptor,protein,20030904
+10306,P29371,TACR3,GO:0005634,Neuromedin-K receptor,protein,20201128
+10318,P29350,PTPN6,GO:0005576,Tyrosine-protein phosphatase non-receptor type 6,protein,20160715
+10345,O60242,ADGRB3,GO:0005886,Adhesion G protein-coupled receptor B3,protein,20150616
+10350,O60241,ADGRB2,GO:0005886,Adhesion G protein-coupled receptor B2,protein,20201119
+10354,P22607,FGFR3,GO:0005576,Fibroblast growth factor receptor 3,protein,20201128
+10425,P17948,FLT1,GO:0005615,Vascular endothelial growth factor receptor 1,protein,20030904
+10436,P29323,EPHB2,GO:0005576,Ephrin type-B receptor 2,protein,20130722
+10483,P29320,EPHA3,GO:0005576,Ephrin type-A receptor 3,protein,20201128
+10506,Q9NQA5,TRPV5,GO:0005886,Transient receptor potential cation channel subfamily V member 5,protein,20130516
+10511,P29317,EPHA2,GO:0005886,Ephrin type-A receptor 2,protein,20200923
+10539,P17927,CR1,GO:0005856,Complement receptor type 1,protein,20201110
+10557,P30518,AVPR2,GO:0005768,Vasopressin V2 receptor,protein,20191018
+10591,O95502,NPTXR,GO:0016021,Neuronal pentraxin receptor,protein,20201128
+10593,P30533,LRPAP1,GO:0005576,Alpha-2-macroglobulin receptor-associated protein,protein,20160816
+10610,A0A1B0GVI7,A0A1B0GVI7,GO:0034751,Uncharacterized protein (Fragment),protein,20200903
+10612,Q9NPY3,CD93,GO:0005886,Complement component C1q receptor,protein,20100607
+10623,P30556,AGTR1,GO:0005886,Type-1 angiotensin II receptor,protein,20100611
+10632,Q96KN7,RPGRIP1,GO:0032391,X-linked retinitis pigmentosa GTPase regulator-interacting protein 1,protein,20141118
+10635,Q49MI3,CERKL,GO:0001750,Ceramide kinase-like protein,protein,20201128
+10637,Q96A54,ADIPOR1,GO:0005886,Adiponectin receptor protein 1,protein,20100202
+10643,Q9UJM3,ERRFI1,GO:0005634,ERBB receptor feedback inhibitor 1,protein,20201128
+10648,Q9Y2C9,TLR6,GO:0005794,Toll-like receptor 6,protein,20151022
+10677,P49458,SRP9,GO:0005785,Signal recognition particle 9 kDa protein,protein,20030904
+10678,P42702,LIFR,GO:0005886,Leukemia inhibitory factor receptor,protein,20150514
+10691,P42701,IL12RB1,GO:0005886,Interleukin-12 receptor subunit beta-1,protein,20161202
+10709,Q9H1C0,LPAR5,GO:0005575,Lysophosphatidic acid receptor 5,protein,20061026
+10718,P47890,OR1G1,GO:0005886,Olfactory receptor 1G1,protein,20130528
+10720,P10828,THRB,GO:0000785,Thyroid hormone receptor beta,protein,20190405
+10726,P10827,THRA,GO:0000785,Thyroid hormone receptor alpha,protein,20190405
+10733,P10826,RARB,GO:0000785,Retinoic acid receptor beta,protein,20190405
+10740,P10809,HSPD1,GO:0046696,"60 kDa heat shock protein, mitochondrial",protein,20080721
+10741,B2RUY7,VWC2L,GO:0032281,von Willebrand factor C domain-containing protein 2-like,protein,20190403
+10742,O75473,LGR5,GO:0005654,Leucine-rich repeat-containing G-protein coupled receptor 5,protein,20201119
+10752,O43749,OR1F1,GO:0005886,Olfactory receptor 1F1,protein,20130528
+10754,Q96GP6,SCARF2,GO:0005925,Scavenger receptor class F member 2,protein,20140715
+10756,Q9NZN1,IL1RAPL1,GO:0005737,Interleukin-1 receptor accessory protein-like 1,protein,20201128
+10767,O14830,PPEF2,GO:0001750,Serine/threonine-protein phosphatase with EF-hands 2,protein,20201128
+10769,Q5VW38,GPR107,GO:0005654,Protein GPR107,protein,20101115
+10777,Q9H0R8,GABARAPL1,GO:0000421,Gamma-aminobutyric acid receptor-associated protein-like 1,protein,20150821
+10799,P0DMS9,TMIGD3,GO:0005887,Transmembrane domain-containing protein TMIGD3,protein,20170201
+10802,P0DMS8,ADORA3,GO:0005886,Adenosine receptor A3,protein,20150519
+10807,Q9ULL4,PLXNB3,GO:0002116,Plexin-B3,protein,20170228
+10808,Q9ULK0,GRID1,GO:0070062,"Glutamate receptor ionotropic, delta-1",protein,20131024
+10813,P22455,FGFR4,GO:0005576,Fibroblast growth factor receptor 4,protein,20201128
+10870,P17787,CHRNB2,GO:0005886,Neuronal acetylcholine receptor subunit beta-2,protein,20130528
+10884,A0A599,TRBV5-6,GO:0042101,T cell receptor beta variable 5-6,protein,20201128
+10886,A0A597,TRBV5-5,GO:0042101,T cell receptor beta variable 5-5,protein,20201128
+10888,A0A589,TRBV4-3,GO:0042101,T cell receptor beta variable 4-3,protein,20201128
+10890,A0A584,TRBV11-2,GO:0042101,T cell receptor beta variable 11-2,protein,20201128
+10892,A0A578,TRBV5-1,GO:0042101,T cell receptor beta variable 5-1,protein,20201128
+10894,A0A577,TRBV4-1,GO:0042101,T cell receptor beta variable 4-1,protein,20201128
+10896,A0A576,TRBV3-1,GO:0042101,T cell receptor beta variable 3-1,protein,20201128
+10898,O75838,CIB2,GO:0001750,Calcium and integrin-binding family member 2,protein,20150925
+10900,A0A539,TRBV4-2,GO:0042101,T cell receptor beta variable 4-2,protein,20201128
+10902,P17706,PTPN2,GO:0005654,Tyrosine-protein phosphatase non-receptor type 2,protein,20151016
+10910,Q06418,TYRO3,GO:0005634,Tyrosine-protein kinase receptor TYRO3,protein,20120109
+10917,P0DMC3,APELA,GO:0005576,Apelin receptor early endogenous ligand,protein,20140113
+10920,Q5VY43,PEAR1,GO:0001891,Platelet endothelial aggregation receptor 1,protein,20201128
+10923,Q9H344,OR51I2,GO:0005886,Olfactory receptor 51I2,protein,20130516
+10926,Q9H343,OR51I1,GO:0005886,Olfactory receptor 51I1,protein,20130516
+10929,Q9H342,OR51J1,GO:0005886,Olfactory receptor 51J1,protein,20130516
+10932,Q9H340,OR51B6,GO:0005886,Olfactory receptor 51B6,protein,20130516
+10935,Q9H339,OR51B5,GO:0005886,Olfactory receptor 51B5,protein,20130516
+10938,Q9UKX5,ITGA11,GO:0008305,Integrin alpha-11,protein,20030904
+10940,P27930,IL1R2,GO:0005576,Interleukin-1 receptor type 2,protein,20201128
+10946,A3KFT3,OR2M5,GO:0005886,Olfactory receptor 2M5,protein,20130516
+10948,Q16671,AMHR2,GO:0005886,Anti-Muellerian hormone type-2 receptor,protein,20160715
+10952,Q00LT1,PRCD,GO:0042622,Photoreceptor disk component PRCD,protein,20181127
+10954,Q96AM1,MRGPRF,GO:0005886,Mas-related G-protein coupled receptor member F,protein,20151016
+10957,P00533,EGFR,GO:0000139,Epidermal growth factor receptor,protein,20201128
+11130,Q16445,GABRA6,GO:0005886,Gamma-aminobutyric acid receptor subunit alpha-6,protein,20130516
+11140,P13637,ATP1A3,GO:0001917,Sodium/potassium-transporting ATPase subunit alpha-3,protein,20190924
+11142,Q96GC9,VMP1,GO:0000407,Vacuole membrane protein 1,protein,20201128
+11154,Q96GC6,ZNF274,GO:0005730,Neurotrophin receptor-interacting factor homolog,protein,20201128
+11156,Q5VVH5,IRAK1BP1,GO:0005634,Interleukin-1 receptor-associated kinase 1-binding protein 1,protein,20201128
+11158,P62873,GNB1,GO:0001917,Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-1,protein,20201128
+11161,P20794,MAK,GO:0001750,Serine/threonine-protein kinase MAK,protein,20111026
+11164,P49368,CCT3,GO:0002199,T-complex protein 1 subunit gamma,protein,20201128
+11165,O75581,LRP6,GO:0005576,Low-density lipoprotein receptor-related protein 6,protein,20140221
+11201,O75578,ITGA10,GO:0008305,Integrin alpha-10,protein,20030904
+11203,O75575,CRCP,GO:0001669,DNA-directed RNA polymerase III subunit RPC9,protein,20201128
+11211,P10721,KIT,GO:0001650,Mast/stem cell growth factor receptor Kit,protein,20190905
+11255,P10586,PTPRF,GO:0005886,Receptor-type tyrosine-protein phosphatase F,protein,20150708
+11262,O75509,TNFRSF21,GO:0005737,Tumor necrosis factor receptor superfamily member 21,protein,20201128
+11264,P54764,EPHA4,GO:0005737,Ephrin type-A receptor 4,protein,20110923
+11303,P54762,EPHB1,GO:0005576,Ephrin type-B receptor 1,protein,20130722
+11347,P54760,EPHB4,GO:0005576,Ephrin type-B receptor 4,protein,20130722
+11385,P07911,UMOD,GO:0000922,Uromodulin,protein,20110307
+11402,P54756,EPHA5,GO:0005791,Ephrin type-A receptor 5,protein,20110110
+11424,Q9BPV8,P2RY13,GO:0005783,P2Y purinoceptor 13,protein,20201128
+11430,P22897,MRC1,GO:0005886,Macrophage mannose receptor 1,protein,20110421
+11435,Q6IFN5,OR7E24,GO:0005886,Olfactory receptor 7E24,protein,20130516
+11437,P22888,LHCGR,GO:0005768,Lutropin-choriogonadotropic hormone receptor,protein,20030904
+11445,P29597,TYK2,GO:0005634,Non-receptor tyrosine-protein kinase TYK2,protein,20081205
+11514,O60494,CUBN,GO:0043235,Cubilin,protein,20200702
+11515,O60486,PLXNC1,GO:0002116,Plexin-C1,protein,20170228
+11516,O60462,NRP2,GO:0002116,Neuropilin-2,protein,20110907
+11517,Q6IFH4,OR6B2,GO:0005829,Olfactory receptor 6B2,protein,20201119
+11521,Q6IFG1,OR52E8,GO:0005886,Olfactory receptor 52E8,protein,20130731
+11523,O60449,LY75,GO:0005887,Lymphocyte antigen 75,protein,20030904
+11526,O60431,OR1I1,GO:0005886,Olfactory receptor 1I1,protein,20130528
+11528,Q9UPC5,GPR34,GO:0005887,Probable G-protein coupled receptor 34,protein,20030904
+11529,O60412,OR7C2,GO:0005886,Olfactory receptor 7C2,protein,20130516
+11531,O60404,OR10H3,GO:0005886,Olfactory receptor 10H3,protein,20130528
+11535,Q9H6X2,ANTXR1,GO:0005886,Anthrax toxin receptor 1,protein,20131207
+11550,P0DQD5,NPY4R2,GO:0005886,Neuropeptide Y receptor type 4-2,protein,20201128
+11552,Q8NGL7,OR4P4,GO:0005886,Olfactory receptor 4P4,protein,20130516
+11554,Q8NGL6,OR4A15,GO:0005886,Olfactory receptor 4A15,protein,20130731
+11556,Q8NGL4,OR5D13,GO:0005886,Olfactory receptor 5D13,protein,20130516
+11558,Q8NGL3,OR5D14,GO:0005886,Olfactory receptor 5D14,protein,20130516
+11560,Q8NGL2,OR5L1,GO:0005886,Olfactory receptor 5L1,protein,20130516
+11562,Q8NGL1,OR5D18,GO:0005886,Olfactory receptor 5D18,protein,20130516
+11564,Q8NGL0,OR5L2,GO:0005886,Olfactory receptor 5L2,protein,20130516
+11566,Q8NGK9,OR5D16,GO:0005886,Olfactory receptor 5D16,protein,20130516
+11568,Q8NGK6,OR52I1,GO:0005886,Olfactory receptor 52I1,protein,20130516
+11570,Q8NGK5,OR52M1,GO:0005886,Olfactory receptor 52M1,protein,20130516
+11572,Q8NGK4,OR52K1,GO:0005886,Olfactory receptor 52K1,protein,20130516
+11574,Q8NGK3,OR52K2,GO:0005886,Olfactory receptor 52K2,protein,20130516
+11576,Q8NGK2,OR52B4,GO:0005886,Olfactory receptor 52B4,protein,20201128
+11578,Q8NGK1,OR51G1,GO:0005886,Olfactory receptor 51G1,protein,20130516
+11581,Q8NGK0,OR51G2,GO:0005886,Olfactory receptor 51G2,protein,20130516
+11584,Q8NGD5,OR4K14,GO:0005886,Olfactory receptor 4K14,protein,20130516
+11586,Q8NGJ9,OR51T1,GO:0005886,Olfactory receptor 51T1,protein,20130516
+11589,Q8NGJ8,OR51S1,GO:0005886,Olfactory receptor 51S1,protein,20130516
+11592,Q8NGJ7,OR51A2,GO:0005886,Olfactory receptor 51A2,protein,20130516
+11595,Q8NGJ5,OR51L1,GO:0005886,Olfactory receptor 51L1,protein,20130516
+11598,Q8NGJ4,OR52E2,GO:0005886,Olfactory receptor 52E2,protein,20130516
+11600,Q8NGE1,OR6C4,GO:0005886,Olfactory receptor 6C4,protein,20130516
+11602,Q8NGE2,OR2AP1,GO:0005886,Olfactory receptor 2AP1,protein,20130528
+11604,Q8NGJ0,OR5A1,GO:0005886,Olfactory receptor 5A1,protein,20130516
+11606,Q8NGE5,OR10A7,GO:0005886,Olfactory receptor 10A7,protein,20130528
+11608,Q8NGI9,OR5A2,GO:0005886,Olfactory receptor 5A2,protein,20130516
+11610,Q8NGI8,OR5AN1,GO:0005886,Olfactory receptor 5AN1,protein,20130516
+11612,Q8NGI7,OR10V1,GO:0005886,Olfactory receptor 10V1,protein,20130528
+11614,Q8NGI6,OR4D10,GO:0005886,Olfactory receptor 4D10,protein,20130516
+11616,Q8NGI4,OR4D11,GO:0005886,Olfactory receptor 4D11,protein,20130516
+11618,Q8NGI3,OR56B1,GO:0005886,Olfactory receptor 56B1,protein,20130731
+11620,Q8NGI2,OR52N4,GO:0005886,Olfactory receptor 52N4,protein,20130516
+11622,Q8NGI1,OR56B2P,GO:0005886,Putative olfactory receptor 56B2,protein,20201128
+11624,Q8NGI0,OR52N2,GO:0005886,Olfactory receptor 52N2,protein,20130516
+11626,Q8NGH9,OR52E4,GO:0005886,Olfactory receptor 52E4,protein,20130516
+11628,Q8NGH8,OR56A4,GO:0005886,Olfactory receptor 56A4,protein,20130528
+11630,Q8NGH7,OR52L1,GO:0005886,Olfactory receptor 52L1,protein,20130731
+11632,Q8NGH6,OR52L2P,GO:0005886,Putative olfactory receptor 52L2,protein,20201128
+11634,Q8NGH5,OR56A1,GO:0005886,Olfactory receptor 56A1,protein,20130731
+11636,Q8NGH3,OR2D3,GO:0005886,Olfactory receptor 2D3,protein,20130528
+11638,Q96R72,OR4K3,GO:0005886,Olfactory receptor 4K3,protein,20130528
+11640,Q8NGG8,OR8B3,GO:0005886,Olfactory receptor 8B3,protein,20130516
+11642,Q8NGG7,OR8A1,GO:0005886,Olfactory receptor 8A1,protein,20130516
+11644,Q8NGG6,OR8B12,GO:0005886,Olfactory receptor 8B12,protein,20130516
+11646,Q8NGG5,OR8K1,GO:0005886,Olfactory receptor 8K1,protein,20130528
+11648,Q8NGG4,OR8H1,GO:0005886,Olfactory receptor 8H1,protein,20130528
+11650,Q8NGG3,OR5T3,GO:0005886,Olfactory receptor 5T3,protein,20130516
+11654,Q8NGG2,OR5T2,GO:0005886,Olfactory receptor 5T2,protein,20130516
+11658,Q8NGG1,OR8J2,GO:0016021,Olfactory receptor 8J2,protein,20201128
+11659,Q8NGG0,OR8J3,GO:0005886,Olfactory receptor 8J3,protein,20130528
+11661,Q9Y5Y3,GPR45,GO:0005886,Probable G-protein coupled receptor 45,protein,20151019
+11665,Q9Y5X4,NR2E3,GO:0005634,Photoreceptor-specific nuclear receptor,protein,20030904
+11668,Q8NGF9,OR4X2,GO:0005886,Olfactory receptor 4X2,protein,20130516
+11670,Q8NGF8,OR4B1,GO:0005886,Olfactory receptor 4B1,protein,20130516
+11672,Q8NGF7,OR5B17,GO:0005886,Olfactory receptor 5B17,protein,20130516
+11674,Q8NGF6,OR10W1,GO:0005886,Olfactory receptor 10W1,protein,20130528
+11676,Q8NGF4,OR5AP2,GO:0005886,Olfactory receptor 5AP2,protein,20130516
+11678,Q8NGF3,OR51D1,GO:0005886,Olfactory receptor 51D1,protein,20130516
+11681,Q9Y5X5,NPFFR2,GO:0005886,Neuropeptide FF receptor 2,protein,20101115
+11688,Q8NGF0,OR52B6,GO:0005886,Olfactory receptor 52B6,protein,20130516
+11690,P47901,AVPR1B,GO:0005768,Vasopressin V1b receptor,protein,20030904
+11699,P47900,P2RY1,GO:0005739,P2Y purinoceptor 1,protein,20201128
+11718,Q16186,ADRM1,GO:0000502,Proteasomal ubiquitin receptor ADRM1,protein,20070420
+11727,Q8NGE9,OR9Q2,GO:0005886,Olfactory receptor 9Q2,protein,20130528
+11729,Q8NGE8,OR4D9,GO:0005886,Olfactory receptor 4D9,protein,20130516
+11731,Q8NGE7,OR9K2,GO:0005886,Olfactory receptor 9K2,protein,20130516
+11733,Q8NGE3,OR10P1,GO:0005886,Olfactory receptor 10P1,protein,20201119
+11736,P20702,ITGAX,GO:0008305,Integrin alpha-X,protein,20030904
+11738,P20701,ITGAL,GO:0008305,Integrin alpha-L,protein,20050308
+11740,Q8NGE0,OR10AD1,GO:0005886,Olfactory receptor 10AD1,protein,20130528
+11742,Q8NGJ6,OR51A4,GO:0005886,Olfactory receptor 51A4,protein,20130516
+11745,Q8NGD4,OR4K1,GO:0005886,Olfactory receptor 4K1,protein,20130516
+11747,Q8NGD3,OR4K5,GO:0005886,Olfactory receptor 4K5,protein,20130516
+11749,Q8NGD2,OR4K2,GO:0005886,Olfactory receptor 4K2,protein,20130516
+11751,Q8NGD1,OR4N2,GO:0005886,Olfactory receptor 4N2,protein,20130516
+11753,Q8NGD0,OR4M1,GO:0005886,Olfactory receptor 4M1,protein,20130516
+11755,Q8NGC9,OR11H4,GO:0005886,Olfactory receptor 11H4,protein,20130528
+11759,Q8NGC8,OR11H7,GO:0005886,Olfactory receptor 11H7,protein,20130528
+11763,Q8NGC7,OR11H6,GO:0005886,Olfactory receptor 11H6,protein,20130528
+11765,Q8NGC6,OR4K17,GO:0005886,Olfactory receptor 4K17,protein,20130731
+11767,Q8NGC5,OR6J1,GO:0005886,Olfactory receptor 6J1,protein,20130516
+11769,Q8NGC4,OR10G3,GO:0005886,Olfactory receptor 10G3,protein,20130528
+11771,Q8NGC3,OR10G2,GO:0005886,Olfactory receptor 10G2,protein,20130528
+11773,Q04771,ACVR1,GO:0005887,Activin receptor type-1,protein,20060911
+11779,Q8NGC1,OR11G2,GO:0005886,Olfactory receptor 11G2,protein,20130516
+11781,Q8NGC0,OR5AU1,GO:0005886,Olfactory receptor 5AU1,protein,20130516
+11783,Q9Y5U5,TNFRSF18,GO:0005576,Tumor necrosis factor receptor superfamily member 18,protein,20201128
+11788,Q8NGB9,OR4F6,GO:0005886,Olfactory receptor 4F6,protein,20130516
+11790,Q8NGB8,OR4F15,GO:0005886,Olfactory receptor 4F15,protein,20130516
+11792,Q8NGB6,OR4M2,GO:0005886,Olfactory receptor 4M2,protein,20130528
+11794,Q8NGB4,OR4S1,GO:0005886,Olfactory receptor 4S1,protein,20130516
+11796,Q8NGB2,OR4C5,GO:0005886,Olfactory receptor 4C5,protein,20130516
+11798,Q9Y653,ADGRG1,GO:0016021,Adhesion G-protein coupled receptor G1,protein,20050510
+11803,Q8NGA8,OR4F17,GO:0005886,Olfactory receptor 4F17,protein,20130528
+11805,Q8NGA6,OR10H5,GO:0005886,Olfactory receptor 10H5,protein,20130528
+11809,Q8NGA5,OR10H4,GO:0005886,Olfactory receptor 10H4,protein,20130528
+11813,Q8NGA4,GPR32P1,GO:0016021,Putative G-protein coupled receptor GPR32P1,protein,20201128
+11815,Q8NGA2,OR7A2P,GO:0005886,Putative olfactory receptor 7A2,protein,20201128
+11817,Q8NGA1,OR1M1,GO:0005886,Olfactory receptor 1M1,protein,20130528
+11819,Q8NGA0,OR7G1,GO:0005886,Olfactory receptor 7G1,protein,20130516
+11821,Q9Y5S1,TRPV2,GO:0005886,Transient receptor potential cation channel subfamily V member 2,protein,20081007
+11829,Q8NH05,OR4Q3,GO:0005886,Olfactory receptor 4Q3,protein,20130516
+11831,P30989,NTSR1,GO:0005739,Neurotensin receptor type 1,protein,20201128
+11847,P30988,CALCR,GO:0005886,Calcitonin receptor,protein,20130528
+11858,Q8NH10,OR8U1,GO:0005886,Olfactory receptor 8U1,protein,20130528
+11860,Q9Y5Q5,CORIN,GO:0005576,Atrial natriuretic peptide-converting enzyme,protein,20201128
+11867,Q8NGP6,OR5M8,GO:0005886,Olfactory receptor 5M8,protein,20130516
+11869,Q8NGP8,OR5M1,GO:0005886,Olfactory receptor 5M1,protein,20130516
+11871,Q8NGP9,OR5AR1,GO:0005886,Olfactory receptor 5AR1,protein,20130516
+11873,Q8NGQ1,OR9G4,GO:0005886,Olfactory receptor 9G4,protein,20130516
+11875,Q04721,NOTCH2,GO:0043235,Neurogenic locus notch homolog protein 2,protein,20131231
+11877,Q9Y5P1,OR51B2,GO:0005886,Olfactory receptor 51B2,protein,20130516
+11880,Q9Y5P0,OR51B4,GO:0005886,Olfactory receptor 51B4,protein,20130516
+11883,P30968,GNRHR,GO:0005886,Gonadotropin-releasing hormone receptor,protein,20130528
+11890,Q8NH37,OR4C3,GO:0005886,Olfactory receptor 4C3,protein,20130516
+11892,O95786,DDX58,GO:0005737,Antiviral innate immune response receptor RIG-I,protein,20120814
+11930,P30954,OR10J1,GO:0005886,Olfactory receptor 10J1,protein,20130516
+11933,P30953,OR1E1,GO:0005886,Olfactory receptor 1E1,protein,20130528
+11935,Q8NGS0,OR1N1,GO:0005886,Olfactory receptor 1N1,protein,20130528
+11937,Q8NGS1,OR1J4,GO:0005886,Olfactory receptor 1J4,protein,20130528
+11939,Q8NGS2,OR1J2,GO:0005886,Olfactory receptor 1J2,protein,20130528
+11941,Q8NGS3,OR1J1,GO:0005886,Olfactory receptor 1J1,protein,20130528
+11943,Q8NGS8,OR13C5,GO:0005886,Olfactory receptor 13C5,protein,20130528
+11945,Q8NGS9,OR13C2,GO:0005886,Olfactory receptor 13C2,protein,20130528
+11947,Q8NFZ6,VN1R2,GO:0005886,Vomeronasal type-1 receptor 2,protein,20201128
+11949,Q8NGT0,OR13C9,GO:0005886,Olfactory receptor 13C9,protein,20130528
+11951,Q9Y5M8,SRPRB,GO:0005737,Signal recognition particle receptor subunit beta,protein,20090911
+11957,Q8NGT5,OR9A2,GO:0005886,Olfactory receptor 9A2,protein,20130528
+11959,Q8NGT7,OR2A12,GO:0005886,Olfactory receptor 2A12,protein,20130516
+11961,Q8NGT9,OR2A1,GO:0005886,Olfactory receptor 2A1/2A42,protein,20130516
+11963,P30939,HTR1F,GO:0005886,5-hydroxytryptamine receptor 1F,protein,20130528
+11971,Q8NGU1,OR9A1P,GO:0005886,Putative olfactory receptor 9A1,protein,20201128
+11973,Q8NGU4,OR2I1P,GO:0005886,Putative olfactory receptor 2I1,protein,20130528
+11975,Q8NGU9,GPR150,GO:0005886,Probable G-protein coupled receptor 150,protein,20151019
+11979,P30926,CHRNB4,GO:0005886,Neuronal acetylcholine receptor subunit beta-4,protein,20130528
+11997,Q96DX8,RTP4,GO:0005737,Receptor-transporting protein 4,protein,20070321
+12000,Q8NG99,OR7G2,GO:0005886,Olfactory receptor 7G2,protein,20130516
+12002,Q8NG98,OR7D4,GO:0005886,Olfactory receptor 7D4,protein,20130516
+12004,Q8NG97,OR2Z1,GO:0005886,Olfactory receptor 2Z1,protein,20130516
+12006,Q8NG95,OR7G3,GO:0005886,Olfactory receptor 7G3,protein,20130516
+12008,Q8NGV0,OR2Y1,GO:0005886,Olfactory receptor 2Y1,protein,20130516
+12010,Q8NG92,OR13H1,GO:0005886,Olfactory receptor 13H1,protein,20130528
+12012,Q9Y6F6,IRAG1,GO:0005789,"Inositol 1,4,5-triphosphate receptor associated 1",protein,20030904
+12017,Q8NGV6,OR5H6,GO:0005886,Olfactory receptor 5H6,protein,20130516
+12019,P17181,IFNAR1,GO:0005764,Interferon alpha/beta receptor 1,protein,20201128
+12035,Q8NFW9,MYRIP,GO:0001750,Rab effector MyRIP,protein,20201128
+12036,Q8NG85,OR2L3,GO:0005886,Olfactory receptor 2L3,protein,20130516
+12038,Q8NG84,OR2AK2,GO:0005886,Olfactory receptor 2AK2,protein,20130528
+12040,Q8NGW1,OR6B3,GO:0005829,Olfactory receptor 6B3,protein,20201119
+12044,Q8NG81,OR2M7,GO:0005886,Olfactory receptor 2M7,protein,20130516
+12046,Q8NG80,OR2L5,GO:0005886,Olfactory receptor 2L5,protein,20130516
+12048,Q8NH85,OR8U3,GO:0005886,Olfactory receptor 8U3,protein,20130516
+12050,Q9UGF6,OR5V1,GO:0005886,Olfactory receptor 5V1,protein,20130516
+12052,Q14995,NR1D2,GO:0000785,Nuclear receptor subfamily 1 group D member 2,protein,20190405
+12059,Q14994,NR1I3,GO:0000785,Nuclear receptor subfamily 1 group I member 3,protein,20190405
+12066,Q8NG78,OR8G5,GO:0005886,Olfactory receptor 8G5,protein,20130528
+12068,Q8NG77,OR2T12,GO:0005886,Olfactory receptor 2T12,protein,20130516
+12070,Q8NG76,OR2T33,GO:0005886,Olfactory receptor 2T33,protein,20130516
+12072,Q8NG75,OR5T1,GO:0005886,Olfactory receptor 5T1,protein,20130516
+12074,Q8NGX2,OR2T35,GO:0005886,Olfactory receptor 2T35,protein,20130528
+12076,Q8NGX3,OR10T2,GO:0005886,Olfactory receptor 10T2,protein,20130528
+12078,Q8NGX5,OR10K1,GO:0005886,Olfactory receptor 10K1,protein,20130528
+12080,P49019,HCAR3,GO:0005886,Hydroxycarboxylic acid receptor 3,protein,20130418
+12086,Q8NFT8,DNER,GO:0005769,Delta and Notch-like epidermal growth factor-related receptor,protein,20031216
+12091,P47775,GPR12,GO:0005887,G-protein coupled receptor 12,protein,20030904
+12094,Q96FE5,LINGO1,GO:0005886,Leucine-rich repeat and immunoglobulin-like domain-containing nogo receptor-interacting protein 1,protein,20130516
+12101,Q5TZA2,CROCC,GO:0001917,Rootletin,protein,20201128
+12102,Q6QNK2,ADGRD1,GO:0005654,Adhesion G-protein coupled receptor D1,protein,20201119
+12108,Q9UHX3,ADGRE2,GO:0005886,Adhesion G protein-coupled receptor E2,protein,20091026
+12113,Q9UHY1,NRBP1,GO:0005654,Nuclear receptor-binding protein,protein,20130731
+12120,A0A096LPK9,OR4N4C,GO:0016021,Olfactory receptor 4N4C,protein,20201128
+12121,Q9Y466,NR2E1,GO:0000785,Nuclear receptor subfamily 2 group E member 1,protein,20190405
+12123,P0C6S8,LINGO3,GO:0016021,Leucine-rich repeat and immunoglobulin-like domain-containing nogo receptor-interacting protein 3,protein,20201128
+12126,Q16478,GRIK5,GO:0005654,"Glutamate receptor ionotropic, kainate 5",protein,20171201
+12142,A0A087WT02,TRAV9-2,GO:0042101,T cell receptor alpha variable 9-2,protein,20201128
+12144,A0A087WT03,TRAV26-1,GO:0042101,T cell receptor alpha variable 26-1,protein,20201128
+12145,Q9Y3N9,OR2W1,GO:0005886,Olfactory receptor 2W1,protein,20130516
+12147,Q9Y6Q6,TNFRSF11A,GO:0005829,Tumor necrosis factor receptor superfamily member 11A,protein,20161204
+12158,P10276,RARA,GO:0000785,Retinoic acid receptor alpha,protein,20190405
+12176,P10275,AR,GO:0000785,Androgen receptor,protein,20190405
+12206,O75096,LRP4,GO:0005886,Low-density lipoprotein receptor-related protein 4,protein,20170824
+12216,Q96G91,P2RY11,GO:0005886,P2Y purinoceptor 11,protein,20130516
+12224,O95551,TDP2,GO:0005634,Tyrosyl-DNA phosphodiesterase 2,protein,20120920
+12233,Q5TZ20,OR2G6,GO:0005886,Olfactory receptor 2G6,protein,20130528
+12235,O75074,LRP3,GO:0005905,Low-density lipoprotein receptor-related protein 3,protein,20201128
+12237,Q8NDV2,GPR26,GO:0005886,G-protein coupled receptor 26,protein,20201128
+12239,O75051,PLXNA2,GO:0002116,Plexin-A2,protein,20110907
+12241,P05556,ITGB1,GO:0034665,Integrin beta-1,protein,20140718
+12253,Q14761,PTPRCAP,GO:0005886,Protein tyrosine phosphatase receptor type C-associated protein,protein,20101104
+12256,O43187,IRAK2,GO:0005829,Interleukin-1 receptor-associated kinase-like 2,protein,20130516
+12288,Q9Y3F4,STRAP,GO:0005634,Serine-threonine kinase receptor-associated protein,protein,20201128
+12297,O75023,LILRB5,GO:0016021,Leukocyte immunoglobulin-like receptor subfamily B member 5,protein,20201128
+12298,O75022,LILRB3,GO:0005886,Leukocyte immunoglobulin-like receptor subfamily B member 3,protein,20130528
+12301,O75019,LILRA1,GO:0005886,Leukocyte immunoglobulin-like receptor subfamily A member 1,protein,20130516
+12303,O75015,FCGR3B,GO:0005576,Low affinity immunoglobulin gamma Fc region receptor III-B,protein,20160929
+12310,O43157,PLXNB1,GO:0002116,Plexin-B1,protein,20101029
+12313,O43148,RNMT,GO:0043235,mRNA cap guanine-N7 methyltransferase,protein,20131227
+12314,Q9Y210,TRPC6,GO:0005737,Short transient receptor potential channel 6,protein,20150303
+12324,Q9UBN6,TNFRSF10D,GO:0005886,Tumor necrosis factor receptor superfamily member 10D,protein,20141031
+12329,Q9UBN1,CACNG4,GO:0032281,Voltage-dependent calcium channel gamma-4 subunit,protein,20110404
+12331,P30559,OXTR,GO:0005886,Oxytocin receptor,protein,20130528
+12339,P37288,AVPR1A,GO:0005768,Vasopressin V1a receptor,protein,20191018
+12348,P30550,GRPR,GO:0005886,Gastrin-releasing peptide receptor,protein,20171201
+12356,Q9UBL9,P2RX2,GO:0043235,P2X purinoceptor 2,protein,20190722
+12358,P30542,ADORA1,GO:0005783,Adenosine receptor A1,protein,20201128
+12376,P30536,TSPO,GO:0005739,Translocator protein,protein,20190905
+12383,O60403,OR10H2,GO:0005886,Olfactory receptor 10H2,protein,20130528
+12387,P30532,CHRNA5,GO:0005886,Neuronal acetylcholine receptor subunit alpha-5,protein,20130528
+12397,P30530,AXL,GO:0005615,Tyrosine-protein kinase receptor UFO,protein,20120307
+12411,B7Z8K6,TRDC,GO:0016021,T cell receptor delta constant,protein,20201128
+12415,Q14596,NBR1,GO:0043235,Next to BRCA1 gene 1 protein,protein,20191122
+12416,Q9UBH6,XPR1,GO:0016021,Xenotropic and polytropic retrovirus receptor 1,protein,20201128
+12421,P37231,PPARG,GO:0000785,Peroxisome proliferator-activated receptor gamma,protein,20190405
+12432,Q9UBH0,IL36RN,GO:0005576,Interleukin-36 receptor antagonist protein,protein,20170313
+12435,P29322,EPHA8,GO:0005886,Ephrin type-A receptor 8,protein,20130722
+12452,Q14573,ITPR3,GO:0005640,"Inositol 1,4,5-trisphosphate receptor type 3",protein,20090204
+12477,Q14571,ITPR2,GO:0005654,"Inositol 1,4,5-trisphosphate receptor type 2",protein,20161204
+12495,Q8NBT3,TMEM145,GO:0016021,Transmembrane protein 145,protein,20201128
+12496,Q14541,HNF4G,GO:0000785,Hepatocyte nuclear factor 4-gamma,protein,20190405
+12502,Q9UBC2,EPS15L1,GO:0005634,Epidermal growth factor receptor substrate 15-like 1,protein,20201128
+12530,Q9UKL2,OR52A1,GO:0005886,Olfactory receptor 52A1,protein,20130516
+12532,P84022,SMAD3,GO:0043235,Mothers against decapentaplegic homolog 3,protein,20071126
+12533,Q8NBN3,TMEM87A,GO:0005829,Transmembrane protein 87A,protein,20201129
+12539,B2RN74,OR11H12,GO:0005886,Olfactory receptor 11H12,protein,20201128
+12541,Q9UKP6,UTS2R,GO:0005886,Urotensin-2 receptor,protein,20100217
+12547,Q9UL62,TRPC5,GO:0005737,Short transient receptor potential channel 5,protein,20201128
+12556,Q86UN2,RTN4RL1,GO:0005576,Reticulon-4 receptor-like 1,protein,20160929
+12567,Q03181,PPARD,GO:0000785,Peroxisome proliferator-activated receptor delta,protein,20160720
+12573,Q9H346,OR52D1,GO:0005886,Olfactory receptor 52D1,protein,20130516
+12575,P50991,CCT4,GO:0002199,T-complex protein 1 subunit delta,protein,20201128
+12576,P50990,CCT8,GO:0002199,T-complex protein 1 subunit theta,protein,20201128
+12577,P15509,CSF2RA,GO:0005576,Granulocyte-macrophage colony-stimulating factor receptor subunit alpha,protein,20201128
+12607,O95274,LYPD3,GO:0005576,Ly6/PLAUR domain-containing protein 3,protein,20160929
+12613,O95264,HTR3B,GO:0005886,5-hydroxytryptamine receptor 3B,protein,20130516
+12620,O95256,IL18RAP,GO:0005886,Interleukin-18 receptor accessory protein,protein,20130528
+12622,O95249,GOSR1,GO:0000139,Golgi SNAP receptor complex member 1,protein,20130121
+12644,P30411,BDKRB2,GO:0005768,B2 bradykinin receptor,protein,20080516
+12658,O95222,OR6A2,GO:0005886,Olfactory receptor 6A2,protein,20130516
+12660,O95221,OR5F1,GO:0005886,Olfactory receptor 5F1,protein,20130516
+12662,Q14451,GRB7,GO:0005829,Growth factor receptor-bound protein 7,protein,20110620
+12674,P22736,NR4A1,GO:0000785,Nuclear receptor subfamily 4 group A member 1,protein,20190405
+12685,Q14449,GRB14,GO:0005737,Growth factor receptor-bound protein 14,protein,20081217
+12692,P05231,IL6,GO:0005896,Interleukin-6,protein,20081031
+12694,A6NM03,OR2AG2,GO:0005886,Olfactory receptor 2AG2,protein,20130528
+12696,Q14439,GPR176,GO:0005886,G-protein coupled receptor 176,protein,20170209
+12703,Q14416,GRM2,GO:0005886,Metabotropic glutamate receptor 2,protein,20130528
+12713,P35968,KDR,GO:0005576,Vascular endothelial growth factor receptor 2,protein,20201128
+12770,Q9H400,LIME1,GO:0019815,Lck-interacting transmembrane adapter 1,protein,20180504
+12771,Q9UM73,ALK,GO:0005886,ALK tyrosine kinase receptor,protein,20151016
+12779,Q14957,GRIN2C,GO:0005886,"Glutamate receptor ionotropic, NMDA 2C",protein,20130730
+12791,Q14954,KIR2DS1,GO:0005886,Killer cell immunoglobulin-like receptor 2DS1,protein,20171214
+12795,Q14953,KIR2DS5,GO:0005886,Killer cell immunoglobulin-like receptor 2DS5,protein,20171214
+12799,Q14952,KIR2DS3,GO:0005887,Killer cell immunoglobulin-like receptor 2DS3,protein,20030904
+12800,Q8NFR9,IL17RE,GO:0005576,Interleukin-17 receptor E,protein,20201128
+12804,Q14943,KIR3DS1,GO:0005886,Killer cell immunoglobulin-like receptor 3DS1,protein,20130516
+12806,A6NH00,OR2T8,GO:0005886,Olfactory receptor 2T8,protein,20130516
+12808,P47898,HTR5A,GO:0005791,5-hydroxytryptamine receptor 5A,protein,20201128
+12818,P47893,OR3A2,GO:0005886,Olfactory receptor 3A2,protein,20130731
+12820,Q8NFN8,GPR156,GO:0005886,Probable G-protein coupled receptor 156,protein,20161204
+12822,O75899,GABBR2,GO:0005737,Gamma-aminobutyric acid type B receptor subunit 2,protein,20201128
+12835,P47888,OR3A3,GO:0005886,Olfactory receptor 3A3,protein,20130731
+12837,P47887,OR1E2,GO:0005886,Olfactory receptor 1E2,protein,20130528
+12839,P47884,OR1D4,GO:0005887,Olfactory receptor 1D4,protein,20030904
+12840,P47881,OR3A1,GO:0005886,Olfactory receptor 3A1,protein,20130516
+12842,Q8NFM7,IL17RD,GO:0000139,Interleukin-17 receptor D,protein,20150211
+12848,Q3B820,FAM161A,GO:0001917,Protein FAM161A,protein,20171123
+12851,P47872,SCTR,GO:0005881,Secretin receptor,protein,20130311
+12858,P47871,GCGR,GO:0005886,Glucagon receptor,protein,20130528
+12870,P47870,GABRB2,GO:0005829,Gamma-aminobutyric acid receptor subunit beta-2,protein,20201128
+12884,Q96RD3,OR52E6,GO:0005886,Olfactory receptor 52E6,protein,20130516
+12886,Q96D09,GPRASP2,GO:0005634,G-protein coupled receptor-associated sorting protein 2,protein,20191114
+12888,P47869,GABRA2,GO:0005886,Gamma-aminobutyric acid receptor subunit alpha-2,protein,20130516
+12899,Q8NFJ6,PROKR2,GO:0005886,Prokineticin receptor 2,protein,20141127
+12905,Q8NFJ5,GPRC5A,GO:0005730,Retinoic acid-induced protein 3,protein,20161204
+12919,Q96CM4,NXNL1,GO:0001750,Nucleoredoxin-like protein 1,protein,20201128
+12920,P20645,M6PR,GO:0005765,Cation-dependent mannose-6-phosphate receptor,protein,20201128
+12950,Q16099,GRIK4,GO:0005886,"Glutamate receptor ionotropic, kainate 4",protein,20130528
+12960,P47804,RGR,GO:0005887,RPE-retinal G protein-coupled receptor,protein,20170228
+12962,Q96CH1,GPR146,GO:0005886,Probable G-protein coupled receptor 146,protein,20190329
+12964,Q9Y585,OR1A2,GO:0005886,Olfactory receptor 1A2,protein,20130528
+12966,Q9Y572,RIPK3,GO:0005634,Receptor-interacting serine/threonine-protein kinase 3,protein,20200423
+12981,Q6BAA4,FCRLB,GO:0005737,Fc receptor-like B,protein,20091111
+12984,Q96EP0,RNF31,GO:0035631,E3 ubiquitin-protein ligase RNF31,protein,20110110
+12985,Q9UF33,EPHA6,GO:0005654,Ephrin type-A receptor 6,protein,20101115
+13000,Q96F24,NRBF2,GO:0005654,Nuclear receptor-binding factor 2,protein,20130226
+13006,Q8NI17,IL31RA,GO:0005886,Interleukin-31 receptor subunit alpha,protein,20170323
+13012,Q9NX58,LYAR,GO:0001750,Cell growth-regulating nucleolar protein,protein,20171214
+13013,P42263,GRIA3,GO:0005886,Glutamate receptor 3,protein,20130129
+13033,P42262,GRIA2,GO:0005789,Glutamate receptor 2,protein,20201128
+13059,P30872,SSTR1,GO:0005737,Somatostatin receptor type 1,protein,20201128
+13067,Q9UF02,CACNG5,GO:0032281,Voltage-dependent calcium channel gamma-5 subunit,protein,20110407
+13069,Q8NEZ3,WDR19,GO:0001750,WD repeat-containing protein 19,protein,20201128
+13071,P17301,ITGA2,GO:0008305,Integrin alpha-2,protein,20030904
+13073,P32298,GRK4,GO:0005829,G protein-coupled receptor kinase 4,protein,20201128
+13078,P32297,CHRNA3,GO:0005886,Neuronal acetylcholine receptor subunit alpha-3,protein,20130528
+13094,Q8NI08,NCOA7,GO:0005634,Nuclear receptor coactivator 7,protein,20200203
+13095,Q8NHL6,LILRB1,GO:0005576,Leukocyte immunoglobulin-like receptor subfamily B member 1,protein,20201128
+13106,Q8NHK3,KIR2DL5B,GO:0005886,Killer cell immunoglobulin-like receptor 2DL5B,protein,20201128
+13108,P32249,GPR183,GO:0005886,G-protein coupled receptor 183,protein,20160628
+13116,P32248,CCR7,GO:0005739,C-C chemokine receptor type 7,protein,20161204
+13125,P32247,BRS3,GO:0005886,Bombesin receptor subtype-3,protein,20040811
+13130,P32246,CCR1,GO:0005886,C-C chemokine receptor type 1,protein,20120921
+13143,P32245,MC4R,GO:0005634,Melanocortin receptor 4,protein,20201128
+13151,Q8NHJ6,LILRB4,GO:0005886,Leukocyte immunoglobulin-like receptor subfamily B member 4,protein,20050308
+13155,P32241,VIPR1,GO:0005886,Vasoactive intestinal polypeptide receptor 1,protein,20130528
+13162,P32239,CCKBR,GO:0005886,Gastrin/cholecystokinin type B receptor,protein,20120828
+13168,P32238,CCKAR,GO:0005886,Cholecystokinin receptor type A,protein,20130528
+13174,Q9Y561,LRP12,GO:0005887,Low-density lipoprotein receptor-related protein 12,protein,20080626
+13177,Q96EK7,FAM120B,GO:0005634,Constitutive coactivator of peroxisome proliferator-activated receptor gamma,protein,20170228
+13178,Q6P9B6,MEAK7,GO:0005654,MTOR-associated protein MEAK7,protein,20161204
+13185,P27540,ARNT,GO:0000785,Aryl hydrocarbon receptor nuclear translocator,protein,20190405
+13198,Q9UEW3,MARCO,GO:0005581,Macrophage receptor MARCO,protein,20201128
+13206,Q16288,NTRK3,GO:0005886,NT-3 growth factor receptor,protein,20160715
+13216,P62993,GRB2,GO:0005634,Growth factor receptor-bound protein 2,protein,20110923
+13496,Q8NHC8,OR2T6,GO:0005886,Olfactory receptor 2T6,protein,20130516
+13498,Q8NHC7,OR14C36,GO:0005886,Olfactory receptor 14C36,protein,20130516
+13500,Q8NHC6,OR14L1P,GO:0005886,Putative olfactory receptor 14L1,protein,20201128
+13502,Q8NHC5,OR14A16,GO:0005886,Olfactory receptor 14A16,protein,20130516
+13504,Q8NHC4,OR10J5,GO:0005886,Olfactory receptor 10J5,protein,20130528
+13508,Q8NHB8,OR5K2,GO:0005886,Olfactory receptor 5K2,protein,20130516
+13510,Q8NHB7,OR5K1,GO:0005886,Olfactory receptor 5K1,protein,20130731
+13512,Q8NHB1,OR2V1,GO:0005886,Olfactory receptor 2V1,protein,20130516
+13514,P62955,CACNG7,GO:0032281,Voltage-dependent calcium channel gamma-7 subunit,protein,20110405
+13516,Q8NHA8,OR1F12,GO:0005886,Olfactory receptor 1F12,protein,20130528
+13518,Q8NHA6,OR2W6P,GO:0005886,Putative olfactory receptor 2W6,protein,20201128
+13520,Q8NHA4,OR2AE1,GO:0005886,Olfactory receptor 2AE1,protein,20130516
+13522,P62942,FKBP1A,GO:1990425,Peptidyl-prolyl cis-trans isomerase FKBP1A,protein,20170413
+13523,Q04844,CHRNE,GO:0005886,Acetylcholine receptor subunit epsilon,protein,20130528
+13532,Q5JQS5,OR2B11,GO:0005886,Olfactory receptor 2B11,protein,20130528
+13534,Q70Z44,HTR3D,GO:0005886,5-hydroxytryptamine receptor 3D,protein,20130516
+13538,Q9Y616,IRAK3,GO:0005634,Interleukin-1 receptor-associated kinase 3,protein,20090312
+13543,P20963,CD247,GO:0042101,T-cell surface glycoprotein CD3 zeta chain,protein,20101102
+13545,P49190,PTH2R,GO:0005886,Parathyroid hormone 2 receptor,protein,20130528
+13551,O95897,OLFM2,GO:0032281,Noelin-2,protein,20150408
+13552,Q9UGN4,CD300A,GO:0005886,CMRF35-like molecule 8,protein,20150528
+13563,P0DN78,OPN1MW3,GO:0001750,Medium-wave-sensitive opsin 3,protein,20210129
+13564,Q9UJ42,GPR160,GO:0005886,Probable G-protein coupled receptor 160,protein,20201119
+13569,P59025,RTP1,GO:0005886,Receptor-transporting protein 1,protein,20201128
+13573,Q99062,CSF3R,GO:0005576,Granulocyte colony-stimulating factor receptor,protein,20201128
+13579,Q9Y2X7,GIT1,GO:0005739,ARF GTPase-activating protein GIT1,protein,20190905
+13591,Q9UIW2,PLXNA1,GO:0002116,Plexin-A1,protein,20110907
+13593,Q9Y2X0,MED16,GO:0005634,Mediator of RNA polymerase II transcription subunit 16,protein,20010823
+13600,Q9Y2W1,THRAP3,GO:0005634,Thyroid hormone receptor-associated protein 3,protein,20030822
+13610,Q9Y2T6,GPR55,GO:0005886,G-protein coupled receptor 55,protein,20091023
+13616,Q9Y2T5,GPR52,GO:0005887,G-protein coupled receptor 52,protein,20170228
+13617,Q16538,GPR162,GO:0005886,Probable G-protein coupled receptor 162,protein,20201128
+13619,Q9Y2R2,PTPN22,GO:0005634,Tyrosine-protein phosphatase non-receptor type 22,protein,20110120
+13630,O95490,ADGRL2,GO:0016021,Adhesion G protein-coupled receptor L2,protein,20011004
+13635,Q16581,C3AR1,GO:0005886,C3a anaphylatoxin chemotactic receptor,protein,20130528
+13645,P62508,ESRRG,GO:0000785,Estrogen-related receptor gamma,protein,20190405
+13647,P25942,CD40,GO:0005737,Tumor necrosis factor receptor superfamily member 5,protein,20201128
+13663,Q14686,NCOA6,GO:0005634,Nuclear receptor coactivator 6,protein,20050308
+13674,Q0VD83,APOBR,GO:0005886,Apolipoprotein B receptor,protein,20160519
+13679,Q9H1D0,TRPV6,GO:0005886,Transient receptor potential cation channel subfamily V member 6,protein,20150217
+13686,P05451,REG1A,GO:0005829,Lithostathine-1-alpha,protein,20201128
+13696,Q14643,ITPR1,GO:0005637,"Inositol 1,4,5-trisphosphate receptor type 1",protein,20201128
+13720,Q8NCL8,TMEM116,GO:0005575,Transmembrane protein 116,protein,20090107
+13722,Q6AZY7,SCARA3,GO:0000139,Scavenger receptor class A member 3,protein,20201128
+13729,P12319,FCER1A,GO:0005886,High affinity immunoglobulin epsilon receptor subunit alpha,protein,20130528
+13740,Q9UBY5,LPAR3,GO:0005886,Lysophosphatidic acid receptor 3,protein,20161204
+13753,P20309,CHRM3,GO:0005789,Muscarinic acetylcholine receptor M3,protein,20201128
+13766,P27037,ACVR2A,GO:0005737,Activin receptor type-2A,protein,20061026
+13785,P19087,GNAT2,GO:0001750,Guanine nucleotide-binding protein G(t) subunit alpha-2,protein,20080923
+13791,Q9Y271,CYSLTR1,GO:0005886,Cysteinyl leukotriene receptor 1,protein,20130528
+13797,Q9UBS5,GABBR1,GO:0005576,Gamma-aminobutyric acid type B receptor subunit 1,protein,20201128
+13812,B7ZAQ6,GPR89A,GO:0016021,Golgi pH regulator A,protein,20201128
+13816,Q5UAW9,GPR157,GO:0016021,G-protein coupled receptor 157,protein,20201128
+13818,Q16620,NTRK2,GO:0000139,BDNF/NT-3 growth factors receptor,protein,20130516
+13839,O43464,HTRA2,GO:0035631,"Serine protease HTRA2, mitochondrial",protein,20110110
+13840,Q16602,CALCRL,GO:0005737,Calcitonin gene-related peptide type 1 receptor,protein,20171205
+13861,O43490,PROM1,GO:0001750,Prominin-1,protein,20100914
+13863,Q9UKJ1,PILRA,GO:0005886,Paired immunoglobulin-like type 2 receptor alpha,protein,20160715
+13867,Q9UKJ0,PILRB,GO:0005886,Paired immunoglobulin-like type 2 receptor beta,protein,20160715
+13869,O75787,ATP6AP2,GO:0000421,Renin receptor,protein,20201128
+13894,P29074,PTPN4,GO:0005654,Tyrosine-protein phosphatase non-receptor type 4,protein,20170614
+13901,Q9H2C8,OR51V1,GO:0005886,Olfactory receptor 51V1,protein,20130516
+13904,Q9H2C5,OR52A5,GO:0005886,Olfactory receptor 52A5,protein,20130516
+13906,O75762,TRPA1,GO:0005886,Transient receptor potential cation channel subfamily A member 1,protein,20130516
+13910,Q96BZ8,LENG1,GO:0005575,Leukocyte receptor cluster member 1,protein,20061106
+13911,Q9UGM3,DMBT1,GO:0005576,Deleted in malignant brain tumors 1 protein,protein,20061205
+13921,Q9Y6N9,USH1C,GO:0001750,Harmonin,protein,20170301
+13925,P10589,NR2F1,GO:0005634,COUP transcription factor 1,protein,20100713
+13929,P10588,NR2F6,GO:0000785,Nuclear receptor subfamily 2 group F member 6,protein,20190405
+13932,Q8NGZ9,OR2T10,GO:0005886,Olfactory receptor 2T10,protein,20130516
+13934,Q8NGZ6,OR6F1,GO:0005886,Olfactory receptor 6F1,protein,20130516
+13936,Q8NGZ5,OR2G2,GO:0005886,Olfactory receptor 2G2,protein,20130528
+13938,Q8NGZ4,OR2G3,GO:0005886,Olfactory receptor 2G3,protein,20130516
+13940,Q8NGZ3,OR13G1,GO:0005886,Olfactory receptor 13G1,protein,20130528
+13942,Q8NGZ2,OR14K1,GO:0005886,Olfactory receptor 14K1,protein,20130516
+13944,Q8NGZ0,OR2AJ1,GO:0005886,Olfactory receptor 2AJ1,protein,20130528
+13946,O95866,MPIG6B,GO:0005654,Megakaryocyte and platelet inhibitory receptor G6b,protein,20190905
+13955,Q8NGY9,OR2L8,GO:0005886,Olfactory receptor 2L8,protein,20130516
+13957,Q8NGY7,OR10J6P,GO:0045202,Putative olfactory receptor 10J6,protein,20201129
+13960,Q8NGY6,OR6N2,GO:0005886,Olfactory receptor 6N2,protein,20130516
+13962,Q8NGY5,OR6N1,GO:0005886,Olfactory receptor 6N1,protein,20130516
+13964,Q8NGY3,OR6K3,GO:0005886,Olfactory receptor 6K3,protein,20130516
+13966,Q8NGY2,OR6K2,GO:0005886,Olfactory receptor 6K2,protein,20130516
+13968,Q8NGY1,OR10Z1,GO:0005886,Olfactory receptor 10Z1,protein,20201128
+13970,Q8NGY0,OR10X1,GO:0005886,Olfactory receptor 10X1,protein,20201128
+13972,P49146,NPY2R,GO:0005886,Neuropeptide Y receptor type 2,protein,20081217
+13979,Q8NGX9,OR6P1,GO:0005886,Olfactory receptor 6P1,protein,20130516
+13981,Q8NGX8,OR6Y1,GO:0005886,Olfactory receptor 6Y1,protein,20130516
+13983,Q8NGX6,OR10R2,GO:0005886,Olfactory receptor 10R2,protein,20130528
+13985,Q8NH95,OR13C6P,GO:0005886,Putative olfactory receptor 13C6,protein,20201128
+13987,Q8NH94,OR1L1,GO:0005886,Olfactory receptor 1L1,protein,20130528
+13989,Q8NH93,OR1L3,GO:0005886,Olfactory receptor 1L3,protein,20130528
+13991,Q8NH92,OR1S1,GO:0005886,Olfactory receptor 1S1,protein,20130528
+13993,Q8NGX1,OR2T34,GO:0005886,Olfactory receptor 2T34,protein,20130528
+13995,Q8NH90,OR5AK2,GO:0005886,Olfactory receptor 5AK2,protein,20130516
+13997,O95843,GUCA1C,GO:0097381,Guanylyl cyclase-activating protein 3,protein,20130516
+13998,Q8NH89,OR5AK3P,GO:0005886,Putative olfactory receptor 5AK3,protein,20201128
+14000,Q8NH87,OR9G1,GO:0005886,Olfactory receptor 9G1,protein,20130528
+14002,Q8NGW6,OR6K6,GO:0005886,Olfactory receptor 6K6,protein,20130516
+14004,Q8NH81,OR10G6,GO:0005886,Olfactory receptor 10G6,protein,20130528
+14006,Q8NH80,OR10D3,GO:0005886,Putative olfactory receptor 10D3,protein,20201128
+14008,O75376,NCOR1,GO:0000118,Nuclear receptor corepressor 1,protein,20180801
+14038,O95838,GLP2R,GO:0005886,Glucagon-like peptide 2 receptor,protein,20130528
+14044,Q8NH79,OR6X1,GO:0005886,Olfactory receptor 6X1,protein,20130516
+14046,Q8NGV7,OR5H2,GO:0005886,Olfactory receptor 5H2,protein,20130516
+14048,Q8NH76,OR56B4,GO:0005886,Olfactory receptor 56B4,protein,20130516
+14050,Q8NGV5,OR13D1,GO:0005886,Olfactory receptor 13D1,protein,20130731
+14052,Q8NH74,OR10A6,GO:0005886,Olfactory receptor 10A6,protein,20130528
+14054,Q8NH73,OR4S2,GO:0005886,Olfactory receptor 4S2,protein,20130516
+14056,Q8NH72,OR4C6,GO:0005886,Olfactory receptor 4C6,protein,20130516
+14058,Q8NH70,OR4A16,GO:0005886,Olfactory receptor 4A16,protein,20130516
+14060,P49116,NR2C2,GO:0000785,Nuclear receptor subfamily 2 group C member 2,protein,20190405
+14063,Q8NH69,OR5W2,GO:0005886,Olfactory receptor 5W2,protein,20130516
+14065,Q8NH67,OR52I2,GO:0005886,Olfactory receptor 52I2,protein,20130516
+14067,Q8NH64,OR51A7,GO:0005886,Olfactory receptor 51A7,protein,20130516
+14070,Q8NH63,OR51H1,GO:0005886,Olfactory receptor 51H1,protein,20130528
+14073,Q8NGU2,OR9A4,GO:0005886,Olfactory receptor 9A4,protein,20130528
+14075,Q8NH61,OR51F2,GO:0005886,Olfactory receptor 51F2,protein,20130731
+14078,Q8NH60,OR52J3,GO:0005886,Olfactory receptor 52J3,protein,20130516
+14080,P10523,SAG,GO:0001750,S-arrestin,protein,20171207
+14083,Q9UGF5,OR14J1,GO:0005886,Olfactory receptor 14J1,protein,20130516
+14085,Q8NH59,OR51Q1,GO:0005886,Olfactory receptor 51Q1,protein,20130516
+14088,Q8NH57,OR52P1P,GO:0005886,Putative olfactory receptor 52P1,protein,20201128
+14090,Q8NH56,OR52N5,GO:0005886,Olfactory receptor 52N5,protein,20130516
+14092,Q8NH55,OR52E5,GO:0005886,Olfactory receptor 52E5,protein,20130516
+14094,Q8NH54,OR56A3,GO:0005886,Olfactory receptor 56A3,protein,20130516
+14096,Q8NH53,OR52N1,GO:0005886,Olfactory receptor 52N1,protein,20130516
+14098,Q8NGT2,OR13J1,GO:0005886,Olfactory receptor 13J1,protein,20130528
+14100,Q8NH51,OR8K3,GO:0005886,Olfactory receptor 8K3,protein,20130528
+14102,Q8NH50,OR8K5,GO:0005886,Olfactory receptor 8K5,protein,20130528
+14104,O95800,GPR75,GO:0005887,Probable G-protein coupled receptor 75,protein,20030904
+14106,Q8NH49,OR4X1,GO:0005886,Olfactory receptor 4X1,protein,20130516
+14108,Q8NH48,OR5B3,GO:0005886,Olfactory receptor 5B3,protein,20130516
+14110,Q8NGS7,OR13C8,GO:0005886,Olfactory receptor 13C8,protein,20130528
+14112,Q8NGS6,OR13C3,GO:0005886,Olfactory receptor 13C3,protein,20130731
+14114,Q8NGS5,OR13C4,GO:0005886,Olfactory receptor 13C4,protein,20130528
+14116,Q8NGS4,OR13F1,GO:0005886,Olfactory receptor 13F1,protein,20130528
+14118,Q8NH43,OR4L1,GO:0005886,Olfactory receptor 4L1,protein,20130516
+14120,Q8NH42,OR4K13,GO:0005886,Olfactory receptor 4K13,protein,20130516
+14122,Q8NH41,OR4K15,GO:0005886,Olfactory receptor 4K15,protein,20130731
+14124,Q8NH40,OR6S1,GO:0005886,Olfactory receptor 6S1,protein,20130516
+14126,O75330,HMMR,GO:0005813,Hyaluronan mediated motility receptor,protein,20120912
+14136,Q8NGR9,OR1N2,GO:0005654,Olfactory receptor 1N2,protein,20201119
+14141,Q8NGR8,OR1L8,GO:0005886,Olfactory receptor 1L8,protein,20130528
+14143,Q8NGR6,OR1B1,GO:0005886,Olfactory receptor 1B1,protein,20130528
+14145,Q8NGR5,OR1L4,GO:0005886,Olfactory receptor 1L4,protein,20130528
+14147,Q8NGR4,OR5C1,GO:0005886,Olfactory receptor 5C1,protein,20130516
+14149,Q8NGR3,OR1K1,GO:0005886,Olfactory receptor 1K1,protein,20130528
+14151,Q8NGR2,OR1L6,GO:0005886,Olfactory receptor 1L6,protein,20130528
+14153,Q8NGR1,OR13A1,GO:0005886,Olfactory receptor 13A1,protein,20130731
+14155,Q8NGQ6,OR9I1,GO:0005886,Olfactory receptor 9I1,protein,20130528
+14157,Q8NGQ5,OR9Q1,GO:0005886,Olfactory receptor 9Q1,protein,20130528
+14159,Q8NGQ4,OR10Q1,GO:0005886,Olfactory receptor 10Q1,protein,20130528
+14161,Q8NGQ3,OR1S2,GO:0005886,Olfactory receptor 1S2,protein,20130528
+14163,Q8NGQ2,OR6Q1,GO:0005886,Olfactory receptor 6Q1,protein,20130516
+14165,Q8NH21,OR4F5,GO:0005886,Olfactory receptor 4F5,protein,20130528
+14167,O75311,GLRA3,GO:0005886,Glycine receptor subunit alpha-3,protein,20130516
+14177,Q8NH19,OR10AG1,GO:0005886,Olfactory receptor 10AG1,protein,20130528
+14179,Q8NH18,OR5J2,GO:0005886,Olfactory receptor 5J2,protein,20130516
+14181,Q8NH16,OR2L2,GO:0005886,Olfactory receptor 2L2,protein,20130516
+14183,Q8NGP4,OR5M3,GO:0005886,Olfactory receptor 5M3,protein,20130516
+14185,Q8NGP3,OR5M9,GO:0005886,Olfactory receptor 5M9,protein,20130516
+14187,Q8NGP2,OR8J1,GO:0005886,Olfactory receptor 8J1,protein,20130528
+14189,Q8NGP0,OR4C13,GO:0005886,Olfactory receptor 4C13,protein,20130516
+14191,Q9Y6C2,EMILIN1,GO:0034668,EMILIN-1,protein,20170117
+14192,Q8NH09,OR8S1,GO:0005886,Olfactory receptor 8S1,protein,20111111
+14195,Q8NH08,OR10AC1,GO:0005886,Olfactory receptor 10AC1,protein,20201128
+14197,Q8NH07,OR11H2,GO:0005886,Olfactory receptor 11H2,protein,20130528
+14199,Q8NH06,OR1P1,GO:0005886,Olfactory receptor 1P1,protein,20201128
+14201,Q8NH04,OR2T27,GO:0005886,Olfactory receptor 2T27,protein,20130516
+14203,Q8NH03,OR2T3,GO:0005886,Olfactory receptor 2T3,protein,20130528
+14205,Q8NH02,OR2T29,GO:0005886,Olfactory receptor 2T29,protein,20130528
+14207,Q8NH01,OR2T11,GO:0005886,Olfactory receptor 2T11,protein,20130516
+14209,Q8NH00,OR2T4,GO:0005886,Olfactory receptor 2T4,protein,20130731
+14211,Q8NGN8,OR4A4P,GO:0005886,Putative olfactory receptor 4A4,protein,20130528
+14213,Q8NGN7,OR10D4P,GO:0005886,Putative olfactory receptor 10D4,protein,20201128
+14215,Q8NGN6,OR10G7,GO:0005886,Olfactory receptor 10G7,protein,20130528
+14217,Q8NGN5,OR10G8,GO:0005886,Olfactory receptor 10G8,protein,20130528
+14219,Q8NGN4,OR10G9,GO:0005886,Olfactory receptor 10G9,protein,20130528
+14221,Q8NGN3,OR10G4,GO:0005886,Olfactory receptor 10G4,protein,20130528
+14223,Q8NGN2,OR10S1,GO:0005886,Olfactory receptor 10S1,protein,20130528
+14225,Q8NGN1,OR6T1,GO:0005886,Olfactory receptor 6T1,protein,20130516
+14229,Q8NGN0,OR4D5,GO:0005886,Olfactory receptor 4D5,protein,20130516
+14231,Q8NGM9,OR8D4,GO:0005886,Olfactory receptor 8D4,protein,20130516
+14233,Q8NGM8,OR6M1,GO:0005886,Olfactory receptor 6M1,protein,20130516
+14235,O43424,GRID2,GO:0005886,"Glutamate receptor ionotropic, delta-2",protein,20120314
+14245,Q8NGM1,OR4C15,GO:0005886,Olfactory receptor 4C15,protein,20130516
+14247,Q8NGL9,OR4C16,GO:0005886,Olfactory receptor 4C16,protein,20130516
+14249,Q9UMZ3,PTPRQ,GO:0016021,Phosphatidylinositol phosphatase PTPRQ,protein,20201128
+14251,Q96KK4,OR10C1,GO:0005886,Olfactory receptor 10C1,protein,20130528
+14253,Q9UMX6,GUCA1B,GO:0001917,Guanylyl cyclase-activating protein 2,protein,20200605
+14256,Q9NPR9,GPR108,GO:0016021,Protein GPR108,protein,20201128
+14259,P12318,FCGR2A,GO:0005794,Low affinity immunoglobulin gamma Fc region receptor II-a,protein,20190905
+14278,P12314,FCGR1A,GO:0005886,High affinity immunoglobulin gamma Fc receptor I,protein,20080926
+14303,P20333,TNFRSF1B,GO:0002947,Tumor necrosis factor receptor superfamily member 1B,protein,20180802
+14323,Q16849,PTPRN,GO:0005634,Receptor-type tyrosine-protein phosphatase-like N,protein,20160826
+14335,Q16832,DDR2,GO:0005886,Discoidin domain-containing receptor 2,protein,20171201
+14342,Q9P0L9,PKD2L1,GO:0043235,Polycystic kidney disease 2-like 1 protein,protein,20141103
+14343,Q16827,PTPRO,GO:0005886,Receptor-type tyrosine-protein phosphatase O,protein,20111216
+14357,Q16825,PTPN21,GO:0005856,Tyrosine-protein phosphatase non-receptor type 21,protein,20201128
+14359,P49788,RARRES1,GO:0016021,Retinoic acid receptor responder protein 1,protein,20201128
+14362,Q9NPJ4,PNRC2,GO:0000932,Proline-rich nuclear receptor coactivator 2,protein,20090422
+14369,P20393,NR1D1,GO:0000785,Nuclear receptor subfamily 1 group D member 1,protein,20190405
+14382,Q9UPX8,SHANK2,GO:0001750,SH3 and multiple ankyrin repeat domains protein 2,protein,20131017
+14386,O75197,LRP5,GO:0005783,Low-density lipoprotein receptor-related protein 5,protein,20201128
+14396,Q9UGF7,OR12D3,GO:0005886,Olfactory receptor 12D3,protein,20130528
+14398,Q6W5P4,NPSR1,GO:0005737,Neuropeptide S receptor,protein,20201128
+14407,P10912,GHR,GO:0005576,Growth hormone receptor,protein,20130528
+14437,O75161,NPHP4,GO:0120206,Nephrocystin-4,protein,20201128
+14438,Q8NET8,TRPV3,GO:0005886,Transient receptor potential cation channel subfamily V member 3,protein,20130516
+14441,Q8NER5,ACVR1C,GO:0005886,Activin receptor type-1C,protein,20130528
+14446,Q8NEQ6,SRARP,GO:0005634,Steroid receptor-associated and regulated protein,protein,20181109
+14450,Q9Y4D7,PLXND1,GO:0002116,Plexin-D1,protein,20170228
+14451,Q14833,GRM4,GO:0005886,Metabotropic glutamate receptor 4,protein,20130528
+14459,Q14832,GRM3,GO:0005886,Metabotropic glutamate receptor 3,protein,20130528
+14471,Q14831,GRM7,GO:0005886,Metabotropic glutamate receptor 7,protein,20130528
+14486,P20594,NPR2,GO:0005886,Atrial natriuretic peptide receptor 2,protein,20151109
+14491,P35916,FLT4,GO:0005576,Vascular endothelial growth factor receptor 3,protein,20201128
+14501,P35913,PDE6B,GO:0097381,"Rod cGMP-specific 3',5'-cyclic phosphodiesterase subunit beta",protein,20140926
+14504,Q9NP84,TNFRSF12A,GO:0005886,Tumor necrosis factor receptor superfamily member 12A,protein,20150219
+14511,Q96K49,TMEM87B,GO:0000139,Transmembrane protein 87B,protein,20201128
+14516,Q5QGT7,RTP2,GO:0005886,Receptor-transporting protein 2,protein,20201128
+14520,O95185,UNC5C,GO:0005886,Netrin receptor UNC5C,protein,20190111
+14529,O95166,GABARAP,GO:0000139,Gamma-aminobutyric acid receptor-associated protein,protein,20201128
+14557,O60602,TLR5,GO:0005886,Toll-like receptor 5,protein,20130213
+14573,O60603,TLR2,GO:0005737,Toll-like receptor 2,protein,20091112
+14611,O95153,TSPOAP1,GO:0005737,Peripheral-type benzodiazepine receptor-associated protein 1,protein,20010822
+14631,Q96G30,MRAP2,GO:0005783,Melanocortin-2 receptor accessory protein 2,protein,20100130
+14637,Q06141,REG3A,GO:0005576,Regenerating islet-derived protein 3-alpha,protein,20160715
+14643,Q06124,PTPN11,GO:0005634,Tyrosine-protein phosphatase non-receptor type 11,protein,20130305
+14717,P56373,P2RX3,GO:0043235,P2X purinoceptor 3,protein,20131230
+14718,O43614,HCRTR2,GO:0005886,Orexin receptor type 2,protein,20130528
+14725,O43613,HCRTR1,GO:0005886,Orexin receptor type 1,protein,20130528
+14732,Q5VV67,PPRC1,GO:0005654,Peroxisome proliferator-activated receptor gamma coactivator-related protein 1,protein,20110516
+14737,P59551,TAS2R60,GO:0005886,Taste receptor type 2 member 60,protein,20130528
+14743,P39086,GRIK1,GO:0005886,"Glutamate receptor ionotropic, kainate 1",protein,20130516
+14750,O43603,GALR2,GO:0005886,Galanin receptor type 2,protein,20081218
+14757,Q02643,GHRHR,GO:0005637,Growth hormone-releasing hormone receptor,protein,20081129
+14771,Q14028,CNGB1,GO:0001750,Cyclic nucleotide-gated cation channel beta-1,protein,20201128
+14772,A0A0B4J280,TRAV40,GO:0042101,T cell receptor alpha variable 40,protein,20201128
+14774,P40259,CD79B,GO:0005654,B-cell antigen receptor complex-associated protein beta chain,protein,20190905
+14790,A0A0B4J277,TRAV22,GO:0042101,T cell receptor alpha variable 22,protein,20201128
+14791,A0A0B4J275,TRAV17,GO:0042101,T cell receptor alpha variable 17,protein,20201128
+14792,A0A0B4J274,TRAV20,GO:0042101,T cell receptor alpha variable 20,protein,20201128
+14793,P35590,TIE1,GO:0043235,Tyrosine-protein kinase receptor Tie-1,protein,20200809
+14795,A0A0B4J1U6,TRBV9,GO:0042101,T cell receptor beta variable 9,protein,20201128
+14797,A0A0B4J1U4,TRGV5,GO:0042101,T cell receptor gamma variable 5,protein,20201128
+14799,V9GYV3,V9GYV3,GO:0019815,Uncharacterized protein (Fragment),protein,20180504
+14800,P40238,MPL,GO:0005794,Thrombopoietin receptor,protein,20150304
+14808,P35568,IRS1,GO:0005634,Insulin receptor substrate 1,protein,20051129
+14835,O00206,TLR4,GO:0001726,Toll-like receptor 4,protein,20201128
+14905,Q8N743,KIR3DL3,GO:0005886,Killer cell immunoglobulin-like receptor 3DL3,protein,20201128
+14907,P14778,IL1R1,GO:0005576,Interleukin-1 receptor type 1,protein,20201128
+14925,Q8N6P7,IL22RA1,GO:0005886,Interleukin-22 receptor subunit alpha-1,protein,20130516
+14942,Q495M9,USH1G,GO:0001917,Usher syndrome type-1G protein,protein,20201128
+14944,Q92637,FCGR1B,GO:0005886,High affinity immunoglobulin gamma Fc receptor IB,protein,20010920
+14952,P23470,PTPRG,GO:0005887,Receptor-type tyrosine-protein phosphatase gamma,protein,20030904
+14954,Q5T848,GPR158,GO:0005886,Probable G-protein coupled receptor 158,protein,20201128
+14956,P23469,PTPRE,GO:0005634,Receptor-type tyrosine-protein phosphatase epsilon,protein,20100428
+14960,P23468,PTPRD,GO:0005886,Receptor-type tyrosine-protein phosphatase delta,protein,20150916
+14973,CPX-2502,klrc1-klrd1_human,GO:0005886,CD94-NKG2A natural killer receptor complex,protein_complex,20200709
+14974,CPX-1134,abeta-42-oligomer_human,GO:0005635,Amyloid-beta protein 42 oligomeric complex,protein_complex,20170720
+14980,CPX-240,chrna7-beta2_human,GO:0098794,"Neuronal nicotinic acetylcholine receptor complex, alpha7-beta2",protein_complex,20201129
+14981,CPX-236,chrna7_human,GO:0098794,"Neuronal nicotinic acetylcholine receptor complex, alpha7",protein_complex,20201129
+14982,CPX-187,chrna3-chrna5-chrnb2_human,GO:0098794,"Neuronal nicotinic acetylcholine receptor complex, alpha3-alpha5-beta2",protein_complex,20201129
+14983,CPX-226,chrna9_human,GO:0098794,"Neuronal nicotinic acetylcholine receptor complex, alpha9",protein_complex,20201129
+14984,CPX-2193,chrna3-chrnb2_human,GO:0098794,"Neuronal nicotinic acetylcholine receptor complex, alpha3-beta2",protein_complex,20201129
+14985,CPX-2190,chrna2-chrnb4_human,GO:0098794,"Neuronal nicotinic acetylcholine receptor complex, alpha2-beta4",protein_complex,20201129
+14986,CPX-168,3xchrna4-2xchrnb2_human,GO:0098794,"Neuronal nicotinic acetylcholine receptor complex, 3xalpha4-2xbeta2",protein_complex,20201129
+14987,CPX-210,chrna3-chrna5-chrnb4_human,GO:0098794,"Neuronal nicotinic acetylcholine receptor complex, alpha3-alpha5-beta4",protein_complex,20201129
+14988,CPX-2180,2xchrna4-3xchrnb2_human,GO:0098794,"Neuronal nicotinic acetylcholine receptor complex, 2xalpha4-3xbeta2",protein_complex,20201129
+14989,CPX-2171,chrna9-chrna10_human,GO:0098794,"Neuronal nicotinic acetylcholine receptor complex, alpha9-alpha10",protein_complex,20201129
+14990,CPX-2170,chrna2-chrnb2_human,GO:0098794,"Neuronal nicotinic acetylcholine receptor complex, alpha2-beta2",protein_complex,20201129
+14991,CPX-5774,cubam_human,GO:0016020,Cubam cobalamin uptake receptor complex,protein_complex,20200709
+14993,CPX-2203,chrna4-chrnb4_human,GO:0098794,"Neuronal nicotinic acetylcholine receptor complex, alpha4-beta4",protein_complex,20201129
+14994,CPX-2200,chrna3-chrnb4_human,GO:0098794,"Neuronal nicotinic acetylcholine receptor complex, alpha3-beta4",protein_complex,20201129
+14995,Q8TCY5,MRAP,GO:0005783,Melanocortin-2 receptor accessory protein,protein,20201119
+15003,O00222,GRM8,GO:0005886,Metabotropic glutamate receptor 8,protein,20130528
+15008,O00220,TNFRSF10A,GO:0005794,Tumor necrosis factor receptor superfamily member 10A,protein,20200117
+15029,Q9HD15,SRA1,GO:0005634,Steroid receptor RNA activator 1,protein,20060404
+15046,P41594,GRM5,GO:0005737,Metabotropic glutamate receptor 5,protein,20201128
+15058,A0A0K2S4Q6,CD300H,GO:0005576,Protein CD300H,protein,20201128
+15061,P41587,VIPR2,GO:0005886,Vasoactive intestinal polypeptide receptor 2,protein,20130528
+15067,P41586,ADCYAP1R1,GO:0005886,Pituitary adenylate cyclase-activating polypeptide type I receptor,protein,20130528
+15076,Q6PRD1,GPR179,GO:0005886,Probable G-protein coupled receptor 179,protein,20201128

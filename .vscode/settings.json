@@ -1,0 +1,5 @@
+{
+    "jupyter.notebookFileRoot": "${workspaceFolder}",
+    "jupyter.alwaysScrollOnNewCell": true,
+    "python.formatting.provider": "black",
+}
