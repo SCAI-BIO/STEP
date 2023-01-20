@@ -1,6 +1,6 @@
 import os
 import socket
-from src.utils.SortingHelpFormatter import SortingHelpFormatter
+from utils.SortingHelpFormatter import SortingHelpFormatter
 import sys
 from argparse import ArgumentParser
 from collections import OrderedDict
@@ -14,25 +14,25 @@ from torch.functional import Tensor
 import torch.nn as nn
 
 from mlflow.tracking import MlflowClient
-from pytorch_lightning.core.memory import ModelSummary
+from pytorch_lightning.utilities.model_summary import ModelSummary
+from pytorch_lightning.utilities.enums import ModelSummaryMode
 from test_tube.argparse_hopt import TTNamespace
 from torch import optim
 from torch.optim.lr_scheduler import LambdaLR
 from torch.utils.data import DataLoader, RandomSampler
-from torchmetrics import (AUROC, F1, ROC, Accuracy, AveragePrecision,
-                          MatthewsCorrcoef, Precision, PrecisionRecallCurve,
+from torchmetrics import (AUROC, F1Score, ROC, Accuracy, AveragePrecision,
+                          MatthewsCorrCoef, Precision, PrecisionRecallCurve,
                           Recall, ConfusionMatrix)
 from torchmetrics.collections import MetricCollection
-from torchnlp.datasets.dataset import Dataset
 from torchnlp.encoders import LabelEncoder
 from torchnlp.utils import collate_tensors
-from transformers import BertModel, BertTokenizer
+from transformers import BertModel, BertTokenizer, BertConfig
 from transformers.tokenization_utils_base import BatchEncoding
 from transformers.file_utils import TensorType
 
-from src import settings
-from src.data.PPIDataset import PPIDataset
-from src.utils.ProtBertPPIArgParser import ProtBertPPIArgParser
+import settings
+from data.PPIDataset import PPIDataset, Dataset
+from utils.ProtBertPPIArgParser import ProtBertPPIArgParser
 
 class ProtBertPPIModel(pl.LightningModule):
     """
@@ -96,23 +96,23 @@ class ProtBertPPIModel(pl.LightningModule):
             Accuracy(), 
             Precision(), 
             Recall(), 
-            F1(),
+            F1Score(),
             AveragePrecision(pos_label=1),
             AUROC(pos_label=1),
-            MatthewsCorrcoef(num_classes=2),
+            MatthewsCorrCoef(num_classes=2),
         ], prefix='train_')
 
         self.valid_metrics = MetricCollection([
             Accuracy(), 
             Precision(), 
             Recall(), 
-            F1(),
+            F1Score(),
             AveragePrecision(pos_label=1),
             ConfusionMatrix(num_classes=2,),
             PrecisionRecallCurve(pos_label=1),
             AUROC(pos_label=1,average=None),
             ROC(pos_label=1),
-            MatthewsCorrcoef(num_classes=2),
+            MatthewsCorrCoef(num_classes=2),
         ], prefix='val_')
 
         self.test_metrics = self.valid_metrics.clone(prefix="test_")
@@ -131,7 +131,10 @@ class ProtBertPPIModel(pl.LightningModule):
 
     def __build_model(self) -> None:
         """ Init BERT model + tokenizer + classification head."""
-        self.ProtBertBFD = BertModel.from_pretrained(self.model_name, gradient_checkpointing=self.hparams.gradient_checkpointing)
+        
+        config = BertConfig.from_pretrained(self.model_name)
+        config.gradient_checkpointing = True
+        self.ProtBertBFD = BertModel.from_pretrained(self.model_name, config=config)
         self.encoder_features = 1024
 
         # Tokenizer
@@ -304,7 +307,7 @@ class ProtBertPPIModel(pl.LightningModule):
             self.mlflow : MlflowClient = self.logger.experiment
         
             # Save model description to mlflow artifacts
-            self.mlflow.log_text(self.logger.run_id, str(ModelSummary(self, mode=ModelSummary.MODE_FULL)), "./model/model_summary.txt")
+            # self.mlflow.log_text(self.logger.run_id, str(ModelSummary(self, mode=ModelSummaryMode.FULL)), "./model/model_summary.txt")
             self.mlflow.log_text(self.logger.run_id, str(self), "./model/model_summary_with_params.txt")
             self.local_logger.info("Training started, check out run: %s", settings.MLFLOW_TRACKING_URI + "/#/experiments/" + self.logger.experiment_id + "/runs/" + self.logger.run_id)
 

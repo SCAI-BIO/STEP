@@ -6,9 +6,9 @@ from pytorch_lightning import Trainer, seed_everything
 from pytorch_lightning.callbacks import (EarlyStopping, LearningRateMonitor)
 from test_tube.argparse_hopt import TTNamespace
 
-from src import npe_ppi_logger, settings
-from src.utils.ProtBertPPIArgParser import ProtBertPPIArgParser
-from src.modeling.ProtBertPPIModel import ProtBertPPIModel
+import npe_ppi_logger, settings
+from utils.ProtBertPPIArgParser import ProtBertPPIArgParser
+from modeling.ProtBertPPIModel import ProtBertPPIModel
 
 # %% Set environment variables
 # works on mac only with this:.
@@ -101,11 +101,16 @@ def generate_parser():
 
     # Hack: set default options from outside
     # TODO: probably better to inherit the trainer class and set the defaults there, if that works
-    idx = [a.dest for a in parser._actions].index('gpus')
+    idx = [a.dest for a in parser._actions].index('devices')
     parser._actions[idx].default = None
     idx = [a.dest for a in parser._actions].index('checkpoint_callback')
     parser._actions[idx].default = False
     idx = [a.dest for a in parser._actions].index('accelerator')
+    parser._actions[idx].default = "gpu"
+    # from pytorch_lightning.strategies import DDPStrategy
+    # ddp = DDPStrategy(process_group_backend="nccl")
+    # # strategy=ddp
+    idx = [a.dest for a in parser._actions].index('strategy')
     parser._actions[idx].default = "ddp"
 
     idx = [a.dest for a in parser._actions].index('limit_train_batches')
