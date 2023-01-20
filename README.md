@@ -36,5 +36,6 @@ python src/ppi_finetuning.py --help
 python src/ppi_finetuning.py --accelerator gpu --devices 2 --num_sanity_val_steps 0
 ```
 
-## Manuscript
-Madan, Sumit, Victoria Demina, Marcus Stapf, Oliver Ernst, and Holger Fröhlich. 2022. “Accurate Prediction of Virus-Host Protein-Protein Interactions via a Siamese Neural Network Using Deep Protein Sequence Embeddings.” Patterns 0 (0). https://doi.org/10.1016/j.patter.2022.100551.
+## Manuscript to cite 
+Madan, Sumit, Victoria Demina, Marcus Stapf, Oliver Ernst, and Holger Fröhlich. 2022. “Accurate Prediction of Virus-Host Protein-Protein Interactions via a Siamese Neural Network Using Deep Protein Sequence Embeddings.” Patterns 3 (9): 100551. https://doi.org/10.1016/j.patter.2022.100551.
+
