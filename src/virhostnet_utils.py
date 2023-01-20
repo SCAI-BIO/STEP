@@ -4,7 +4,7 @@ import copy
 from mlflow.tracking.client import MlflowClient
 from optuna import Study
 import optuna
-from src import settings
+import settings
 
 def getXrefByDatabase(line, database):
     fields = line.split('|')

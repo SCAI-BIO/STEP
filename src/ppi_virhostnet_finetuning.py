@@ -2,7 +2,7 @@
 from argparse import ArgumentParser
 from pytorch_lightning import Trainer
 from torch.utils.data.dataloader import DataLoader
-from src.modeling.ProtBertPPIModel import ProtBertPPIModel
+from modeling.ProtBertPPIModel import ProtBertPPIModel
 from typing import List
 import pandas as pd
 from pandas.core.frame import DataFrame
@@ -10,9 +10,9 @@ from transformers import BertTokenizer
 from pytorch_lightning import Trainer, seed_everything
 
 
-from src import settings
-from src import npe_ppi_logger
-from src.data.VirHostNetDataset import VirHostNetData
+import settings
+import npe_ppi_logger
+from data.VirHostNetDataset import VirHostNetData
 
 logger = npe_ppi_logger.get_custom_logger(name=__name__)
 

@@ -1,5 +1,5 @@
 import logging
-from src import settings
+import settings
 from mlflow.projects import utils
 from mlflow.tracking.context import registry
 from mlflow.utils.mlflow_tags import (MLFLOW_GIT_COMMIT, MLFLOW_PARENT_RUN_ID,
