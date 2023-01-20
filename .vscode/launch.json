@@ -1,0 +1,29 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: ppi_finetuning",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/src/ppi_finetuning.py",
+            "console": "integratedTerminal",
+            "justMyCode": false,
+            "args": [
+                // "--help"
+                "--accelerator", "gpu",
+                "--devices", "1", 
+                // "--devices", "2", // for 2 gpus
+                "--num_sanity_val_steps", "0",
+                // "--limit_train_batches", "2",
+                // "--limit_val_batches", "2",
+            ],
+            "env": {
+                "CUDA_VISIBLE_DEVICES": "0"
+                // "CUDA_VISIBLE_DEVICES": "0,1" // for 2 gpus
+            }
+        }
+    ]
+}
